@@ -12,9 +12,10 @@ import os
 import time
 import re
 import nltk
+import glob
 
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 sno = nltk.stem.SnowballStemmer('english') 
@@ -178,7 +179,7 @@ def tfidf_aggolomative_clustering(df):
           "The average silhouette_score is :", silhouette_avg)
     NMI(pred_values)
     show_labels(agg.labels_)
-    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
+    generate_wordcloud(10, pubmed_cl, df['CleanedText'])
     cluster_labels = agg.fit_predict(tfDTM)
     
     # The silhouette_score gives the average value for all the samples.
@@ -187,6 +188,22 @@ def tfidf_aggolomative_clustering(df):
     #return agg.labels_
 
 def generate_wordcloud(cluster_size, temp_df, cleanText):
+    dict_names = {
+    0 : "chemoinformatics",
+    1 : "drugs for cancer",
+    2 : "drugs for covid",
+    3 : "food drug interaction",
+    4 : "gene expression",
+    5 : "personaliz",
+    6 : "rna sequencing",
+    7 : "text mining",
+    8 : "toxicogenomics"
+    }
+    # files = glob.glob(r"./logs/wordcloud/")
+
+    for _,_,file in os.walk(r"./logs/wordcloud/"):
+        for f in file:
+            os.remove(r"./logs/wordcloud/"+f)
     result={'cluster':temp_df['cluster'],'CleanedText': list(cleanText)}
     res=pd.DataFrame(result)
     for k in range(0,cluster_size):
@@ -195,14 +212,14 @@ def generate_wordcloud(cluster_size, temp_df, cleanText):
        text=text.lower()
        text=' '.join([word for word in text.split()])
        wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(text)
-       print('Cluster: {}'.format(k))
+       #print('Cluster: {}'.format(k))
        #print('Titles')
        titles=temp_df[temp_df.cluster==k]['title']         
-       print(titles.to_string(index=False))
+       #print(titles.to_string(index=False))
        plt.figure()
        plt.imshow(wordcloud, interpolation="bilinear")
        plt.axis("off")
-       plt.show()
+       plt.savefig("./logs/wordcloud/cloud_"+str(k)+".png")
 
 def show_labels(str1):
     j=0
@@ -212,10 +229,7 @@ def show_labels(str1):
 #uncomment below line for reading trec data
 #df = read_trec(input_TREC)
 
-#df_pubmed = create_corpus(input_pubmed)
-#df_pubmed = apend_clean_text(df_pubmed)
-#tfidf_aggolomative_clustering(df_pubmed)
-#tfidf_kmeans(df_pubmed)
+
 
 def trec_tfidf_aggolomative_clustering(df):
     cv=CountVectorizer(max_features=(100)).fit(df['CleanedText'])
@@ -256,10 +270,22 @@ def trec_tfidf_aggolomative_clustering(df):
 #plt.show()
     
 # find ways to display cluster and find evalution matrix for trec
-df_trec = read_trec(input_TREC)
-df_trec = apend_clean_text(df_trec)
-trec_tfidf_aggolomative_clustering(df_trec)
+#uncomment below line for TREC
+# df_trec = read_trec(input_TREC)
+# df_trec = apend_clean_text(df_trec)
+# trec_tfidf_aggolomative_clustering(df_trec)
+
+
+
+#to be done from here
 #tfidf_kmeans(df_trec)
 
 #probability scores, disct frm centriud, quantifcatin, relevance, distance between centroid, fartyehrs cluster, scores from 
 #kmeans++ , explainpaper.com, plotly 
+
+
+#uncomment below line for ubmed dataset
+df_pubmed = create_corpus(input_pubmed)
+df_pubmed = apend_clean_text(df_pubmed)
+tfidf_aggolomative_clustering(df_pubmed)
+tfidf_kmeans(df_pubmed)
