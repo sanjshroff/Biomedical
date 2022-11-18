@@ -1,0 +1,835 @@
+PMID- 31341269
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200303
+LR  - 20200723
+IS  - 1471-0064 (Electronic)
+IS  - 1471-0056 (Linking)
+VI  - 20
+IP  - 11
+DP  - 2019 Nov
+TI  - RNA sequencing: the teenage years.
+PG  - 631-656
+LID - 10.1038/s41576-019-0150-2 [doi]
+AB  - Over the past decade, RNA sequencing (RNA-seq) has become an indispensable tool 
+      for transcriptome-wide analysis of differential gene expression and differential 
+      splicing of mRNAs. However, as next-generation sequencing technologies have 
+      developed, so too has RNA-seq. Now, RNA-seq methods are available for studying 
+      many different aspects of RNA biology, including single-cell gene expression, 
+      translation (the translatome) and RNA structure (the structurome). Exciting new 
+      applications are being explored, such as spatial transcriptomics (spatialomics). 
+      Together with new long-read and direct RNA-seq technologies and better 
+      computational tools for data analysis, innovations in RNA-seq are contributing to 
+      a fuller understanding of RNA biology, from questions such as when and where 
+      transcription occurs to the folding and intermolecular interactions that govern 
+      RNA function.
+FAU - Stark, Rory
+AU  - Stark R
+AUID- ORCID: 0000-0002-1790-5469
+AD  - Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing 
+      Centre, Cambridge, UK.
+FAU - Grzelak, Marta
+AU  - Grzelak M
+AUID- ORCID: 0000-0002-2653-2895
+AD  - Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing 
+      Centre, Cambridge, UK.
+FAU - Hadfield, James
+AU  - Hadfield J
+AUID- ORCID: 0000-0001-9868-4989
+AD  - Precision Medicine, Oncology R&D, AstraZeneca, Cambridge, UK. 
+      James.hadfield@astrazeneca.com.
+LA  - eng
+PT  - Historical Article
+PT  - Journal Article
+PT  - Review
+DEP - 20190724
+PL  - England
+TA  - Nat Rev Genet
+JT  - Nature reviews. Genetics
+JID - 100962779
+RN  - 0 (RNA, Messenger)
+SB  - IM
+MH  - *Alternative Splicing
+MH  - Gene Expression Profiling/*history
+MH  - High-Throughput Nucleotide Sequencing/*history
+MH  - History, 21st Century
+MH  - Humans
+MH  - RNA, Messenger/*biosynthesis/*genetics/history
+MH  - Sequence Analysis, RNA/*history
+EDAT- 2019/07/26 06:00
+MHDA- 2020/03/04 06:00
+CRDT- 2019/07/26 06:00
+PHST- 2019/06/18 00:00 [accepted]
+PHST- 2019/07/26 06:00 [pubmed]
+PHST- 2020/03/04 06:00 [medline]
+PHST- 2019/07/26 06:00 [entrez]
+AID - 10.1038/s41576-019-0150-2 [pii]
+AID - 10.1038/s41576-019-0150-2 [doi]
+PST - ppublish
+SO  - Nat Rev Genet. 2019 Nov;20(11):631-656. doi: 10.1038/s41576-019-0150-2. Epub 2019 
+      Jul 24.
+
+PMID- 30089861
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190517
+LR  - 20220409
+IS  - 2092-6413 (Electronic)
+IS  - 1226-3613 (Print)
+IS  - 1226-3613 (Linking)
+VI  - 50
+IP  - 8
+DP  - 2018 Aug 7
+TI  - Single-cell RNA sequencing technologies and bioinformatics pipelines.
+PG  - 1-14
+LID - 10.1038/s12276-018-0071-8 [doi]
+LID - 96
+AB  - Rapid progress in the development of next-generation sequencing (NGS) 
+      technologies in recent years has provided many valuable insights into complex 
+      biological systems, ranging from cancer genomics to diverse microbial 
+      communities. NGS-based technologies for genomics, transcriptomics, and 
+      epigenomics are now increasingly focused on the characterization of individual 
+      cells. These single-cell analyses will allow researchers to uncover new and 
+      potentially unexpected biological discoveries relative to traditional profiling 
+      methods that assess bulk populations. Single-cell RNA sequencing (scRNA-seq), for 
+      example, can reveal complex and rare cell populations, uncover regulatory 
+      relationships between genes, and track the trajectories of distinct cell lineages 
+      in development. In this review, we will focus on technical challenges in 
+      single-cell isolation and library preparation and on computational analysis 
+      pipelines available for analyzing scRNA-seq data. Further technical improvements 
+      at the level of molecular and cell biology and in available bioinformatics tools 
+      will greatly facilitate both the basic science and medical applications of these 
+      sequencing technologies.
+FAU - Hwang, Byungjin
+AU  - Hwang B
+AD  - Department of Chemistry, Yonsei University, Seoul, Korea.
+FAU - Lee, Ji Hyun
+AU  - Lee JH
+AD  - Department of Clinical Pharmacology and Therapeutics, College of Medicine, Kyung 
+      Hee University, Seoul, Korea. hyunihyuni@khu.ac.kr.
+AD  - Kyung Hee Medical Science Research Institute, Kyung Hee University, Seoul, Korea. 
+      hyunihyuni@khu.ac.kr.
+FAU - Bang, Duhee
+AU  - Bang D
+AD  - Department of Chemistry, Yonsei University, Seoul, Korea. duheebang@yonsei.ac.kr.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180807
+TA  - Exp Mol Med
+JT  - Experimental & molecular medicine
+JID - 9607880
+SB  - IM
+EIN - Exp Mol Med. 2021 May;53(5):1005. PMID: 34045654
+MH  - Animals
+MH  - Cell Separation
+MH  - *Computational Biology
+MH  - Gene Library
+MH  - Gene Regulatory Networks
+MH  - Humans
+MH  - Sequence Analysis, RNA/*methods
+MH  - Single-Cell Analysis/*methods
+PMC - PMC6082860
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2018/08/10 06:00
+MHDA- 2019/05/18 06:00
+CRDT- 2018/08/10 06:00
+PHST- 2017/11/13 00:00 [received]
+PHST- 2017/12/13 00:00 [accepted]
+PHST- 2018/08/10 06:00 [entrez]
+PHST- 2018/08/10 06:00 [pubmed]
+PHST- 2019/05/18 06:00 [medline]
+AID - 10.1038/s12276-018-0071-8 [pii]
+AID - 71 [pii]
+AID - 10.1038/s12276-018-0071-8 [doi]
+PST - epublish
+SO  - Exp Mol Med. 2018 Aug 7;50(8):1-14. doi: 10.1038/s12276-018-0071-8.
+
+PMID- 28212749
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170905
+LR  - 20220318
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+VI  - 65
+IP  - 4
+DP  - 2017 Feb 16
+TI  - Comparative Analysis of Single-Cell RNA Sequencing Methods.
+PG  - 631-643.e4
+LID - S1097-2765(17)30049-7 [pii]
+LID - 10.1016/j.molcel.2017.01.023 [doi]
+AB  - Single-cell RNA sequencing (scRNA-seq) offers new possibilities to address 
+      biological and medical questions. However, systematic comparisons of the 
+      performance of diverse scRNA-seq protocols are lacking. We generated data from 
+      583 mouse embryonic stem cells to evaluate six prominent scRNA-seq methods: 
+      CEL-seq2, Drop-seq, MARS-seq, SCRB-seq, Smart-seq, and Smart-seq2. While 
+      Smart-seq2 detected the most genes per cell and across cells, CEL-seq2, Drop-seq, 
+      MARS-seq, and SCRB-seq quantified mRNA levels with less amplification noise due 
+      to the use of unique molecular identifiers (UMIs). Power simulations at different 
+      sequencing depths showed that Drop-seq is more cost-efficient for transcriptome 
+      quantification of large numbers of cells, while MARS-seq, SCRB-seq, and 
+      Smart-seq2 are more efficient when analyzing fewer cells. Our quantitative 
+      comparison offers the basis for an informed choice among six prominent scRNA-seq 
+      methods, and it provides a framework for benchmarking further improvements of 
+      scRNA-seq protocols.
+CI  - Copyright © 2017 Elsevier Inc. All rights reserved.
+FAU - Ziegenhain, Christoph
+AU  - Ziegenhain C
+AD  - Anthropology & Human Genomics, Department of Biology II, Ludwig-Maximilians 
+      University, Großhaderner Straße 2, 82152 Martinsried, Germany.
+FAU - Vieth, Beate
+AU  - Vieth B
+AD  - Anthropology & Human Genomics, Department of Biology II, Ludwig-Maximilians 
+      University, Großhaderner Straße 2, 82152 Martinsried, Germany.
+FAU - Parekh, Swati
+AU  - Parekh S
+AD  - Anthropology & Human Genomics, Department of Biology II, Ludwig-Maximilians 
+      University, Großhaderner Straße 2, 82152 Martinsried, Germany.
+FAU - Reinius, Björn
+AU  - Reinius B
+AD  - Ludwig Institute for Cancer Research, Box 240, 171 77 Stockholm, Sweden; 
+      Department of Cell and Molecular Biology, Karolinska Institutet, 171 77 
+      Stockholm, Sweden.
+FAU - Guillaumet-Adkins, Amy
+AU  - Guillaumet-Adkins A
+AD  - CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science and 
+      Technology (BIST), 08028 Barcelona, Spain; Universitat Pompeu Fabra (UPF), 08002 
+      Barcelona, Spain.
+FAU - Smets, Martha
+AU  - Smets M
+AD  - Department of Biology II and Center for Integrated Protein Science Munich 
+      (CIPSM), Ludwig-Maximilians University, Großhaderner Straße 2, 82152 Martinsried, 
+      Germany.
+FAU - Leonhardt, Heinrich
+AU  - Leonhardt H
+AD  - Department of Biology II and Center for Integrated Protein Science Munich 
+      (CIPSM), Ludwig-Maximilians University, Großhaderner Straße 2, 82152 Martinsried, 
+      Germany.
+FAU - Heyn, Holger
+AU  - Heyn H
+AD  - CNAG-CRG, Centre for Genomic Regulation (CRG), Barcelona Institute of Science and 
+      Technology (BIST), 08028 Barcelona, Spain; Universitat Pompeu Fabra (UPF), 08002 
+      Barcelona, Spain.
+FAU - Hellmann, Ines
+AU  - Hellmann I
+AD  - Anthropology & Human Genomics, Department of Biology II, Ludwig-Maximilians 
+      University, Großhaderner Straße 2, 82152 Martinsried, Germany.
+FAU - Enard, Wolfgang
+AU  - Enard W
+AD  - Anthropology & Human Genomics, Department of Biology II, Ludwig-Maximilians 
+      University, Großhaderner Straße 2, 82152 Martinsried, Germany. Electronic 
+      address: enard@bio.lmu.de.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Cell Line
+MH  - Computer Simulation
+MH  - Cost-Benefit Analysis
+MH  - Embryonic Stem Cells/*chemistry
+MH  - *High-Throughput Nucleotide Sequencing/economics
+MH  - Mice
+MH  - Models, Economic
+MH  - RNA/*genetics/isolation & purification
+MH  - Sequence Analysis, RNA/economics/*methods
+MH  - Single-Cell Analysis/economics/*methods
+OTO - NOTNLM
+OT  - cost-effectiveness
+OT  - method comparison
+OT  - power analysis
+OT  - simulation
+OT  - single-cell RNA-seq
+OT  - transcriptomics
+EDAT- 2017/02/19 06:00
+MHDA- 2017/09/07 06:00
+CRDT- 2017/02/19 06:00
+PHST- 2016/08/08 00:00 [received]
+PHST- 2016/12/01 00:00 [revised]
+PHST- 2017/01/17 00:00 [accepted]
+PHST- 2017/02/19 06:00 [entrez]
+PHST- 2017/02/19 06:00 [pubmed]
+PHST- 2017/09/07 06:00 [medline]
+AID - S1097-2765(17)30049-7 [pii]
+AID - 10.1016/j.molcel.2017.01.023 [doi]
+PST - ppublish
+SO  - Mol Cell. 2017 Feb 16;65(4):631-643.e4. doi: 10.1016/j.molcel.2017.01.023.
+
+PMID- 33276803
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210607
+LR  - 20210607
+IS  - 1756-8722 (Electronic)
+IS  - 1756-8722 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2020 Dec 4
+TI  - RNA sequencing: new technologies and applications in cancer research.
+PG  - 166
+LID - 10.1186/s13045-020-01005-x [doi]
+LID - 166
+AB  - Over the past few decades, RNA sequencing has significantly progressed, becoming 
+      a paramount approach for transcriptome profiling. The revolution from bulk RNA 
+      sequencing to single-molecular, single-cell and spatial transcriptome approaches 
+      has enabled increasingly accurate, individual cell resolution incorporated with 
+      spatial information. Cancer, a major malignant and heterogeneous lethal disease, 
+      remains an enormous challenge in medical research and clinical treatment. As a 
+      vital tool, RNA sequencing has been utilized in many aspects of cancer research 
+      and therapy, including biomarker discovery and characterization of cancer 
+      heterogeneity and evolution, drug resistance, cancer immune microenvironment and 
+      immunotherapy, cancer neoantigens and so on. In this review, the latest studies 
+      on RNA sequencing technology and their applications in cancer are summarized, and 
+      future challenges and opportunities for RNA sequencing technology in cancer 
+      applications are discussed.
+FAU - Hong, Mingye
+AU  - Hong M
+AD  - Institute of Laboratory Medicine, Guangdong Provincial Key Laboratory of Medical 
+      Molecular Diagnostics, School of Medical Technology, Guangdong Medical 
+      University, Dongguan, 523808, China.
+FAU - Tao, Shuang
+AU  - Tao S
+AD  - Biotherapy Center, The Third Affiliated Hospital of Sun Yat-Sen University, 
+      Guangzhou, 510630, China.
+FAU - Zhang, Ling
+AU  - Zhang L
+AD  - Health Science Center, The University of Texas, Houston, 77030, USA.
+FAU - Diao, Li-Ting
+AU  - Diao LT
+AD  - Biotherapy Center, The Third Affiliated Hospital of Sun Yat-Sen University, 
+      Guangzhou, 510630, China.
+FAU - Huang, Xuanmei
+AU  - Huang X
+AD  - Institute of Laboratory Medicine, Guangdong Provincial Key Laboratory of Medical 
+      Molecular Diagnostics, School of Medical Technology, Guangdong Medical 
+      University, Dongguan, 523808, China.
+FAU - Huang, Shaohui
+AU  - Huang S
+AD  - Institute of Laboratory Medicine, Guangdong Provincial Key Laboratory of Medical 
+      Molecular Diagnostics, School of Medical Technology, Guangdong Medical 
+      University, Dongguan, 523808, China.
+FAU - Xie, Shu-Juan
+AU  - Xie SJ
+AD  - Biotherapy Center, The Third Affiliated Hospital of Sun Yat-Sen University, 
+      Guangzhou, 510630, China.
+FAU - Xiao, Zhen-Dong
+AU  - Xiao ZD
+AD  - Biotherapy Center, The Third Affiliated Hospital of Sun Yat-Sen University, 
+      Guangzhou, 510630, China. xiaozhd@mail2.sysu.edu.cn.
+FAU - Zhang, Hua
+AU  - Zhang H
+AUID- ORCID: 0000-0001-9731-2737
+AD  - Institute of Laboratory Medicine, Guangdong Provincial Key Laboratory of Medical 
+      Molecular Diagnostics, School of Medical Technology, Guangdong Medical 
+      University, Dongguan, 523808, China. huazhang@gdmu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20201204
+TA  - J Hematol Oncol
+JT  - Journal of hematology & oncology
+JID - 101468937
+RN  - 0 (Biomarkers, Tumor)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers, Tumor/genetics
+MH  - Gene Expression Profiling/methods
+MH  - Genomics/methods
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Humans
+MH  - Neoplasms/*genetics/therapy
+MH  - RNA/*genetics
+MH  - Sequence Analysis, RNA/*methods
+MH  - Transcriptome
+MH  - Tumor Microenvironment
+PMC - PMC7716291
+OTO - NOTNLM
+OT  - Application
+OT  - Cancer
+OT  - RNA sequencing
+COIS- The authors declare that they have no competing interests.
+EDAT- 2020/12/06 06:00
+MHDA- 2021/06/08 06:00
+CRDT- 2020/12/05 05:20
+PHST- 2020/10/31 00:00 [received]
+PHST- 2020/11/22 00:00 [accepted]
+PHST- 2020/12/05 05:20 [entrez]
+PHST- 2020/12/06 06:00 [pubmed]
+PHST- 2021/06/08 06:00 [medline]
+AID - 10.1186/s13045-020-01005-x [pii]
+AID - 1005 [pii]
+AID - 10.1186/s13045-020-01005-x [doi]
+PST - epublish
+SO  - J Hematol Oncol. 2020 Dec 4;13(1):166. doi: 10.1186/s13045-020-01005-x.
+
+PMID- 28754496
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190204
+LR  - 20190215
+IS  - 1872-9452 (Electronic)
+IS  - 0098-2997 (Linking)
+VI  - 59
+DP  - 2018 Feb
+TI  - Single-cell RNA sequencing: Technical advancements and biological applications.
+PG  - 36-46
+LID - S0098-2997(17)30053-5 [pii]
+LID - 10.1016/j.mam.2017.07.003 [doi]
+AB  - Cells are the basic building blocks of organisms and each cell is unique. 
+      Single-cell RNA sequencing has emerged as an indispensable tool to dissect the 
+      cellular heterogeneity and decompose tissues into cell types and/or cell states, 
+      which offers enormous potential for de novo discovery. Single-cell transcriptomic 
+      atlases provide unprecedented resolution to reveal complex cellular events and 
+      deepen our understanding of biological systems. In this review, we summarize and 
+      compare single-cell RNA sequencing technologies, that were developed since 2009, 
+      to facilitate a well-informed choice of method. The applications of these methods 
+      in different biological contexts are also discussed. We anticipate an 
+      ever-increasing role of single-cell RNA sequencing in biology with further 
+      improvement in providing spatial information and coupling to other cellular 
+      modalities. In the future, such biological findings will greatly benefit medical 
+      research.
+CI  - Copyright © 2017 Elsevier Ltd. All rights reserved.
+FAU - Hedlund, Eva
+AU  - Hedlund E
+AD  - Department of Neuroscience, Karolinska Institutet, 171 77 Stockholm, Sweden.
+FAU - Deng, Qiaolin
+AU  - Deng Q
+AD  - Department of Cell and Molecular Biology, Karolinska Institutet, 171 77 
+      Stockholm, Sweden. Electronic address: qiaolin.deng@ki.se.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20170801
+PL  - England
+TA  - Mol Aspects Med
+JT  - Molecular aspects of medicine
+JID - 7603128
+SB  - IM
+MH  - Sequence Analysis, DNA/methods
+MH  - Sequence Analysis, RNA/*methods
+MH  - Single-Cell Analysis/methods
+EDAT- 2017/07/30 06:00
+MHDA- 2019/02/05 06:00
+CRDT- 2017/07/30 06:00
+PHST- 2017/05/19 00:00 [received]
+PHST- 2017/07/19 00:00 [revised]
+PHST- 2017/07/24 00:00 [accepted]
+PHST- 2017/07/30 06:00 [pubmed]
+PHST- 2019/02/05 06:00 [medline]
+PHST- 2017/07/30 06:00 [entrez]
+AID - S0098-2997(17)30053-5 [pii]
+AID - 10.1016/j.mam.2017.07.003 [doi]
+PST - ppublish
+SO  - Mol Aspects Med. 2018 Feb;59:36-46. doi: 10.1016/j.mam.2017.07.003. Epub 2017 Aug 
+      1.
+
+PMID- 33172208
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210317
+LR  - 20210317
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 21
+DP  - 2020 Nov 6
+TI  - Review of Single-Cell RNA Sequencing in the Heart.
+LID - 10.3390/ijms21218345 [doi]
+LID - 8345
+AB  - Single-cell RNA sequencing (scRNA-seq) technology is a powerful, rapidly 
+      developing tool for characterizing individual cells and elucidating biological 
+      mechanisms at the cellular level. Cardiovascular disease is one of the major 
+      causes of death worldwide and its precise pathology remains unclear. scRNA-seq 
+      has provided many novel insights into both healthy and pathological hearts. In 
+      this review, we summarize the various scRNA-seq platforms and describe the 
+      molecular mechanisms of cardiovascular development and disease revealed by 
+      scRNA-seq analysis. We then describe the latest technological advances in 
+      scRNA-seq. Finally, we discuss how to translate basic research into clinical 
+      medicine using scRNA-seq technology.
+FAU - Yamada, Shintaro
+AU  - Yamada S
+AUID- ORCID: 0000-0002-3240-358X
+AD  - Department of Cardiovascular Medicine, Graduate School of Medicine, The 
+      University of Tokyo, Tokyo 113-8654, Japan.
+FAU - Nomura, Seitaro
+AU  - Nomura S
+AUID- ORCID: 0000-0002-2957-2016
+AD  - Department of Cardiovascular Medicine, Graduate School of Medicine, The 
+      University of Tokyo, Tokyo 113-8654, Japan.
+LA  - eng
+GR  - JP20gm0810013, JP20ek0109440, JP20ek0109487, JP20ek0109406, JP20km0405209, 
+      JP20bm0704026, JP20gm6210010, JP20ek0210141, JP19bm0804010/Japan Agency for 
+      Medical Research and Development/
+PT  - Journal Article
+PT  - Review
+DEP - 20201106
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+MH  - Base Sequence/genetics
+MH  - Cluster Analysis
+MH  - Gene Expression Profiling/methods
+MH  - Heart/*physiology
+MH  - High-Throughput Nucleotide Sequencing/methods
+MH  - Humans
+MH  - Myocardium/*metabolism
+MH  - Sequence Analysis, RNA/methods/*trends
+MH  - Single-Cell Analysis/methods/trends
+MH  - Software
+MH  - Whole Exome Sequencing/methods
+PMC - PMC7664385
+OTO - NOTNLM
+OT  - cardiomyocyte
+OT  - cardiovascular development
+OT  - cardiovascular disease
+OT  - heart
+OT  - single-cell RNA sequencing
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/11/12 06:00
+MHDA- 2021/03/18 06:00
+CRDT- 2020/11/11 01:03
+PHST- 2020/09/29 00:00 [received]
+PHST- 2020/10/25 00:00 [revised]
+PHST- 2020/11/05 00:00 [accepted]
+PHST- 2020/11/11 01:03 [entrez]
+PHST- 2020/11/12 06:00 [pubmed]
+PHST- 2021/03/18 06:00 [medline]
+AID - ijms21218345 [pii]
+AID - ijms-21-08345 [pii]
+AID - 10.3390/ijms21218345 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Nov 6;21(21):8345. doi: 10.3390/ijms21218345.
+
+PMID- 33835452
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210622
+LR  - 20210802
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 2284
+DP  - 2021
+TI  - Single-Cell RNA Sequencing Analysis: A Step-by-Step Overview.
+PG  - 343-365
+LID - 10.1007/978-1-0716-1307-8_19 [doi]
+AB  - Thanks to innovative sample-preparation and sequencing technologies, gene 
+      expression in individual cells can now be measured for thousands of cells in a 
+      single experiment. Since its introduction, single-cell RNA sequencing (scRNA-seq) 
+      approaches have revolutionized the genomics field as they created unprecedented 
+      opportunities for resolving cell heterogeneity by exploring gene expression 
+      profiles at a single-cell resolution. However, the rapidly evolving field of 
+      scRNA-seq invoked the emergence of various analytics approaches aimed to maximize 
+      the full potential of this novel strategy. Unlike population-based RNA sequencing 
+      approaches, scRNA seq necessitates comprehensive computational tools to address 
+      high data complexity and keep up with the emerging single-cell associated 
+      challenges. Despite the vast number of analytical methods, a universal 
+      standardization is lacking. While this reflects the fields' immaturity, it may 
+      also encumber a newcomer to blend in.In this review, we aim to bridge over the 
+      abovementioned hurdle and propose four ready-to-use pipelines for scRNA-seq 
+      analysis easily accessible by a newcomer, that could fit various biological data 
+      types. Here we provide an overview of the currently available single-cell 
+      technologies for cell isolation and library preparation and a step by step guide 
+      that covers the entire canonical analytic workflow to analyse scRNA-seq data 
+      including read mapping, quality controls, gene expression quantification, 
+      normalization, feature selection, dimensionality reduction, and cell clustering 
+      useful for trajectory inference and differential expression. Such workflow 
+      guidelines will escort novices as well as expert users in the analysis of complex 
+      scRNA-seq datasets, thus further expanding the research potential of single-cell 
+      approaches in basic science, and envisaging its future implementation as best 
+      practice in the field.
+FAU - Slovin, Shaked
+AU  - Slovin S
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy.
+FAU - Carissimo, Annamaria
+AU  - Carissimo A
+AD  - Istituto per le Applicazioni del Calcolo "Mauro Picone", Consiglio Nazionale 
+      delle Ricerche, Naples, Italy.
+FAU - Panariello, Francesco
+AU  - Panariello F
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy.
+FAU - Grimaldi, Antonio
+AU  - Grimaldi A
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy.
+FAU - Bouché, Valentina
+AU  - Bouché V
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy.
+FAU - Gambardella, Gennaro
+AU  - Gambardella G
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy. gambardella@tigem.it.
+AD  - Department of Chemical Materials and Industrial Engineering, University of Naples 
+      "Federico II", Naples, Italy. gambardella@tigem.it.
+FAU - Cacchiarelli, Davide
+AU  - Cacchiarelli D
+AD  - Telethon Institute of Genetics and Medicine (TIGEM), Armenise/Harvard Laboratory 
+      of Integrative Genomics, Pozzuoli, Italy. d.cacchiarelli@tigem.it.
+AD  - Department of Translational Medicine, University of Naples "Federico II", Naples, 
+      Italy. d.cacchiarelli@tigem.it.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+SB  - IM
+MH  - *Algorithms
+MH  - Animals
+MH  - Cluster Analysis
+MH  - Gene Expression Profiling/methods/statistics & numerical data
+MH  - Genomics/methods
+MH  - High-Throughput Nucleotide Sequencing/methods/statistics & numerical data
+MH  - Humans
+MH  - Quality Control
+MH  - Sequence Analysis, RNA/*methods/statistics & numerical data
+MH  - Single-Cell Analysis/*methods/statistics & numerical data
+MH  - Software
+MH  - Transcriptome
+OTO - NOTNLM
+OT  - Clustering
+OT  - Computational pipelines
+OT  - Data analysis tutorial
+OT  - Experimental workflow
+OT  - Monocle
+OT  - Scanpy
+OT  - Seurat
+OT  - Single-cell RNA-seq
+OT  - gf-icf
+EDAT- 2021/04/10 06:00
+MHDA- 2021/06/23 06:00
+CRDT- 2021/04/09 12:55
+PHST- 2021/04/09 12:55 [entrez]
+PHST- 2021/04/10 06:00 [pubmed]
+PHST- 2021/06/23 06:00 [medline]
+AID - 10.1007/978-1-0716-1307-8_19 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2021;2284:343-365. doi: 10.1007/978-1-0716-1307-8_19.
+
+PMID- 29851283
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190422
+LR  - 20201228
+IS  - 1934-3647 (Electronic)
+IS  - 1934-3647 (Linking)
+VI  - 122
+IP  - 1
+DP  - 2018 Apr
+TI  - Introduction to Single-Cell RNA Sequencing.
+PG  - e57
+LID - 10.1002/cpmb.57 [doi]
+AB  - During the last decade, high-throughput sequencing methods have revolutionized 
+      the entire field of biology. The opportunity to study entire transcriptomes in 
+      great detail using RNA sequencing (RNA-seq) has fueled many important discoveries 
+      and is now a routine method in biomedical research. However, RNA-seq is typically 
+      performed in "bulk," and the data represent an average of gene expression 
+      patterns across thousands to millions of cells; this might obscure biologically 
+      relevant differences between cells. Single-cell RNA-seq (scRNA-seq) represents an 
+      approach to overcome this problem. By isolating single cells, capturing their 
+      transcripts, and generating sequencing libraries in which the transcripts are 
+      mapped to individual cells, scRNA-seq allows assessment of fundamental biological 
+      properties of cell populations and biological systems at unprecedented 
+      resolution. Here, we present the most common scRNA-seq protocols in use today and 
+      the basics of data analysis and discuss factors that are important to consider 
+      before planning and designing an scRNA-seq project. © 2018 by John Wiley & Sons, 
+      Inc.
+CI  - Copyright © 2018 John Wiley & Sons, Inc.
+FAU - Olsen, Thale Kristin
+AU  - Olsen TK
+AD  - Childhood Cancer Research Unit, Department of Women's and Children's Health, 
+      Karolinska Institutet, Stockholm, Sweden.
+FAU - Baryawno, Ninib
+AU  - Baryawno N
+AD  - Childhood Cancer Research Unit, Department of Women's and Children's Health, 
+      Karolinska Institutet, Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Curr Protoc Mol Biol
+JT  - Current protocols in molecular biology
+JID - 8908160
+RN  - 0 (DNA, Complementary)
+SB  - IM
+MH  - Animals
+MH  - Cell Separation
+MH  - DNA, Complementary/genetics
+MH  - Humans
+MH  - Mice
+MH  - Reverse Transcription/genetics
+MH  - Sequence Analysis, RNA/*methods
+MH  - Single-Cell Analysis/*methods
+OTO - NOTNLM
+OT  - RNA sequencing
+OT  - gene expression profiling
+OT  - single-cell analysis
+EDAT- 2018/06/01 06:00
+MHDA- 2019/04/23 06:00
+CRDT- 2018/06/01 06:00
+PHST- 2018/06/01 06:00 [entrez]
+PHST- 2018/06/01 06:00 [pubmed]
+PHST- 2019/04/23 06:00 [medline]
+AID - 10.1002/cpmb.57 [doi]
+PST - ppublish
+SO  - Curr Protoc Mol Biol. 2018 Apr;122(1):e57. doi: 10.1002/cpmb.57.
+
+PMID- 34040169
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210927
+LR  - 20220716
+IS  - 1759-5053 (Electronic)
+IS  - 1759-5045 (Print)
+IS  - 1759-5045 (Linking)
+VI  - 18
+IP  - 7
+DP  - 2021 Jul
+TI  - Single-cell RNA sequencing in pancreatic cancer.
+PG  - 451-452
+LID - 10.1038/s41575-021-00471-z [doi]
+AB  - The application of single-cell RNA sequencing platforms has generated notable 
+      insights into the heterogeneity underlying pancreatic ductal adenocarcinoma 
+      (PDAC), encompassing both the neoplastic compartment and the tumour 
+      microenvironment. In this Comment, we discuss the most pertinent findings gleaned 
+      from both mouse models and human PDAC samples, as well as future opportunities.
+FAU - Han, Jincheng
+AU  - Han J
+AUID- ORCID: 0000-0002-7751-6158
+AD  - Department of Cancer Biology, University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - DePinho, Ronald A
+AU  - DePinho RA
+AD  - Department of Cancer Biology, University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA.
+FAU - Maitra, Anirban
+AU  - Maitra A
+AUID- ORCID: 0000-0001-7923-9978
+AD  - Department of Translational Molecular Pathology, The Sheikh Ahmed Center for 
+      Pancreatic Cancer Research, University of Texas MD Anderson Cancer Center, 
+      Houston, TX, USA. amaitra@mdanderson.org.
+LA  - eng
+GR  - P01 CA117969/CA/NCI NIH HHS/United States
+GR  - P50 CA221707/CA/NCI NIH HHS/United States
+GR  - R01 CA218004/CA/NCI NIH HHS/United States
+GR  - R01 CA220236/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Nat Rev Gastroenterol Hepatol
+JT  - Nature reviews. Gastroenterology & hepatology
+JID - 101500079
+SB  - IM
+MH  - Animals
+MH  - Carcinoma, Pancreatic Ductal/*genetics
+MH  - Disease Models, Animal
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Mice
+MH  - Pancreatic Neoplasms/*genetics
+MH  - Sequence Analysis, RNA/*methods/trends
+MH  - Tumor Microenvironment/physiology
+PMC - PMC8819738
+MID - NIHMS1771923
+COIS- Competing interests A.M. receives royalties for a pancreatic cancer biomarker 
+      test from Cosmos Wisdom Biotechnology, and is listed as an inventor on a patent 
+      that has been licensed by Johns Hopkins University to ThriveEarlier Detection. 
+      R.A.D. is Founder and Advisor of Tvardi Therapeutics, Asylia Therapeutics, 
+      Stellanova Therapeutics, Nirogy Therapeutics and Sporos Bioventures.
+EDAT- 2021/05/28 06:00
+MHDA- 2021/09/28 06:00
+CRDT- 2021/05/27 06:31
+PHST- 2021/05/28 06:00 [pubmed]
+PHST- 2021/09/28 06:00 [medline]
+PHST- 2021/05/27 06:31 [entrez]
+AID - 10.1038/s41575-021-00471-z [pii]
+AID - 10.1038/s41575-021-00471-z [doi]
+PST - ppublish
+SO  - Nat Rev Gastroenterol Hepatol. 2021 Jul;18(7):451-452. doi: 
+      10.1038/s41575-021-00471-z.
+
+PMID- 29536435
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190128
+LR  - 20190128
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 1754
+DP  - 2018
+TI  - Transcriptome Sequencing: RNA-Seq.
+PG  - 15-27
+LID - 10.1007/978-1-4939-7717-8_2 [doi]
+AB  - RNA sequencing (RNA-seq) can not only be used to identify the expression of 
+      common or rare transcripts but also in the identification of other abnormal 
+      events, such as alternative splicing, novel transcripts, and fusion genes. In 
+      principle, RNA-seq can be carried out by almost all of the next-generation 
+      sequencing (NGS) platforms, but the libraries of different platforms are not 
+      exactly the same; each platform has its own kit to meet the special requirements 
+      of the instrument design.
+FAU - Zhang, Hong
+AU  - Zhang H
+AD  - Bio-X Institutes, Key Laboratory for the Genetics of Developmental and 
+      Neuropsychiatric Disorders (Ministry of Education), Collaborative Innovation 
+      Center for Genetics and Development, Shanghai Jiaotong University, Shanghai, 
+      200240, China.
+FAU - He, Lin
+AU  - He L
+AD  - Bio-X Institutes, Key Laboratory for the Genetics of Developmental and 
+      Neuropsychiatric Disorders (Ministry of Education), Collaborative Innovation 
+      Center for Genetics and Development, Shanghai Jiaotong University, Shanghai, 
+      200240, China.
+FAU - Cai, Lei
+AU  - Cai L
+AD  - Bio-X Institutes, Key Laboratory for the Genetics of Developmental and 
+      Neuropsychiatric Disorders (Ministry of Education), Collaborative Innovation 
+      Center for Genetics and Development, Shanghai Jiaotong University, Shanghai, 
+      200240, China. cailei2010@126.com.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Alternative Splicing/genetics
+MH  - Base Sequence/genetics
+MH  - Data Analysis
+MH  - Gene Expression Profiling/instrumentation/*methods
+MH  - Gene Fusion/genetics
+MH  - High-Throughput Nucleotide Sequencing/instrumentation/*methods
+MH  - RNA/genetics/isolation & purification
+MH  - Sequence Analysis, RNA/instrumentation/*methods
+MH  - Transcriptome/*genetics
+OTO - NOTNLM
+OT  - Data analysis
+OT  - Library construction
+OT  - Messenger RNA
+OT  - Next-generation sequencing
+OT  - RNA sequencing
+EDAT- 2018/03/15 06:00
+MHDA- 2019/01/29 06:00
+CRDT- 2018/03/15 06:00
+PHST- 2018/03/15 06:00 [entrez]
+PHST- 2018/03/15 06:00 [pubmed]
+PHST- 2019/01/29 06:00 [medline]
+AID - 10.1007/978-1-4939-7717-8_2 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2018;1754:15-27. doi: 10.1007/978-1-4939-7717-8_2.

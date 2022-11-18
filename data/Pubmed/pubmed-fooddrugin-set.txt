@@ -1,0 +1,1054 @@
+PMID- 29076109
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180724
+LR  - 20220409
+IS  - 1179-1950 (Electronic)
+IS  - 0012-6667 (Linking)
+VI  - 77
+IP  - 17
+DP  - 2017 Nov
+TI  - A Review of Food-Drug Interactions on Oral Drug Absorption.
+PG  - 1833-1855
+LID - 10.1007/s40265-017-0832-z [doi]
+AB  - Food effect, also known as food-drug interactions, is a common phenomenon 
+      associated with orally administered medications and can be defined as changes in 
+      absorption rate or absorption extent. The mechanisms of food effect and their 
+      consequences can involve multiple factors, including human post-prandial 
+      physiology, properties of the drug, and how the drug is administered. Therefore, 
+      it is essential to have a thorough understanding of these mechanisms when 
+      recommending whether a specific drug should be taken with or without food. 
+      Food-drug interactions can be clinically relevant, especially when they must be 
+      avoided to prevent undesirable effects or exploited to optimize medication 
+      therapy. This review conducts a literature search that examined studies on food 
+      effect. We summarized the literature and identified and discussed common food 
+      effect mechanisms. Furthermore, we highlighted drugs that have a clinically 
+      significant food effect and discussed the corresponding mechanisms. In addition, 
+      this review analyzes the effects of high-fat food or standard meals on the oral 
+      drug absorption rate and absorption extent for 229 drugs based on the 
+      Biopharmaceutics Drug Disposition Classification System and demonstrates an 
+      association between Biopharmaceutics Drug Disposition Classification System class 
+      and food effect.
+FAU - Deng, Jianyuan
+AU  - Deng J
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Zhu, Xiao
+AU  - Zhu X
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Chen, Zongmeng
+AU  - Chen Z
+AD  - State Key Laboratory of Natural Medicines and Laboratory of Chemical Biology, 
+      China Pharmaceutical University, Nanjing, Jiangsu, People's Republic of China.
+FAU - Fan, Chun Ho
+AU  - Fan CH
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Kwan, Him Shek
+AU  - Kwan HS
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Wong, Chi Ho
+AU  - Wong CH
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Shek, Ka Yi
+AU  - Shek KY
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Zuo, Zhong
+AU  - Zuo Z
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong.
+FAU - Lam, Tai Ning
+AU  - Lam TN
+AUID- ORCID: 0000-0002-7259-4050
+AD  - School of Pharmacy, Faculty of Medicine, The Chinese University of Hong Kong, 
+      Shatin, New Territories, Hong Kong. teddylam@cuhk.edu.hk.
+LA  - eng
+GR  - 489813/Hong Kong Research Grants Council Early Career Scheme/
+PT  - Journal Article
+PT  - Review
+PL  - New Zealand
+TA  - Drugs
+JT  - Drugs
+JID - 7600076
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Administration, Oral
+MH  - Biopharmaceutics
+MH  - Food-Drug Interactions/*physiology
+MH  - *Gastric Absorption
+MH  - Humans
+MH  - *Oral Mucosal Absorption
+MH  - Pharmaceutical Preparations/*metabolism
+EDAT- 2017/10/28 06:00
+MHDA- 2018/07/25 06:00
+CRDT- 2017/10/28 06:00
+PHST- 2017/10/28 06:00 [pubmed]
+PHST- 2018/07/25 06:00 [medline]
+PHST- 2017/10/28 06:00 [entrez]
+AID - 10.1007/s40265-017-0832-z [pii]
+AID - 10.1007/s40265-017-0832-z [doi]
+PST - ppublish
+SO  - Drugs. 2017 Nov;77(17):1833-1855. doi: 10.1007/s40265-017-0832-z.
+
+PMID- 29703387
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191015
+LR  - 20220809
+IS  - 2224-6614 (Electronic)
+IS  - 1021-9498 (Print)
+VI  - 26
+IP  - 2S
+DP  - 2018 Apr
+TI  - Food-drug interactions precipitated by fruit juices other than grapefruit juice: 
+      An update review.
+PG  - S61-S71
+LID - S1021-9498(18)30037-1 [pii]
+LID - 10.1016/j.jfda.2018.01.009 [doi]
+AB  - This review addressed drug interactions precipitated by fruit juices other than 
+      grapefruit juice based on randomized controlled trials (RCTs). Literature was 
+      identified by searching PubMed, Cochrane Library, Scopus and Web of Science till 
+      December 30 2017. Among 46 finally included RCTs, six RCTs simply addressed 
+      pharmacodynamic interactions and 33 RCTs studied pharmacokinetic interactions, 
+      whereas seven RCTs investigated both pharmacokinetic and pharmacodynamic 
+      interactions. Twenty-two juice-drug combinations showed potential clinical 
+      relevance. The beneficial combinations included orange juice-ferrous fumarate, 
+      lemon juice-(99m)Tc-tetrofosmin, pomegranate juice-intravenous iron during 
+      hemodialysis, cranberry juice-triple therapy medications for H. pylori, blueberry 
+      juice-etanercept, lime juice-antimalarials, and wheat grass juice-chemotherapy. 
+      The potential adverse interactions included decreased drug bioavailability (apple 
+      juice-fexofenadine, atenolol, aliskiren; orange juice-aliskiren, atenolol, 
+      celiprolol, montelukast, fluoroquinolones, alendronate; pomelo juice-sildenafil; 
+      grape juice-cyclosporine), increased bioavailability (Seville orange 
+      juice-felodipine, pomelo juice-cyclosporine, orange-aluminum containing 
+      antacids). Unlike furanocoumarin-rich grapefruit juice which could primarily 
+      precipitate drug interactions by strong inhibition of cytochrome P450 3A4 
+      isoenzyme and P-glycoprotein and thus cause deadly outcomes due to co-ingestion 
+      with some medications, other fruit juices did not precipitate severely 
+      detrimental food-drug interaction despite of sporadic case reports. The extent of 
+      a juice-drug interaction may be associated with volume of drinking juice, fruit 
+      varieties, type of fruit, time between juice drinking and drug intake, genetic 
+      polymorphism in the enzymes or transporters and anthropometric variables. 
+      Pharmacists and health professionals should properly screen for and educate 
+      patients about potential adverse juice-drug interactions and help minimize their 
+      occurrence. Much attention should be paid to adolescents and the elderly who 
+      ingest medications with drinking fruit juices or consume fresh fruits during drug 
+      treatment. Meanwhile, more researches in this interesting issue should be 
+      conducted.
+CI  - Copyright © 2018. Published by Elsevier B.V.
+FAU - Chen, Meng
+AU  - Chen M
+AD  - Department of Pharmacy, The Second Affiliated Hospital, School of Medicine, 
+      Zhejiang University, Hangzhou 310009, Zhejiang Province, People's Republic of 
+      China.
+FAU - Zhou, Shu-Yi
+AU  - Zhou SY
+AD  - ULink College of Shanghai, Shanghai 201615, People's Republic of China.
+FAU - Fabriaga, Erlinda
+AU  - Fabriaga E
+AD  - ULink College of Shanghai, Shanghai 201615, People's Republic of China.
+FAU - Zhang, Pian-Hong
+AU  - Zhang PH
+AD  - Department of Clinical Nutrition, The Second Affiliated Hospital, School of 
+      Medicine, Zhejiang University, Hangzhou, Zhejiang Province, People's Republic of 
+      China.
+FAU - Zhou, Quan
+AU  - Zhou Q
+AD  - Department of Pharmacy, The Second Affiliated Hospital, School of Medicine, 
+      Zhejiang University, Hangzhou 310009, Zhejiang Province, People's Republic of 
+      China. Electronic address: zhouquan142602@zju.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180215
+TA  - J Food Drug Anal
+JT  - Journal of food and drug analysis
+JID - 101630927
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP3A)
+SB  - IM
+MH  - Citrus paradisi/*adverse effects/chemistry
+MH  - Cytochrome P-450 CYP3A/genetics/metabolism
+MH  - *Food-Drug Interactions
+MH  - Fruit and Vegetable Juices/*adverse effects/analysis
+MH  - Humans
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC9326888
+OTO - NOTNLM
+OT  - Drug metabolism
+OT  - Food–drug interaction
+OT  - Fruit juices
+OT  - Randomized controlled trials
+OT  - Transporters
+COIS- Conflicts of interest All contributing authors declare no conflicts of interest.
+EDAT- 2018/04/29 06:00
+MHDA- 2019/10/16 06:00
+CRDT- 2018/04/29 06:00
+PHST- 2017/10/19 00:00 [received]
+PHST- 2018/01/05 00:00 [revised]
+PHST- 2018/01/08 00:00 [accepted]
+PHST- 2018/04/29 06:00 [entrez]
+PHST- 2018/04/29 06:00 [pubmed]
+PHST- 2019/10/16 06:00 [medline]
+AID - S1021-9498(18)30037-1 [pii]
+AID - jfda-26-02-s61 [pii]
+AID - 10.1016/j.jfda.2018.01.009 [doi]
+PST - ppublish
+SO  - J Food Drug Anal. 2018 Apr;26(2S):S61-S71. doi: 10.1016/j.jfda.2018.01.009. Epub 
+      2018 Feb 15.
+
+PMID- 28196633
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180430
+LR  - 20220410
+IS  - 1532-1681 (Electronic)
+IS  - 0268-960X (Linking)
+VI  - 31
+IP  - 4
+DP  - 2017 Jul
+TI  - Old and new oral anticoagulants: Food, herbal medicines and drug interactions.
+PG  - 193-203
+LID - S0268-960X(16)30035-2 [pii]
+LID - 10.1016/j.blre.2017.02.001 [doi]
+AB  - The most commonly prescribed oral anticoagulants worldwide are the vitamin K 
+      antagonists (VKAs) such as warfarin. Factors affecting the pharmacokinetics of 
+      VKAs are important because deviations from their narrow therapeutic window can 
+      result in bleedings due to over-anticoagulation or thrombosis because of 
+      under-anticoagulation. In addition to pharmacodynamic interactions (e.g., 
+      augmented bleeding risk for concomitant use of NSAIDs), interactions with drugs, 
+      foods, herbs, and over-the-counter medications may affect the risk/benefit ratio 
+      of VKAs. Direct oral anticoagulants (DOACs) including Factor Xa inhibitors 
+      (rivaroxaban, apixaban and edoxaban) and thrombin inhibitor (dabigatran) are 
+      poised to replace warfarin. Phase-3 studies and real-world evaluations have 
+      established that the safety profile of DOACs is superior to those of VKAs. 
+      However, some pharmacokinetic and pharmacodynamic interactions are expected. 
+      Herein we present a critical review of VKAs and DOACs with focus on their 
+      potential for interactions with drugs, foods, herbs and over-the-counter 
+      medications.
+CI  - Copyright © 2017 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Di Minno, Alessandro
+AU  - Di Minno A
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      alessandro.diminno@ccfm.it.
+FAU - Frigerio, Beatrice
+AU  - Frigerio B
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      beatrice.frigerio@ccfm.it.
+FAU - Spadarella, Gaia
+AU  - Spadarella G
+AD  - Dipartimento di Medicina Clinica e Chirurgia, Università degli Studi di Napoli 
+      "Federico II", Naples, Italy. Electronic address: spadarellagaia@hotmail.it.
+FAU - Ravani, Alessio
+AU  - Ravani A
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      alessio.ravani@ccfm.it.
+FAU - Sansaro, Daniela
+AU  - Sansaro D
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      daniela.sansaro@ccfm.it.
+FAU - Amato, Mauro
+AU  - Amato M
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      mauro.amato@ccfm.it.
+FAU - Kitzmiller, Joseph P
+AU  - Kitzmiller JP
+AD  - College of Medicine, The Ohio State University, Columbus, OH, USA. Electronic 
+      address: joseph.kitzmiller@osumc.edu.
+FAU - Pepi, Mauro
+AU  - Pepi M
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy. Electronic address: 
+      mauro.pepi@ccfm.it.
+FAU - Tremoli, Elena
+AU  - Tremoli E
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy; Dipartimento di Scienze 
+      Farmacologiche e Biomolecolari, Università degli Studi di Milano, Milan, Italy. 
+      Electronic address: elena.tremoli@ccfm.it.
+FAU - Baldassarre, Damiano
+AU  - Baldassarre D
+AD  - Centro Cardiologico Monzino, IRCCS, Milan, Italy; Dipartimento di Scienze 
+      Farmacologiche e Biomolecolari, Università degli Studi di Milano, Milan, Italy. 
+      Electronic address: damiano.baldassarre@unimi.it.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20170205
+PL  - England
+TA  - Blood Rev
+JT  - Blood reviews
+JID - 8708558
+RN  - 0 (Anticoagulants)
+RN  - 0 (Plant Extracts)
+RN  - 12001-79-5 (Vitamin K)
+SB  - IM
+MH  - Animals
+MH  - Anticoagulants/chemistry/pharmacokinetics/*pharmacology/therapeutic use
+MH  - *Drug Interactions
+MH  - Food-Drug Interactions
+MH  - Herbal Medicine/methods
+MH  - Humans
+MH  - Plant Extracts/chemistry/pharmacokinetics/*pharmacology/therapeutic use
+MH  - Plants, Medicinal/chemistry
+MH  - Vitamin K/antagonists & inhibitors
+OTO - NOTNLM
+OT  - Co-morbidities
+OT  - Direct anticoagulant drugs
+OT  - Loss of efficacy
+OT  - Patients characteristics
+OT  - Therapeutic context
+OT  - Thrombotic/bleeding events
+OT  - Toxicity
+OT  - Warfarin
+EDAT- 2017/02/16 06:00
+MHDA- 2018/05/01 06:00
+CRDT- 2017/02/16 06:00
+PHST- 2016/07/06 00:00 [received]
+PHST- 2017/02/02 00:00 [accepted]
+PHST- 2017/02/16 06:00 [pubmed]
+PHST- 2018/05/01 06:00 [medline]
+PHST- 2017/02/16 06:00 [entrez]
+AID - S0268-960X(16)30035-2 [pii]
+AID - 10.1016/j.blre.2017.02.001 [doi]
+PST - ppublish
+SO  - Blood Rev. 2017 Jul;31(4):193-203. doi: 10.1016/j.blre.2017.02.001. Epub 2017 Feb 
+      5.
+
+PMID- 30974173
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191206
+LR  - 20191217
+IS  - 1879-0720 (Electronic)
+IS  - 0928-0987 (Linking)
+VI  - 134
+DP  - 2019 Jun 15
+TI  - The mechanisms of pharmacokinetic food-drug interactions - A perspective from the 
+      UNGAP group.
+PG  - 31-59
+LID - S0928-0987(19)30141-1 [pii]
+LID - 10.1016/j.ejps.2019.04.003 [doi]
+AB  - The simultaneous intake of food and drugs can have a strong impact on drug 
+      release, absorption, distribution, metabolism and/or elimination and 
+      consequently, on the efficacy and safety of pharmacotherapy. As such, food-drug 
+      interactions are one of the main challenges in oral drug administration. Whereas 
+      pharmacokinetic (PK) food-drug interactions can have a variety of causes, 
+      pharmacodynamic (PD) food-drug interactions occur due to specific pharmacological 
+      interactions between a drug and particular drinks or food. In recent years, 
+      extensive efforts were made to elucidate the mechanisms that drive 
+      pharmacokinetic food-drug interactions. Their occurrence depends mainly on the 
+      properties of the drug substance, the formulation and a multitude of 
+      physiological factors. Every intake of food or drink changes the physiological 
+      conditions in the human gastrointestinal tract. Therefore, a precise 
+      understanding of how different foods and drinks affect the processes of drug 
+      absorption, distribution, metabolism and/or elimination as well as formulation 
+      performance is important in order to be able to predict and avoid such 
+      interactions. Furthermore, it must be considered that beverages such as milk, 
+      grapefruit juice and alcohol can also lead to specific food-drug interactions. In 
+      this regard, the growing use of food supplements and functional food requires 
+      urgent attention in oral pharmacotherapy. Recently, a new consortium in 
+      Understanding Gastrointestinal Absorption-related Processes (UNGAP) was 
+      established through COST, a funding organisation of the European Union supporting 
+      translational research across Europe. In this review of the UNGAP Working group 
+      "Food-Drug Interface", the different mechanisms that can lead to pharmacokinetic 
+      food-drug interactions are discussed and summarised from different expert 
+      perspectives.
+CI  - Copyright © 2019 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Koziolek, Mirko
+AU  - Koziolek M
+AD  - Department of Biopharmaceutics and Pharmaceutical Technology, University of 
+      Greifswald, Center of Drug Absorption and Transport, Felix-Hausdorff-Str. 3, 
+      D-17487 Greifswald, Germany.
+FAU - Alcaro, Stefano
+AU  - Alcaro S
+AD  - Department of Health Sciences, University "Magna Græcia" of Catanzaro, Campus 
+      Universitario "S. Venuta", Viale Europa, 88100 Catanzaro, Italy; Net4Science 
+      Academic Spinoff, University "Magna Græcia" of Catanzaro, Campus Universitario 
+      "S. Venuta", Viale Europa, 88100 Catanzaro, Italy.
+FAU - Augustijns, Patrick
+AU  - Augustijns P
+AD  - Drug Delivery and Disposition, KU Leuven, Herestraat 49, Gasthuisberg, O&N2, Box 
+      921, 3000 Leuven, Belgium.
+FAU - Basit, Abdul W
+AU  - Basit AW
+AD  - UCL School of Pharmacy, University College London, 29 - 39 Brunswick Square, 
+      London WC1N 1AX, United Kingdom.
+FAU - Grimm, Michael
+AU  - Grimm M
+AD  - Department of Biopharmaceutics and Pharmaceutical Technology, University of 
+      Greifswald, Center of Drug Absorption and Transport, Felix-Hausdorff-Str. 3, 
+      D-17487 Greifswald, Germany.
+FAU - Hens, Bart
+AU  - Hens B
+AD  - Drug Delivery and Disposition, KU Leuven, Herestraat 49, Gasthuisberg, O&N2, Box 
+      921, 3000 Leuven, Belgium.
+FAU - Hoad, Caroline L
+AU  - Hoad CL
+AD  - NIHR Nottingham Biomedical Research Centre (BRC), Nottingham University Hospitals 
+      NHS Trust and the University of Nottingham, Nottingham, United Kingdom; Sir Peter 
+      Mansfield Imaging Centre, School of Physics and Astronomy, University of 
+      Nottingham, Nottingham, United Kingdom.
+FAU - Jedamzik, Philipp
+AU  - Jedamzik P
+AD  - Department of Biopharmaceutics and Pharmaceutical Technology, University of 
+      Greifswald, Center of Drug Absorption and Transport, Felix-Hausdorff-Str. 3, 
+      D-17487 Greifswald, Germany.
+FAU - Madla, Christine M
+AU  - Madla CM
+AD  - UCL School of Pharmacy, University College London, 29 - 39 Brunswick Square, 
+      London WC1N 1AX, United Kingdom.
+FAU - Maliepaard, Marc
+AU  - Maliepaard M
+AD  - Medicines Evaluation Board in the Netherlands, PKPD Department, Utrecht, the 
+      Netherlands.
+FAU - Marciani, Luca
+AU  - Marciani L
+AD  - NIHR Nottingham Biomedical Research Centre (BRC), Nottingham University Hospitals 
+      NHS Trust and the University of Nottingham, Nottingham, United Kingdom; 
+      Nottingham Digestive Diseases Centre, School of Medicine, University of 
+      Nottingham, Nottingham, United Kingdom.
+FAU - Maruca, Annalisa
+AU  - Maruca A
+AD  - Department of Health Sciences, University "Magna Græcia" of Catanzaro, Campus 
+      Universitario "S. Venuta", Viale Europa, 88100 Catanzaro, Italy; Net4Science 
+      Academic Spinoff, University "Magna Græcia" of Catanzaro, Campus Universitario 
+      "S. Venuta", Viale Europa, 88100 Catanzaro, Italy.
+FAU - Parrott, Neil
+AU  - Parrott N
+AD  - Pharma Research & Early Development, Roche Innovation Center Basel, F. 
+      Hoffmann-La Roche Ltd, Basel, Switzerland.
+FAU - Pávek, Petr
+AU  - Pávek P
+AD  - Charles University, Faculty of Pharmacy in Hradec Králové, Heyrovského 1203, 
+      50005 Hradec Králové, Czech Republic.
+FAU - Porter, Christopher J H
+AU  - Porter CJH
+AD  - Drug Delivery, Disposition and Dynamics, Monash Institute of Pharmaceutical 
+      Sciences, Monash University, 381 Royal Parade, Parkville, Victoria 3052, 
+      Australia; ARC Centre of Excellence in Convergent Bio-Nano Science and 
+      Technology, Monash Institute of Pharmaceutical Sciences, Monash University, 381 
+      Royal Parade, Parkville, Victoria 3052, Australia.
+FAU - Reppas, Christos
+AU  - Reppas C
+AD  - Department of Pharmacy, School of Health Sciences, National and Kapodistrian 
+      University of Athens, Panepistimiopolis, 157 84 Athens, Greece.
+FAU - van Riet-Nales, Diana
+AU  - van Riet-Nales D
+AD  - Medicines Evaluation Board in the Netherlands, Quality Department, Utrecht, the 
+      Netherlands.
+FAU - Rubbens, Jari
+AU  - Rubbens J
+AD  - Drug Delivery and Disposition, KU Leuven, Herestraat 49, Gasthuisberg, O&N2, Box 
+      921, 3000 Leuven, Belgium.
+FAU - Statelova, Marina
+AU  - Statelova M
+AD  - Department of Pharmacy, School of Health Sciences, National and Kapodistrian 
+      University of Athens, Panepistimiopolis, 157 84 Athens, Greece.
+FAU - Trevaskis, Natalie L
+AU  - Trevaskis NL
+AD  - Drug Delivery, Disposition and Dynamics, Monash Institute of Pharmaceutical 
+      Sciences, Monash University, 381 Royal Parade, Parkville, Victoria 3052, 
+      Australia.
+FAU - Valentová, Kateřina
+AU  - Valentová K
+AD  - Laboratory of Biotransformation, Institute of Microbiology, CAS, Vídeňská 1083, 
+      CZ-142 20 Prague, Czech Republic.
+FAU - Vertzoni, Maria
+AU  - Vertzoni M
+AD  - Department of Pharmacy, School of Health Sciences, National and Kapodistrian 
+      University of Athens, Panepistimiopolis, 157 84 Athens, Greece.
+FAU - Čepo, Dubravka Vitali
+AU  - Čepo DV
+AD  - University of Zagreb, Faculty of Pharmacy and Biochemistry, A. Kovačića 1, 10000 
+      Zagreb, Croatia.
+FAU - Corsetti, Maura
+AU  - Corsetti M
+AD  - NIHR Nottingham Biomedical Research Centre (BRC), Nottingham University Hospitals 
+      NHS Trust and the University of Nottingham, Nottingham, United Kingdom; 
+      Nottingham Digestive Diseases Centre, School of Medicine, University of 
+      Nottingham, Nottingham, United Kingdom. Electronic address: 
+      maura.corsetti@nottingham.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190408
+PL  - Netherlands
+TA  - Eur J Pharm Sci
+JT  - European journal of pharmaceutical sciences : official journal of the European 
+      Federation for Pharmaceutical Sciences
+JID - 9317982
+SB  - IM
+MH  - Administration, Oral
+MH  - Biological Availability
+MH  - Drug Liberation/*physiology
+MH  - Europe
+MH  - Food-Drug Interactions/*physiology
+MH  - Gastrointestinal Absorption/physiology
+MH  - Gastrointestinal Tract/*physiology
+MH  - Humans
+MH  - Intestinal Absorption
+MH  - Pharmacokinetics
+OTO - NOTNLM
+OT  - Absorption
+OT  - Drug release
+OT  - Food effect
+OT  - Food-drug interaction
+OT  - Metabolism
+OT  - Oral bioavailability
+OT  - Oral drug delivery
+EDAT- 2019/04/12 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2019/04/12 06:00
+PHST- 2019/01/30 00:00 [received]
+PHST- 2019/03/12 00:00 [revised]
+PHST- 2019/04/02 00:00 [accepted]
+PHST- 2019/04/12 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+PHST- 2019/04/12 06:00 [entrez]
+AID - S0928-0987(19)30141-1 [pii]
+AID - 10.1016/j.ejps.2019.04.003 [doi]
+PST - ppublish
+SO  - Eur J Pharm Sci. 2019 Jun 15;134:31-59. doi: 10.1016/j.ejps.2019.04.003. Epub 
+      2019 Apr 8.
+
+PMID- 30458907
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190131
+LR  - 20190131
+IS  - 0888-5109 (Print)
+IS  - 0888-5109 (Linking)
+VI  - 33
+IP  - 11
+DP  - 2018 Nov 1
+TI  - Clinically Significant Food-Drug Interactions.
+PG  - 649-657
+LID - 10.4140/TCP.n.2018.649. [doi]
+AB  - OBJECTIVE: Provide an up-to-date review for health care providers regarding 
+      clinically significant food-drug interactions and summarize recommendations for 
+      optimal medication administration in older adults and long-term care patients. 
+      DATA SOURCES: A literature search was performed using MEDLINE, PUBMED, and IPA 
+      abstracts to locate relevant articles published between January 1982 and July 
+      2017. DAILYMED was used to identify manufacturer-specific medication 
+      administration recommendations. STUDY SELECTION AND DATA EXTRACTION: Articles 
+      were reviewed for inclusion based on their relevance to this subject matter and 
+      the integrity of the information provided. Additionally, the package labeling of 
+      included products was reviewed. DATA SYNTHESIS: The current recommendations for 
+      specific medication administration with regard to food are summarized 
+      descriptively. CONCLUSION: Clinically significant food-drug interactions are 
+      common and have been reported with multiple classes of medications. However, 
+      there are a limited number of studies examining food-drug interactions, and the 
+      majority of recommendations are made by product-specific manufacturers. 
+      Pharmacists should be aware of common food-drug interactions in the community, 
+      assisted living, long-term care, subacute care, and hospital settings. To 
+      optimize medication therapy and improve therapeutic outcomes, it is important for 
+      pharmacists and other health care providers to identify agents with potential for 
+      food-drug interactions and to understand the clinical relevance of such 
+      interactions.
+FAU - Ased, Sumaya
+AU  - Ased S
+FAU - Wells, Jana
+AU  - Wells J
+FAU - Morrow, Lee E
+AU  - Morrow LE
+FAU - Malesker, Mark A
+AU  - Malesker MA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Consult Pharm
+JT  - The Consultant pharmacist : the journal of the American Society of Consultant 
+      Pharmacists
+JID - 9013983
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Drug-Related Side Effects and Adverse Reactions
+MH  - Enteral Nutrition
+MH  - *Food-Drug Interactions
+MH  - Humans
+MH  - Medication Therapy Management
+MH  - Pharmacists
+EDAT- 2018/11/22 06:00
+MHDA- 2019/02/01 06:00
+CRDT- 2018/11/22 06:00
+PHST- 2018/11/22 06:00 [entrez]
+PHST- 2018/11/22 06:00 [pubmed]
+PHST- 2019/02/01 06:00 [medline]
+AID - 10.4140/TCP.n.2018.649. [doi]
+PST - ppublish
+SO  - Consult Pharm. 2018 Nov 1;33(11):649-657. doi: 10.4140/TCP.n.2018.649..
+
+PMID- 34445237
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210916
+LR  - 20210916
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 16
+DP  - 2021 Aug 8
+TI  - The Clinical Significance of Drug-Food Interactions of Direct Oral 
+      Anticoagulants.
+LID - 10.3390/ijms22168531 [doi]
+LID - 8531
+AB  - Cardiovascular diseases are the most common cause of death in the world. For 
+      almost 60 years, vitamin K antagonists (VKAs) were the mainstay of 
+      anticoagulation therapy, but in recent years direct oral anticoagulants (DOACs) 
+      have become the anticoagulant treatment of choice. DOACs were initially 
+      considered drugs with no significant food interactions; however, clinical 
+      observations from daily practice have proved otherwise as interactions with food 
+      ingredients have been reported. Food, dietary supplements or herbs may contain 
+      substances that, when administered concomitantly with DOACs, can potentially 
+      affect the plasma concentration of the drugs. The aim of this paper was to 
+      evaluate the clinical significance of drug-food interactions of DOACs, such as 
+      dabigatran, rivaroxaban, apixaban, edoxaban and betrixaban. Patients treated with 
+      anticoagulants should avoid products containing St. John's wort and take special 
+      care with other food ingredients. As the interest in dietary supplements is on 
+      the rise, healthcare providers can contribute to the development of well-designed 
+      clinical trials on interactions between DOACs and food, and distribute sufficient 
+      knowledge about the proper use of these supplements among patients.
+FAU - Grześk, Grzegorz
+AU  - Grześk G
+AUID- ORCID: 0000-0001-6669-5931
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+FAU - Rogowicz, Daniel
+AU  - Rogowicz D
+AUID- ORCID: 0000-0001-8440-902X
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+FAU - Wołowiec, Łukasz
+AU  - Wołowiec Ł
+AUID- ORCID: 0000-0002-7731-6367
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+FAU - Ratajczak, Agnieszka
+AU  - Ratajczak A
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+FAU - Gilewski, Wojciech
+AU  - Gilewski W
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+FAU - Chudzińska, Małgorzata
+AU  - Chudzińska M
+AD  - Department of Nutrition and Dietetics, Ludwik Rydygier Collegium Medicum in 
+      Bydgoszcz, Nicolaus Copernicus University in Toruń, Dębowa 3 Street, 85-626 
+      Bydgoszcz, Poland.
+FAU - Sinkiewicz, Anna
+AU  - Sinkiewicz A
+AD  - Department of Otolaryngology, Audiology and Phoniatrics, University Hospital No. 
+      2, Collegium Medicum, Nicolaus Copernicus University in Toruń, Ujejskiego 75 
+      Street, 85-168 Bydgoszcz, Poland.
+FAU - Banach, Joanna
+AU  - Banach J
+AD  - Department of Cardiology and Clinical Pharmacology, Faculty of Health Sciences, 
+      Ludwik Rydygier Collegium Medicum in Bydgoszcz, Nicolaus Copernicus University in 
+      Toruń, Ujejskiego 75 Street, 85-168 Bydgoszcz, Poland.
+LA  - eng
+GR  - WN768/Uniwersytet Mikolaja Kopernika w Toruniu/
+PT  - Journal Article
+PT  - Review
+DEP - 20210808
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Anticoagulants)
+RN  - 12001-79-5 (Vitamin K)
+SB  - IM
+MH  - Administration, Oral
+MH  - *Anticoagulants/pharmacokinetics/therapeutic use
+MH  - *Dietary Supplements
+MH  - *Food-Drug Interactions
+MH  - Humans
+MH  - *Vitamin K/antagonists & inhibitors/blood
+PMC - PMC8395160
+OTO - NOTNLM
+OT  - apixaban
+OT  - betrixaban
+OT  - dabigatran
+OT  - dietary supplements
+OT  - edoxaban
+OT  - food interaction
+OT  - resveratrol supplementation
+OT  - rivaroxaban
+OT  - treatment
+COIS- G.G. received honoraria from Bayer, Boehringer Ingelheim and Pfizer for lectures. 
+      D.R. received honoraria from Bayer and AstraZeneca for lectures. Ł.W. received 
+      honoraria from Bayer for lectures. The remaining authors declare no conflict of 
+      interest.
+EDAT- 2021/08/28 06:00
+MHDA- 2021/09/18 06:00
+CRDT- 2021/08/27 01:23
+PHST- 2021/07/05 00:00 [received]
+PHST- 2021/08/05 00:00 [revised]
+PHST- 2021/08/06 00:00 [accepted]
+PHST- 2021/08/27 01:23 [entrez]
+PHST- 2021/08/28 06:00 [pubmed]
+PHST- 2021/09/18 06:00 [medline]
+AID - ijms22168531 [pii]
+AID - ijms-22-08531 [pii]
+AID - 10.3390/ijms22168531 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Aug 8;22(16):8531. doi: 10.3390/ijms22168531.
+
+PMID- 28622592
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180423
+LR  - 20181202
+IS  - 1950-6007 (Electronic)
+IS  - 0753-3322 (Linking)
+VI  - 93
+DP  - 2017 Sep
+TI  - Second generation H1 - antihistamines interaction with food and alcohol-A 
+      systematic review.
+PG  - 27-39
+LID - S0753-3322(17)30682-0 [pii]
+LID - 10.1016/j.biopha.2017.06.008 [doi]
+AB  - Histamine is a mediator of many physiological processes. It plays an important 
+      role in modulating allergy reactions and immune system responses. H1 receptor is 
+      a therapeutic target for drugs applied in allergic diseases such as allergic 
+      rhinoconjunctivitis, urticarial, or atopic dermatitis. H1-antihistamines display 
+      different chemical structures, pharmacokinetics and a potential for drug-drug and 
+      drug-food interactions. Drug-food interactions are known to reduce therapeutic 
+      effects of the medicine, as well as to induce a potent adverse drug reactions. 
+      Considering it all, a systematic review was conducted to investigate the 
+      importance of drug-food interaction for H1-antihistamine drugs. As non-sedating 
+      second generation H1-antihistamines remain to be drugs of choice in treating 
+      allergic conditions, the review has been focused on this particular class of 
+      medicines. The aim of this paper is to examine the evidence of food-drug and 
+      food-alcohol interactions for second generation H1-antihistamine drugs. A 
+      systematic literature queries were performed in the following databases: Medline 
+      (via PubMed), Cochrane Library, Embase and Web of Science (all from their 
+      inception date till October 2016). The queries covered nine specific names of 
+      second generation anthistamine drugs, namely bilastine, cetirizine, 
+      desloratadine, ebastine, fexofenadine, levocetirizine, loratadine, mizolastine, 
+      and rupatadine, in combinations with such terms as "food", "juice", "grapefruit", 
+      "fruits", "alcohol", "pharmacokinetics", and "meal". Additional publications were 
+      found by checking all the reference lists. Where none data on drug-food 
+      interaction could be found within the investigated databases, a specific drug 
+      prescribing information was used. 2326 publications were identified with the 
+      database queries. Articles were subjected to analysis by reviewing their title, 
+      abstract and full text; duplicated papers were removed. Having collected a 
+      complete set of data, a critical review was undertaken. For selected 
+      H1-antihistamines food, fruit juices or alcohol consumption may significantly 
+      impact the efficacy and safety of the therapy. This issue shall be well 
+      understood to educate patients properly, as it provides the major therapeutic 
+      element in allergic diseases.
+CI  - Copyright © 2017 Elsevier Masson SAS. All rights reserved.
+FAU - Paśko, Paweł
+AU  - Paśko P
+AD  - Department of Food Chemistry and Nutrition, Faculty of Pharmacy, Jagiellonian 
+      University Medical College, 30-688 Kraków, Poland. Electronic address: 
+      paskopaw@poczta.fm.
+FAU - Rodacki, Tomasz
+AU  - Rodacki T
+AD  - Department of Food Chemistry and Nutrition, Faculty of Pharmacy, Jagiellonian 
+      University Medical College, 30-688 Kraków, Poland.
+FAU - Domagała-Rodacka, Renata
+AU  - Domagała-Rodacka R
+AD  - Department of Gastroenterology, Hepatology and Infectious Diseases, Faculty of 
+      Medicine, Jagiellonian University Medical College, 31-531 Kraków, Poland.
+FAU - Palimonka, Krzysztof
+AU  - Palimonka K
+AD  - Department of Rescue Medicine, Faculty of Health and Medical Science, Andrzej 
+      Frycz Modrzewski Krakow University, 30-705 Kraków, Poland.
+FAU - Marcinkowska, Monika
+AU  - Marcinkowska M
+AD  - Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Jagiellonian 
+      University Medical College, 30-688 Kraków, Poland.
+FAU - Owczarek, Danuta
+AU  - Owczarek D
+AD  - Department of Rescue Medicine, Faculty of Health and Medical Science, Andrzej 
+      Frycz Modrzewski Krakow University, 30-705 Kraków, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170613
+PL  - France
+TA  - Biomed Pharmacother
+JT  - Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+JID - 8213295
+RN  - 0 (Histamine H1 Antagonists)
+RN  - 3K9958V90M (Ethanol)
+SB  - IM
+MH  - Animals
+MH  - Ethanol/*metabolism
+MH  - Food-Drug Interactions/*physiology
+MH  - Histamine H1 Antagonists/*metabolism
+MH  - Humans
+OTO - NOTNLM
+OT  - Alcohol
+OT  - Allergy
+OT  - Grapefruit
+OT  - H1-antihistamines
+OT  - Interaction drugs – food
+EDAT- 2017/06/18 06:00
+MHDA- 2018/04/24 06:00
+CRDT- 2017/06/17 06:00
+PHST- 2017/02/13 00:00 [received]
+PHST- 2017/06/02 00:00 [revised]
+PHST- 2017/06/05 00:00 [accepted]
+PHST- 2017/06/18 06:00 [pubmed]
+PHST- 2018/04/24 06:00 [medline]
+PHST- 2017/06/17 06:00 [entrez]
+AID - S0753-3322(17)30682-0 [pii]
+AID - 10.1016/j.biopha.2017.06.008 [doi]
+PST - ppublish
+SO  - Biomed Pharmacother. 2017 Sep;93:27-39. doi: 10.1016/j.biopha.2017.06.008. Epub 
+      2017 Jun 13.
+
+PMID- 29232282
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181024
+LR  - 20181024
+IS  - 1536-3686 (Electronic)
+IS  - 1075-2765 (Linking)
+VI  - 25
+IP  - 4
+DP  - 2018 Jul/Aug
+TI  - Selected Food/Herb-Drug Interactions: Mechanisms and Clinical Relevance.
+PG  - e423-e433
+LID - 10.1097/MJT.0000000000000705 [doi]
+AB  - BACKGROUND: Food/Herb-drug interactions have become a major problem in health 
+      care. These interactions can lead to loss of therapeutic efficacy or toxic 
+      effects of drugs. AREAS OF UNCERTAINTY: To probe the clinical relevance of such 
+      interactions, the impact of food/herb intake on the clinical effects of drug 
+      administration has to be evaluated. Failure to identify and efficiently manage 
+      food-drug interactions can lead to serious consequences. A comprehensive 
+      knowledge of the mechanisms that underpin variability in disposition will help 
+      optimize therapy. DATA SOURCES: Electronic search of literatures from relevant 
+      databases were conducted. A total of 58 original scientific reports/review 
+      articles were obtained with the search strategy; of which 25 were found eligible 
+      to be included in the present review. Required data were extracted from these 
+      studies, and their methodologies were assessed. RESULTS AND CONCLUSIONS: This 
+      review updates our knowledge on clinical food-drug interactions with emphasis on 
+      mechanism and clinical implications. Results obtained from literature search 
+      identified interactions with selected foods/herbs generated from in vivo and in 
+      vitro studies. For example, interaction studies in humans revealed a reduction in 
+      the bioavailability of mercaptopurine when taken concurrently with substances 
+      containing xanthine oxidase (eg, cow milk); a reduction in the bioavailability of 
+      quinine with Garcinia kola; increased bioavailability/toxicity of felodipine, 
+      nifedipine, saquinavir, sildenafil with grape juice; increased bioavailability of 
+      felodipine, cisapride with red wine and diminished bioavailability of 
+      fexofenadine with apple. Pharmacokinetic and/or pharmacodynamic mechanisms are 
+      implicated in many of these interactions. By evaluating the dietary patterns of 
+      patients and use of prescribed medications, health professionals will be well 
+      informed of potential interactions and associated adverse effects.
+FAU - Amadi, Cecilia N
+AU  - Amadi CN
+AD  - Departments of Experimental Pharmacology and Toxicology and.
+FAU - Mgbahurike, Amaka A
+AU  - Mgbahurike AA
+AD  - Clinical Pharmacy and Management, Faculty of Pharmaceutical Sciences, University 
+      of Port Harcourt, Rivers State, Nigeria.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Am J Ther
+JT  - American journal of therapeutics
+JID - 9441347
+SB  - IM
+MH  - *Biological Availability
+MH  - Dietary Supplements
+MH  - Drug Therapy/*methods
+MH  - *Eating
+MH  - *Food-Drug Interactions
+MH  - *Herb-Drug Interactions
+MH  - Humans
+MH  - Nutritional Status
+EDAT- 2017/12/13 06:00
+MHDA- 2018/10/26 06:00
+CRDT- 2017/12/13 06:00
+PHST- 2017/12/13 06:00 [pubmed]
+PHST- 2018/10/26 06:00 [medline]
+PHST- 2017/12/13 06:00 [entrez]
+AID - 10.1097/MJT.0000000000000705 [doi]
+PST - ppublish
+SO  - Am J Ther. 2018 Jul/Aug;25(4):e423-e433. doi: 10.1097/MJT.0000000000000705.
+
+PMID- 27914234
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170411
+LR  - 20170411
+IS  - 1873-3441 (Electronic)
+IS  - 0939-6411 (Linking)
+VI  - 112
+DP  - 2017 Mar
+TI  - Food, gastrointestinal pH, and models of oral drug absorption.
+PG  - 234-248
+LID - S0939-6411(16)30575-6 [pii]
+LID - 10.1016/j.ejpb.2016.11.034 [doi]
+AB  - This article reviews the major physiological and physicochemical principles of 
+      the effect of food and gastrointestinal (GI) pH on the absorption and 
+      bioavailability of oral drugs, and the various absorption models that are used to 
+      describe/predict oral drug absorption. The rate and extent of oral drug 
+      absorption is determined by a complex interaction between a drug's 
+      physicochemical properties, GI physiologic factors, and the nature of the 
+      formulation administered. GI pH is an important factor that can markedly affect 
+      oral drug absorption and bioavailability as it may have significant influence on 
+      drug dissolution & solubility, drug release, drug stability, and intestinal 
+      permeability. Different regions of the GI tract have different drug absorptive 
+      properties. Thus, the transit time in each GI region and its variability between 
+      subjects may contribute to the variability in the rate and/or extent of drug 
+      absorption. Food-drug interactions can result in delayed, decreased, increased, 
+      and sometimes un-altered drug absorption. Food effects on oral absorption can be 
+      achieved by direct and indirect mechanisms. Various models have been proposed to 
+      describe oral absorption ranging from empirical models to the more sophisticated 
+      "mechanism-based" models. Through understanding of the physicochemical and 
+      physiological rate-limiting factors affecting oral absorption, modellers can 
+      implement simplified population-based modelling approaches that are less complex 
+      than whole-body physiologically-based models but still capture the essential 
+      elements in a physiological way and hence will be more suited for population 
+      modelling of large clinical data sets. It will also help formulation scientists 
+      to better predict formulation performance and to develop formulations that 
+      maximize oral bioavailability.
+CI  - Copyright © 2016 Elsevier B.V. All rights reserved.
+FAU - Abuhelwa, Ahmad Y
+AU  - Abuhelwa AY
+AD  - Australian Centre for Pharmacometrics and Sansom Institute, School of Pharmacy 
+      and Medical Sciences, University of South Australia, South Australia, Australia. 
+      Electronic address: Ahmad.Abuhelwa@mymail.unisa.edu.au.
+FAU - Williams, Desmond B
+AU  - Williams DB
+AD  - Australian Centre for Pharmacometrics and Sansom Institute, School of Pharmacy 
+      and Medical Sciences, University of South Australia, South Australia, Australia. 
+      Electronic address: Des.Williams@unisa.edu.au.
+FAU - Upton, Richard N
+AU  - Upton RN
+AD  - Australian Centre for Pharmacometrics and Sansom Institute, School of Pharmacy 
+      and Medical Sciences, University of South Australia, South Australia, Australia. 
+      Electronic address: Richard.Upton@unisa.edu.au.
+FAU - Foster, David J R
+AU  - Foster DJ
+AD  - Australian Centre for Pharmacometrics and Sansom Institute, School of Pharmacy 
+      and Medical Sciences, University of South Australia, South Australia, Australia. 
+      Electronic address: David.Foster@unisa.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20161130
+PL  - Netherlands
+TA  - Eur J Pharm Biopharm
+JT  - European journal of pharmaceutics and biopharmaceutics : official journal of 
+      Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V
+JID - 9109778
+SB  - IM
+MH  - Administration, Oral
+MH  - Aged
+MH  - Biological Availability
+MH  - *Food-Drug Interactions
+MH  - Gastrointestinal Tract/*metabolism
+MH  - Humans
+MH  - *Hydrogen-Ion Concentration
+MH  - Pharmacokinetics
+MH  - Solubility
+OTO - NOTNLM
+OT  - Empirical absorption models
+OT  - Food-drug interactions
+OT  - Gastrointestinal pH
+OT  - Physiologically-based pharmacokinetic (PBPK) models
+OT  - Predicting oral absorption
+EDAT- 2016/12/04 06:00
+MHDA- 2017/04/12 06:00
+CRDT- 2016/12/04 06:00
+PHST- 2016/09/22 00:00 [received]
+PHST- 2016/11/27 00:00 [revised]
+PHST- 2016/11/29 00:00 [accepted]
+PHST- 2016/12/04 06:00 [pubmed]
+PHST- 2017/04/12 06:00 [medline]
+PHST- 2016/12/04 06:00 [entrez]
+AID - S0939-6411(16)30575-6 [pii]
+AID - 10.1016/j.ejpb.2016.11.034 [doi]
+PST - ppublish
+SO  - Eur J Pharm Biopharm. 2017 Mar;112:234-248. doi: 10.1016/j.ejpb.2016.11.034. Epub 
+      2016 Nov 30.
+
+PMID- 31571167
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191003
+LR  - 20191007
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1141
+DP  - 2019
+TI  - Transporter-Mediated Drug-Drug Interactions and Their Significance.
+PG  - 241-291
+LID - 10.1007/978-981-13-7647-4_5 [doi]
+AB  - Drug transporters are considered to be determinants of drug disposition and 
+      effects/toxicities by affecting the absorption, distribution, and excretion of 
+      drugs. Drug transporters are generally divided into solute carrier (SLC) family 
+      and ATP binding cassette (ABC) family. Widely studied ABC family transporters 
+      include P-glycoprotein (P-GP), breast cancer resistance protein (BCRP), and 
+      multidrug resistance proteins (MRPs). SLC family transporters related to drug 
+      transport mainly include organic anion-transporting polypeptides (OATPs), organic 
+      anion transporters (OATs), organic cation transporters (OCTs), organic 
+      cation/carnitine transporters (OCTNs), peptide transporters (PEPTs), and 
+      multidrug/toxin extrusions (MATEs). These transporters are often expressed in 
+      tissues related to drug disposition, such as the small intestine, liver, and 
+      kidney, implicating intestinal absorption of drugs, uptake of drugs into 
+      hepatocytes, and renal/bile excretion of drugs. Most of therapeutic drugs are 
+      their substrates or inhibitors. When they are comedicated, serious drug-drug 
+      interactions (DDIs) may occur due to alterations in intestinal absorption, 
+      hepatic uptake, or renal/bile secretion of drugs, leading to enhancement of their 
+      activities or toxicities or therapeutic failure. This chapter will illustrate 
+      transporter-mediated DDIs (including food drug interaction) in human and their 
+      clinical significances.
+FAU - Liu, Xiaodong
+AU  - Liu X
+AD  - China Pharmaceutical University, Nanjing, China. xdliu@cpu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (ATP Binding Cassette Transporter, Subfamily G, Member 2)
+RN  - 0 (ATP-Binding Cassette Transporters)
+RN  - 0 (Neoplasm Proteins)
+RN  - 0 (Organic Anion Transporters)
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - ATP Binding Cassette Transporter, Subfamily G, Member 2/metabolism
+MH  - *ATP-Binding Cassette Transporters/metabolism
+MH  - Biological Transport
+MH  - *Drug Interactions
+MH  - Food-Drug Interactions
+MH  - Humans
+MH  - Neoplasm Proteins/metabolism
+MH  - Organic Anion Transporters
+MH  - *Pharmaceutical Preparations/metabolism
+OTO - NOTNLM
+OT  - Hepatic uptake
+OT  - Intestinal absorption food-drug interaction
+OT  - Renal secretion
+OT  - Transporter
+OT  - Transporter-mediated drug-drug interaction
+EDAT- 2019/10/02 06:00
+MHDA- 2019/10/08 06:00
+CRDT- 2019/10/02 06:00
+PHST- 2019/10/02 06:00 [entrez]
+PHST- 2019/10/02 06:00 [pubmed]
+PHST- 2019/10/08 06:00 [medline]
+AID - 10.1007/978-981-13-7647-4_5 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2019;1141:241-291. doi: 10.1007/978-981-13-7647-4_5.

@@ -1,0 +1,1039 @@
+PMID- 30594306
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190313
+LR  - 20190313
+IS  - 1873-3735 (Electronic)
+IS  - 0165-6147 (Linking)
+VI  - 40
+IP  - 2
+DP  - 2019 Feb
+TI  - Toxicogenomics: A 2020 Vision.
+PG  - 92-103
+LID - S0165-6147(18)30226-8 [pii]
+LID - 10.1016/j.tips.2018.12.001 [doi]
+AB  - Toxicogenomics (TGx) has contributed significantly to toxicology and now has 
+      great potential to support moves towards animal-free approaches in regulatory 
+      decision making. Here, we discuss in vitro TGx systems and their potential impact 
+      on risk assessment. We raise awareness of the rapid advancement of genomics 
+      technologies, which generates novel genomics features essential for enhanced risk 
+      assessment. We specifically emphasize the importance of reproducibility in 
+      utilizing TGx in the regulatory setting. We also highlight the role of machine 
+      learning (particularly deep learning) in developing TGx-based predictive models. 
+      Lastly, we touch on the topics of how TGx approaches could facilitate adverse 
+      outcome pathways (AOP) development and enhance read-across strategies to further 
+      regulatory application. Finally, we summarize current efforts to develop TGx for 
+      risk assessment and set out remaining challenges.
+CI  - Copyright © 2018 Elsevier Ltd. All rights reserved.
+FAU - Liu, Zhichao
+AU  - Liu Z
+AD  - National Center for Toxicological Research, U.S. Food and Drug Administration, 
+      Jefferson, Arkansas 72079, USA. Electronic address: zhichao.liu@fda.hhs.gov.
+FAU - Huang, Ruili
+AU  - Huang R
+AD  - National Center for Advancing Translational Sciences, National Institutes of 
+      Health, Rockville, Maryland 20850, USA.
+FAU - Roberts, Ruth
+AU  - Roberts R
+AD  - ApconiX, BioHub at Alderley Park, Alderley Edge, SK10 4TG, UK; University of 
+      Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+FAU - Tong, Weida
+AU  - Tong W
+AD  - National Center for Toxicological Research, U.S. Food and Drug Administration, 
+      Jefferson, Arkansas 72079, USA. Electronic address: weida.tong@fda.hhs.gov.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20181226
+PL  - England
+TA  - Trends Pharmacol Sci
+JT  - Trends in pharmacological sciences
+JID - 7906158
+SB  - IM
+MH  - Animal Testing Alternatives
+MH  - Animals
+MH  - Humans
+MH  - Machine Learning
+MH  - Reproducibility of Results
+MH  - Risk Assessment/methods
+MH  - Toxicogenetics/*methods/trends
+OTO - NOTNLM
+OT  - adverse outcome pathways
+OT  - deep learning
+OT  - regulatory sciences
+OT  - reproducibility
+OT  - toxicogenomics
+EDAT- 2018/12/31 06:00
+MHDA- 2019/03/14 06:00
+CRDT- 2018/12/31 06:00
+PHST- 2018/08/31 00:00 [received]
+PHST- 2018/11/23 00:00 [revised]
+PHST- 2018/12/04 00:00 [accepted]
+PHST- 2018/12/31 06:00 [pubmed]
+PHST- 2019/03/14 06:00 [medline]
+PHST- 2018/12/31 06:00 [entrez]
+AID - S0165-6147(18)30226-8 [pii]
+AID - 10.1016/j.tips.2018.12.001 [doi]
+PST - ppublish
+SO  - Trends Pharmacol Sci. 2019 Feb;40(2):92-103. doi: 10.1016/j.tips.2018.12.001. 
+      Epub 2018 Dec 26.
+
+PMID- 33068428
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210128
+LR  - 20210330
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 49
+IP  - D1
+DP  - 2021 Jan 8
+TI  - Comparative Toxicogenomics Database (CTD): update 2021.
+PG  - D1138-D1143
+LID - 10.1093/nar/gkaa891 [doi]
+AB  - The public Comparative Toxicogenomics Database (CTD; http://ctdbase.org/) is an 
+      innovative digital ecosystem that relates toxicological information for 
+      chemicals, genes, phenotypes, diseases, and exposures to advance understanding 
+      about human health. Literature-based, manually curated interactions are 
+      integrated to create a knowledgebase that harmonizes cross-species heterogeneous 
+      data for chemical exposures and their biological repercussions. In this biennial 
+      update, we report a 20% increase in CTD curated content and now provide 45 
+      million toxicogenomic relationships for over 16 300 chemicals, 51 300 genes, 5500 
+      phenotypes, 7200 diseases and 163 000 exposure events, from 600 comparative 
+      species. Furthermore, we increase the functionality of chemical-phenotype content 
+      with new data-tabs on CTD Disease pages (to help fill in knowledge gaps for 
+      environmental health) and new phenotype search parameters (for Batch Query and 
+      Venn analysis tools). As well, we introduce new CTD Anatomy pages that allow 
+      users to uniquely explore and analyze chemical-phenotype interactions from an 
+      anatomical perspective. Finally, we have enhanced CTD Chemical pages with new 
+      literature-based chemical synonyms (to improve querying) and added 1600 amino 
+      acid-based compounds (to increase chemical landscape). Together, these updates 
+      continue to augment CTD as a powerful resource for generating testable hypotheses 
+      about the etiologies and molecular mechanisms underlying environmentally 
+      influenced diseases.
+CI  - © The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic 
+      Acids Research.
+FAU - Davis, Allan Peter
+AU  - Davis AP
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Grondin, Cynthia J
+AU  - Grondin CJ
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Johnson, Robin J
+AU  - Johnson RJ
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Sciaky, Daniela
+AU  - Sciaky D
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Wiegers, Jolene
+AU  - Wiegers J
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Wiegers, Thomas C
+AU  - Wiegers TC
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+FAU - Mattingly, Carolyn J
+AU  - Mattingly CJ
+AD  - Department of Biological Sciences, North Carolina State University, Raleigh, NC 
+      27695, USA.
+AD  - Center for Human Health and the Environment, North Carolina State University, 
+      Raleigh, NC 27695, USA.
+LA  - eng
+GR  - R01 ES014065/ES/NIEHS NIH HHS/United States
+GR  - P30 ES025128/ES/NIEHS NIH HHS/United States
+GR  - R01 ES023788/ES/NIEHS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 0 (Prescription Drugs)
+RN  - 0 (Xenobiotics)
+SB  - IM
+MH  - Databases, Chemical
+MH  - *Databases, Factual
+MH  - Databases, Genetic
+MH  - *Gene-Environment Interaction
+MH  - Genome, Human/*drug effects
+MH  - Genomics/*methods
+MH  - Genotype
+MH  - Humans
+MH  - Internet
+MH  - Knowledge Bases
+MH  - Organ Specificity
+MH  - Phenotype
+MH  - Prescription Drugs/chemistry/*pharmacology
+MH  - Software
+MH  - Toxicogenetics/methods
+MH  - Xenobiotics/chemistry/*toxicity
+PMC - PMC7779006
+EDAT- 2020/10/18 06:00
+MHDA- 2021/01/29 06:00
+CRDT- 2020/10/17 17:04
+PHST- 2020/09/30 00:00 [accepted]
+PHST- 2020/09/25 00:00 [revised]
+PHST- 2020/08/14 00:00 [received]
+PHST- 2020/10/18 06:00 [pubmed]
+PHST- 2021/01/29 06:00 [medline]
+PHST- 2020/10/17 17:04 [entrez]
+AID - 5929242 [pii]
+AID - gkaa891 [pii]
+AID - 10.1093/nar/gkaa891 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2021 Jan 8;49(D1):D1138-D1143. doi: 10.1093/nar/gkaa891.
+
+PMID- 27864593
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170907
+LR  - 20170907
+IS  - 0724-6145 (Print)
+IS  - 0724-6145 (Linking)
+VI  - 157
+DP  - 2017
+TI  - Toxicogenomics in Environmental Science.
+PG  - 159-186
+LID - 10.1007/10_2016_15 [doi]
+AB  - This chapter reviews the current knowledge and recent progress in the field of 
+      environmental, aquatic ecotoxicogenomics with a focus on transcriptomic methods. 
+      In ecotoxicogenomics the omics technologies are applied for the detection and 
+      assessment of adverse effects in the environment, and thus are to be 
+      distinguished from omics used in human toxicology [Snape et al., Aquat Toxicol 
+      67:143-154, 2004]. Transcriptomic methods in ecotoxicology are applied to gain a 
+      mechanistic understanding of toxic effects on organisms or populations, and thus 
+      aim to bridge the gap between cause and effect. A worthwhile effect-based 
+      interpretation of stressor induced changes on the transcriptome is based on the 
+      principle of phenotypic-anchoring [Paules, Environ Health Perspect 111:A338-A339, 
+      2003]. Thereby, changes on the transcriptomic level can only be identified as 
+      effects if they are clearly linked to a specific stressor-induced effect on the 
+      macroscopic level. By integrating those macroscopic and transcriptomic effects, 
+      conclusions on the effect-inducing type of the stressor can be drawn. 
+      Stressor-specific effects on the transcriptomic level can be identified as 
+      stressor-specific induced pathways, transcriptomic patterns, or 
+      stressors-specific genetic biomarkers. In this chapter, examples of the combined 
+      application of macroscopic and transcriptional effects for the identification of 
+      environmental stressors, such as aquatic pollutants, are given and discussed. By 
+      means of these examples, challenges on the way to a standardized application of 
+      transcriptomics in ecotoxicology are discussed. This is also done against the 
+      background of the application of transcriptomic methods in environmental 
+      regulation such as the EU regulation Registration, Evaluation, Authorisation and 
+      Restriction of Chemicals (REACH).
+FAU - Brinke, Alexandra
+AU  - Brinke A
+AD  - Division of Biochemistry and Ecotoxicology, Federal Institute of Hydrology (BfG), 
+      Koblenz, 56068, Germany. alexandra.brinke@bafg.de.
+FAU - Buchinger, Sebastian
+AU  - Buchinger S
+AD  - Division of Biochemistry and Ecotoxicology, Federal Institute of Hydrology (BfG), 
+      Koblenz, 56068, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Germany
+TA  - Adv Biochem Eng Biotechnol
+JT  - Advances in biochemical engineering/biotechnology
+JID - 8307733
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Mutagens)
+SB  - IM
+MH  - Animals
+MH  - Biological Assay/methods/trends
+MH  - Ecology/methods/trends
+MH  - Ecotoxicology/methods/trends
+MH  - Environmental Monitoring/*methods
+MH  - Environmental Pollutants/*toxicity
+MH  - Gene Expression Profiling/*methods/trends
+MH  - High-Throughput Nucleotide Sequencing/*methods/trends
+MH  - Humans
+MH  - Mutagenicity Tests/*methods/trends
+MH  - Mutagens/toxicity
+MH  - Risk Assessment/methods/trends
+MH  - Toxicogenetics/*methods/trends
+MH  - Transcriptome/drug effects/genetics
+OTO - NOTNLM
+OT  - (Eco-)toxicogenomics
+OT  - Pathway analysis
+OT  - Transcriptional pattern
+OT  - Transcriptomic biomarker
+OT  - omics in regulation
+EDAT- 2016/11/20 06:00
+MHDA- 2017/09/08 06:00
+CRDT- 2016/11/20 06:00
+PHST- 2016/11/20 06:00 [pubmed]
+PHST- 2017/09/08 06:00 [medline]
+PHST- 2016/11/20 06:00 [entrez]
+AID - 10.1007/10_2016_15 [doi]
+PST - ppublish
+SO  - Adv Biochem Eng Biotechnol. 2017;157:159-186. doi: 10.1007/10_2016_15.
+
+PMID- 29453537
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180814
+LR  - 20180814
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1048
+DP  - 2018
+TI  - Toxicogenomics: A New Paradigm for Nanotoxicity Evaluation.
+PG  - 143-161
+LID - 10.1007/978-3-319-72041-8_9 [doi]
+AB  - The wider applications of nanoparticles (NPs) has evoked a world-wide concern due 
+      to their possible risk of toxicity in humans and other organisms. Aggregation and 
+      accumulation of NPs into cell leads to their interaction with biological 
+      macromolecules including proteins, nucleic acids and cellular organelles, which 
+      eventually induce toxicological effects. Application of toxicogenomics to 
+      investigate molecular pathway-based toxicological consequences has opened new 
+      vistas in nanotoxicology research. Indeed, genomic approaches appeared as a new 
+      paradigm in terms of providing information at molecular levels and have been 
+      proven to be as a powerful tool for identification and quantification of global 
+      shifts in gene expression. Toxicological responses of NPs have been discussed in 
+      this chapter with the aim to provide a clear understanding of the molecular 
+      mechanism of NPs induced toxicity both in in vivo and in vitro test models.
+FAU - Dwivedi, Sourabh
+AU  - Dwivedi S
+AD  - Department of Applied Physics, Faculty of Engineering and Technology, Aligarh 
+      Muslim University, Aligarh, Uttar Pradesh, India.
+FAU - Saquib, Quaiser
+AU  - Saquib Q
+AD  - Zoology Department, College of Sciences, King Saud University, P.O. Box 2455, 
+      Riyadh, 11451, Saudi Arabia.
+FAU - Ahmad, Bilal
+AU  - Ahmad B
+AD  - Department of Agricultural Microbiology, Faculty of Agricultural Sciences, 
+      Aligarh Muslim University, Aligarh, Uttar Pradesh, India.
+FAU - Ansari, Sabiha M
+AU  - Ansari SM
+AD  - Department of Botany and Microbiology, College of Sciences, King Saud University, 
+      P.O. Box 2455, Riyadh, 11451, Saudi Arabia.
+FAU - Azam, Ameer
+AU  - Azam A
+AD  - Department of Applied Physics, Faculty of Engineering and Technology, Aligarh 
+      Muslim University, Aligarh, Uttar Pradesh, India.
+FAU - Musarrat, Javed
+AU  - Musarrat J
+AD  - Department of Agricultural Microbiology, Faculty of Agricultural Sciences, 
+      Aligarh Muslim University, Aligarh, Uttar Pradesh, India. musarratj1@yahoo.com.
+AD  - Department of Biosciences and Biotechnology, Baba Ghulam Shah Badshah University, 
+      Rajouri, Jammu and Kashmir, India. musarratj1@yahoo.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+SB  - IM
+MH  - Animals
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - Nanoparticles/*toxicity
+MH  - Toxicogenetics/*methods
+OTO - NOTNLM
+OT  - Microarray
+OT  - Nanoparticles
+OT  - Oxidative stress
+OT  - RNA-Seq
+OT  - Toxicogenomics
+EDAT- 2018/02/18 06:00
+MHDA- 2018/08/15 06:00
+CRDT- 2018/02/18 06:00
+PHST- 2018/02/18 06:00 [entrez]
+PHST- 2018/02/18 06:00 [pubmed]
+PHST- 2018/08/15 06:00 [medline]
+AID - 10.1007/978-3-319-72041-8_9 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2018;1048:143-161. doi: 10.1007/978-3-319-72041-8_9.
+
+PMID- 35955413
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220815
+LR  - 20220818
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 23
+IP  - 15
+DP  - 2022 Jul 27
+TI  - Toxicogenomics and Molecular Markers in Pollution.
+LID - 10.3390/ijms23158280 [doi]
+LID - 8280
+AB  - Pollution is defined as the presence in or introduction of a substance into the 
+      environment that has harmful or poisonous effects [...].
+FAU - Crespo-Lopez, Maria Elena
+AU  - Crespo-Lopez ME
+AUID- ORCID: 0000-0002-1335-6853
+AD  - Laboratório de Farmacologia Molecular, Instituto de Ciências Biológicas, 
+      Universidade Federal do Pará, Belém 66075-110, PA, Brazil.
+LA  - eng
+GR  - 427784/2018-2 and 313406/2021-9/National Council for Scientific and Technological 
+      Development/
+GR  - 88887.200500/2018-00/Coordenação de Aperfeicoamento de Pessoal de Nível Superior/
+GR  - n/a/Pró-Reitoria de Pesquisa e Pós-graduação da Universidade Federal do Pará 
+      (PROPESP/UFPA)/
+PT  - Editorial
+DEP - 20220727
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Biomarkers
+MH  - Risk Assessment
+MH  - *Toxicogenetics
+PMC - PMC9367876
+COIS- The author declares no conflict of interest. The funders had no role in the 
+      activities related to this Editorial and the Special Issue.
+EDAT- 2022/08/13 06:00
+MHDA- 2022/08/16 06:00
+CRDT- 2022/08/12 01:11
+PHST- 2022/06/15 00:00 [received]
+PHST- 2022/06/30 00:00 [revised]
+PHST- 2022/07/23 00:00 [accepted]
+PHST- 2022/08/12 01:11 [entrez]
+PHST- 2022/08/13 06:00 [pubmed]
+PHST- 2022/08/16 06:00 [medline]
+AID - ijms23158280 [pii]
+AID - ijms-23-08280 [pii]
+AID - 10.3390/ijms23158280 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2022 Jul 27;23(15):8280. doi: 10.3390/ijms23158280.
+
+PMID- 32276469
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2079-4991 (Print)
+IS  - 2079-4991 (Electronic)
+IS  - 2079-4991 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2020 Apr 8
+TI  - Transcriptomics in Toxicogenomics, Part III: Data Modelling for Risk Assessment.
+LID - 10.3390/nano10040708 [doi]
+LID - 708
+AB  - Transcriptomics data are relevant to address a number of challenges in 
+      Toxicogenomics (TGx). After careful planning of exposure conditions and data 
+      preprocessing, the TGx data can be used in predictive toxicology, where more 
+      advanced modelling techniques are applied. The large volume of molecular profiles 
+      produced by omics-based technologies allows the development and application of 
+      artificial intelligence (AI) methods in TGx. Indeed, the publicly available omics 
+      datasets are constantly increasing together with a plethora of different methods 
+      that are made available to facilitate their analysis, interpretation and the 
+      generation of accurate and stable predictive models. In this review, we present 
+      the state-of-the-art of data modelling applied to transcriptomics data in TGx. We 
+      show how the benchmark dose (BMD) analysis can be applied to TGx data. We review 
+      read across and adverse outcome pathways (AOP) modelling methodologies. We 
+      discuss how network-based approaches can be successfully employed to clarify the 
+      mechanism of action (MOA) or specific biomarkers of exposure. We also describe 
+      the main AI methodologies applied to TGx data to create predictive classification 
+      and regression models and we address current challenges. Finally, we present a 
+      short description of deep learning (DL) and data integration methodologies 
+      applied in these contexts. Modelling of TGx data represents a valuable tool for 
+      more accurate chemical safety assessment. This review is the third part of a 
+      three-article series on Transcriptomics in Toxicogenomics.
+FAU - Serra, Angela
+AU  - Serra A
+AUID- ORCID: 0000-0002-3374-1492
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Fratello, Michele
+AU  - Fratello M
+AUID- ORCID: 0000-0002-3997-2339
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Cattelani, Luca
+AU  - Cattelani L
+AUID- ORCID: 0000-0003-4852-2310
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Liampa, Irene
+AU  - Liampa I
+AUID- ORCID: 0000-0002-6350-6776
+AD  - School of Chemical Engineering, National Technical University of Athens, 157 80 
+      Athens, Greece.
+FAU - Melagraki, Georgia
+AU  - Melagraki G
+AUID- ORCID: 0000-0001-7547-2342
+AD  - Nanoinformatics Department, NovaMechanics Ltd., Nicosia 1065, Cyprus.
+FAU - Kohonen, Pekka
+AU  - Kohonen P
+AUID- ORCID: 0000-0002-7845-3611
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Nymark, Penny
+AU  - Nymark P
+AUID- ORCID: 0000-0002-3435-7775
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Federico, Antonio
+AU  - Federico A
+AUID- ORCID: 0000-0003-2554-9879
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Kinaret, Pia Anneli Sofia
+AU  - Kinaret PAS
+AUID- ORCID: 0000-0002-3312-5331
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+AD  - Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+FAU - Jagiello, Karolina
+AU  - Jagiello K
+AD  - QSAR Lab Ltd., Aleja Grunwaldzka 190/102, 80-266 Gdansk, Poland.
+AD  - University of Gdansk, Faculty of Chemistry, Wita Stwosza 63, 80-308 Gdansk, 
+      Poland.
+FAU - Ha, My Kieu
+AU  - Ha MK
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Choi, Jang-Sik
+AU  - Choi JS
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Sanabria, Natasha
+AU  - Sanabria N
+AUID- ORCID: 0000-0002-1613-6178
+AD  - National Institute for Occupational Health, Johannesburg 30333, South Africa.
+FAU - Gulumian, Mary
+AU  - Gulumian M
+AD  - National Institute for Occupational Health, Johannesburg 30333, South Africa.
+AD  - Haematology and Molecular Medicine Department, School of Pathology, University of 
+      the Witwatersrand, Johannesburg 2050, South Africa.
+FAU - Puzyn, Tomasz
+AU  - Puzyn T
+AUID- ORCID: 0000-0003-0449-8339
+AD  - QSAR Lab Ltd., Aleja Grunwaldzka 190/102, 80-266 Gdansk, Poland.
+AD  - University of Gdansk, Faculty of Chemistry, Wita Stwosza 63, 80-308 Gdansk, 
+      Poland.
+FAU - Yoon, Tae-Hyun
+AU  - Yoon TH
+AUID- ORCID: 0000-0002-2743-6360
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Sarimveis, Haralambos
+AU  - Sarimveis H
+AUID- ORCID: 0000-0002-8607-9965
+AD  - School of Chemical Engineering, National Technical University of Athens, 157 80 
+      Athens, Greece.
+FAU - Grafström, Roland
+AU  - Grafström R
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Afantitis, Antreas
+AU  - Afantitis A
+AUID- ORCID: 0000-0002-0977-8180
+AD  - Nanoinformatics Department, NovaMechanics Ltd., Nicosia 1065, Cyprus.
+FAU - Greco, Dario
+AU  - Greco D
+AUID- ORCID: 0000-0001-9195-9003
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+AD  - Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+LA  - eng
+GR  - 322761/Academy of Finland/
+GR  - 814572/EU H2020 NanosolveIT/
+PT  - Journal Article
+PT  - Review
+DEP - 20200408
+TA  - Nanomaterials (Basel)
+JT  - Nanomaterials (Basel, Switzerland)
+JID - 101610216
+PMC - PMC7221955
+OTO - NOTNLM
+OT  - QSAR
+OT  - benchmark dose analysis
+OT  - data integration
+OT  - data modelling
+OT  - deep learning
+OT  - machine learning
+OT  - network analysis
+OT  - read-across
+OT  - toxicogenomics
+OT  - transcriptomics
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/04/12 06:00
+MHDA- 2020/04/12 06:01
+CRDT- 2020/04/12 06:00
+PHST- 2020/03/10 00:00 [received]
+PHST- 2020/03/25 00:00 [revised]
+PHST- 2020/03/26 00:00 [accepted]
+PHST- 2020/04/12 06:00 [entrez]
+PHST- 2020/04/12 06:00 [pubmed]
+PHST- 2020/04/12 06:01 [medline]
+AID - nano10040708 [pii]
+AID - nanomaterials-10-00708 [pii]
+AID - 10.3390/nano10040708 [doi]
+PST - epublish
+SO  - Nanomaterials (Basel). 2020 Apr 8;10(4):708. doi: 10.3390/nano10040708.
+
+PMID- 32087008
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201228
+LR  - 20201228
+IS  - 1464-3804 (Electronic)
+IS  - 0267-8357 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2020 Mar 27
+TI  - The promise of toxicogenomics for genetic toxicology: past, present and future.
+PG  - 153-159
+LID - 10.1093/mutage/geaa007 [doi]
+AB  - Toxicogenomics, the application of genomics to toxicology, was described as 'a 
+      new era' for toxicology. Standard toxicity tests typically involve a number of 
+      short-term bioassays that are costly, time consuming, require large numbers of 
+      animals and generally focus on a single end point. Toxicogenomics was heralded as 
+      a way to improve the efficiency of toxicity testing by assessing gene regulation 
+      across the genome, allowing rapid classification of compounds based on 
+      characteristic expression profiles. Gene expression microarrays could measure and 
+      characterise genome-wide gene expression changes in a single study and while 
+      transcriptomic profiles that can discriminate between genotoxic and non-genotoxic 
+      carcinogens have been identified, challenges with the approach limited its 
+      application. As such, toxicogenomics did not transform the field of genetic 
+      toxicology in the way it was predicted. More recently, next generation sequencing 
+      (NGS) technologies have revolutionised genomics owing to the fact that hundreds 
+      of billions of base pairs can be sequenced simultaneously cheaper and quicker 
+      than traditional Sanger methods. In relation to genetic toxicology, and thousands 
+      of cancer genomes have been sequenced with single-base substitution mutational 
+      signatures identified, and mutation signatures have been identified following 
+      treatment of cells with known or suspected environmental carcinogens. RNAseq has 
+      been applied to detect transcriptional changes following treatment with 
+      genotoxins; modified RNAseq protocols have been developed to identify adducts in 
+      the genome and Duplex sequencing is an example of a technique that has recently 
+      been developed to accurately detect mutation. Machine learning, including 
+      MutationSeq and SomaticSeq, has also been applied to somatic mutation detection 
+      and improvements in automation and/or the application of machine learning 
+      algorithms may allow high-throughput mutation sequencing in the future. This 
+      review will discuss the initial promise of transcriptomics for genetic 
+      toxicology, and how the development of NGS technologies and new machine learning 
+      algorithms may finally realise that promise.
+CI  - © The Author(s) 2020. Published by Oxford University Press on behalf of the UK 
+      Environmental Mutagen Society.All rights reserved. For permissions, please 
+      e-mail: journals.permissions@oup.com.
+FAU - David, Rhiannon
+AU  - David R
+AD  - Clinical Pharmacology and Safety Sciences, R&D, AstraZeneca, Cambridge, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Mutagenesis
+JT  - Mutagenesis
+JID - 8707812
+RN  - 0 (Mutagens)
+SB  - IM
+MH  - Algorithms
+MH  - Gene Expression Regulation/genetics
+MH  - Genomics/*trends
+MH  - High-Throughput Nucleotide Sequencing/*trends
+MH  - Humans
+MH  - Machine Learning
+MH  - Mutagens/metabolism
+MH  - Mutation
+MH  - Toxicogenetics/*trends
+MH  - Toxicology/*trends
+EDAT- 2020/02/23 06:00
+MHDA- 2020/12/29 06:00
+CRDT- 2020/02/23 06:00
+PHST- 2019/08/21 00:00 [received]
+PHST- 2020/02/10 00:00 [accepted]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2020/12/29 06:00 [medline]
+PHST- 2020/02/23 06:00 [entrez]
+AID - 5748298 [pii]
+AID - 10.1093/mutage/geaa007 [doi]
+PST - ppublish
+SO  - Mutagenesis. 2020 Mar 27;35(2):153-159. doi: 10.1093/mutage/geaa007.
+
+PMID- 35881918
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220817
+LR  - 20220826
+IS  - 1520-5851 (Electronic)
+IS  - 0013-936X (Linking)
+VI  - 56
+IP  - 16
+DP  - 2022 Aug 16
+TI  - Advances in Single-Cell Toxicogenomics in Environmental Toxicology.
+PG  - 11132-11145
+LID - 10.1021/acs.est.2c01098 [doi]
+AB  - The toxicity evaluation system of environmental pollutants has undergone numerous 
+      changes due to the application of new technologies. Single-cell toxicogenomics is 
+      rapidly changing our view on environmental toxicology by increasing the 
+      resolution of our analysis to the level of a single cell. Applications of this 
+      technology in environmental toxicology have begun to emerge and are rapidly 
+      expanding the portfolio of existing technologies and applications. Here, we first 
+      summarized different methods involved in single-cell isolation and amplification 
+      in single-cell sequencing process, compared the advantages and disadvantages of 
+      different methods, and analyzed their development trends. Then, we reviewed the 
+      main advances of single-cell toxicogenomics in environmental toxicology, 
+      emphatically analyzed the application prospects of this technology in identifying 
+      the target cells of pollutants in early embryos, clarifying the heterogeneous 
+      response of cell subtypes to pollutants, and finding pathogenic bacteria in 
+      unknown microbes, and highlighted the unique characteristics of this approach 
+      with high resolution, high throughput, and high specificity by examples. We also 
+      offered a prediction of the further application of this technology and the 
+      revolution it brings in environmental toxicology. Overall, these advances will 
+      provide practical solutions for controlling or mitigating exogenous toxicological 
+      effects that threaten human and ecosystem health, contribute to improving our 
+      understanding of the physiological processes affected by pollutants, and lead to 
+      the emergence of new methods of pollution control.
+FAU - Liu, Yuxuan
+AU  - Liu Y
+AUID- ORCID: 0000-0001-6730-3725
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Chen, Ling
+AU  - Chen L
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Yu, Jing
+AU  - Yu J
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Ye, Lin
+AU  - Ye L
+AUID- ORCID: 0000-0002-4682-8917
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Hu, Haidong
+AU  - Hu H
+AUID- ORCID: 0000-0003-0193-0333
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Wang, Jinfeng
+AU  - Wang J
+AUID- ORCID: 0000-0001-9001-1413
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+FAU - Wu, Bing
+AU  - Wu B
+AUID- ORCID: 0000-0001-7117-580X
+AD  - State Key Laboratory of Pollution Control and Resource Reuse, School of 
+      Environment, Nanjing University, Nanjing 210023, PR China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20220726
+PL  - United States
+TA  - Environ Sci Technol
+JT  - Environmental science & technology
+JID - 0213155
+RN  - 0 (Environmental Pollutants)
+SB  - IM
+MH  - Ecosystem
+MH  - Ecotoxicology
+MH  - *Environmental Pollutants/toxicity
+MH  - Humans
+MH  - Toxicogenetics
+MH  - *Toxicology/methods
+OTO - NOTNLM
+OT  - early embryo
+OT  - heterogeneous response
+OT  - pathogen
+OT  - pollutant
+OT  - single-cell sequencing
+EDAT- 2022/07/27 06:00
+MHDA- 2022/08/18 06:00
+CRDT- 2022/07/26 16:33
+PHST- 2022/07/27 06:00 [pubmed]
+PHST- 2022/08/18 06:00 [medline]
+PHST- 2022/07/26 16:33 [entrez]
+AID - 10.1021/acs.est.2c01098 [doi]
+PST - ppublish
+SO  - Environ Sci Technol. 2022 Aug 16;56(16):11132-11145. doi: 
+      10.1021/acs.est.2c01098. Epub 2022 Jul 26.
+
+PMID- 30909101
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200102
+LR  - 20200102
+IS  - 1096-0953 (Electronic)
+IS  - 0013-9351 (Linking)
+VI  - 173
+DP  - 2019 Jun
+TI  - Toxicogenomics - What added Value Do These Approaches Provide for Carcinogen Risk 
+      Assessment?
+PG  - 157-164
+LID - S0013-9351(19)30153-7 [pii]
+LID - 10.1016/j.envres.2019.03.025 [doi]
+AB  - It is still a major challenge to protect humans at workplaces and in the 
+      environment. To cope with this task, it is a prerequisite to obtain detailed 
+      information on the extent of chemical perturbations of biological pathways, in 
+      particular, adaptive vs. adverse effects and the dose-response relationships. 
+      This knowledge serves as the basis for the classification of non-carcinogens and 
+      carcinogens and for further distinguishing carcinogens in genotoxic (DNA 
+      damaging) or non-genotoxic compounds. Basing on quantitative dose-response 
+      relationships, points of departures can be derived for chemical risk assessment. 
+      In recent years, new methods have shown their capability to support the 
+      established rodent models of carcinogenicity testing. In vitro high throughput 
+      screening assays assess more comprehensively cell response. In addition, omics 
+      technologies were applied to study the mode of action of chemicals whereby the 
+      term "toxicogenomics" comprises various technologies such as transcriptomics, 
+      epigenomics, or metabolomics. This review aims to summarize the current state of 
+      toxicogenomic approaches in risk science and to compare them with established 
+      ones. For example, measurement of global transcriptional changes generates 
+      meaningful information for toxicological risk assessment such as accurate 
+      classification of genotoxic/non-genotoxic carcinogens. Alteration in mRNA 
+      expression offers previously unknown insights in the mode of action and enables 
+      the definition of key events. Based on these, benchmark doses can be calculated 
+      for the transition from an adaptive to an adverse state. In short, this review 
+      assesses the potential and challenges of transcriptomics and addresses the impact 
+      of other omics technologies on risk assessment in terms of hazard identification 
+      and dose-response assessment.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Schmitz-Spanke, Simone
+AU  - Schmitz-Spanke S
+AD  - Institute and Outpatient Clinic of Occupational, Social and Environmental 
+      Medicine, University of Erlangen-Nuremberg, Henkestr. 9-11, 91054, Erlangen, 
+      Germany. Electronic address: Simone.schmitz-spanke@fau.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190313
+PL  - Netherlands
+TA  - Environ Res
+JT  - Environmental research
+JID - 0147621
+RN  - 0 (Carcinogens)
+SB  - IM
+MH  - Carcinogenicity Tests
+MH  - *Carcinogens
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - Risk Assessment
+MH  - *Toxicogenetics
+OTO - NOTNLM
+OT  - Benchmark dose
+OT  - Epigenomics
+OT  - Hazard identification
+OT  - Metabolomics
+OT  - Point of departure
+OT  - Proteomics
+OT  - Risk assessment
+OT  - Toxicogenomics
+OT  - Transcriptomics
+EDAT- 2019/03/26 06:00
+MHDA- 2020/01/03 06:00
+CRDT- 2019/03/26 06:00
+PHST- 2018/10/17 00:00 [received]
+PHST- 2019/03/08 00:00 [revised]
+PHST- 2019/03/10 00:00 [accepted]
+PHST- 2019/03/26 06:00 [pubmed]
+PHST- 2020/01/03 06:00 [medline]
+PHST- 2019/03/26 06:00 [entrez]
+AID - S0013-9351(19)30153-7 [pii]
+AID - 10.1016/j.envres.2019.03.025 [doi]
+PST - ppublish
+SO  - Environ Res. 2019 Jun;173:157-164. doi: 10.1016/j.envres.2019.03.025. Epub 2019 
+      Mar 13.
+
+PMID- 32397130
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2079-4991 (Print)
+IS  - 2079-4991 (Electronic)
+IS  - 2079-4991 (Linking)
+VI  - 10
+IP  - 5
+DP  - 2020 May 8
+TI  - Transcriptomics in Toxicogenomics, Part II: Preprocessing and Differential 
+      Expression Analysis for High Quality Data.
+LID - 10.3390/nano10050903 [doi]
+LID - 903
+AB  - Preprocessing of transcriptomics data plays a pivotal role in the development of 
+      toxicogenomics-driven tools for chemical toxicity assessment. The generation and 
+      exploitation of large volumes of molecular profiles, following an appropriate 
+      experimental design, allows the employment of toxicogenomics (TGx) approaches for 
+      a thorough characterisation of the mechanism of action (MOA) of different 
+      compounds. To date, a plethora of data preprocessing methodologies have been 
+      suggested. However, in most cases, building the optimal analytical workflow is 
+      not straightforward. A careful selection of the right tools must be carried out, 
+      since it will affect the downstream analyses and modelling approaches. 
+      Transcriptomics data preprocessing spans across multiple steps such as quality 
+      check, filtering, normalization, batch effect detection and correction. 
+      Currently, there is a lack of standard guidelines for data preprocessing in the 
+      TGx field. Defining the optimal tools and procedures to be employed in the 
+      transcriptomics data preprocessing will lead to the generation of homogeneous and 
+      unbiased data, allowing the development of more reliable, robust and accurate 
+      predictive models. In this review, we outline methods for the preprocessing of 
+      three main transcriptomic technologies including microarray, bulk RNA-Sequencing 
+      (RNA-Seq), and single cell RNA-Sequencing (scRNA-Seq). Moreover, we discuss the 
+      most common methods for the identification of differentially expressed genes and 
+      to perform a functional enrichment analysis. This review is the second part of a 
+      three-article series on Transcriptomics in Toxicogenomics.
+FAU - Federico, Antonio
+AU  - Federico A
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Serra, Angela
+AU  - Serra A
+AUID- ORCID: 0000-0002-3374-1492
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Ha, My Kieu
+AU  - Ha MK
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Kohonen, Pekka
+AU  - Kohonen P
+AUID- ORCID: 0000-0002-7845-3611
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Choi, Jang-Sik
+AU  - Choi JS
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Liampa, Irene
+AU  - Liampa I
+AUID- ORCID: 0000-0002-6350-6776
+AD  - School of Chemical Engineering, National Technical University of Athens, 157 80 
+      Athens, Greece.
+FAU - Nymark, Penny
+AU  - Nymark P
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Sanabria, Natasha
+AU  - Sanabria N
+AUID- ORCID: 0000-0002-1613-6178
+AD  - National Institute for Occupational Health, 30333 Johannesburg, South Africa.
+FAU - Cattelani, Luca
+AU  - Cattelani L
+AUID- ORCID: 0000-0003-4852-2310
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Fratello, Michele
+AU  - Fratello M
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+FAU - Kinaret, Pia Anneli Sofia
+AU  - Kinaret PAS
+AUID- ORCID: 0000-0002-3312-5331
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+AD  - Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+FAU - Jagiello, Karolina
+AU  - Jagiello K
+AUID- ORCID: 0000-0002-2730-6873
+AD  - QSAR Lab Ltd., Aleja Grunwaldzka 190/102, 80-266 Gdansk, Poland.
+AD  - Faculty of Chemistry, University of Gdansk, Wita Stwosza 63, 80-308 Gdansk, 
+      Poland karolina.jagiello@ug.edu.pl (K.J.).
+FAU - Puzyn, Tomasz
+AU  - Puzyn T
+AD  - QSAR Lab Ltd., Aleja Grunwaldzka 190/102, 80-266 Gdansk, Poland.
+AD  - Faculty of Chemistry, University of Gdansk, Wita Stwosza 63, 80-308 Gdansk, 
+      Poland karolina.jagiello@ug.edu.pl (K.J.).
+FAU - Melagraki, Georgia
+AU  - Melagraki G
+AD  - Nanoinformatics Department, NovaMechanics Ltd., 1065 Nicosia, Cyprus.
+FAU - Gulumian, Mary
+AU  - Gulumian M
+AD  - National Institute for Occupational Health, 30333 Johannesburg, South Africa.
+AD  - Haematology and Molecular Medicine Department, School of Pathology, University of 
+      the Witwatersrand, 2050 Johannesburg, South Africa.
+FAU - Afantitis, Antreas
+AU  - Afantitis A
+AUID- ORCID: 0000-0002-0977-8180
+AD  - Nanoinformatics Department, NovaMechanics Ltd., 1065 Nicosia, Cyprus.
+FAU - Sarimveis, Haralambos
+AU  - Sarimveis H
+AD  - School of Chemical Engineering, National Technical University of Athens, 157 80 
+      Athens, Greece.
+FAU - Yoon, Tae-Hyun
+AU  - Yoon TH
+AUID- ORCID: 0000-0002-2743-6360
+AD  - Center for Next Generation Cytometry, Hanyang University, Seoul 04763, Korea.
+AD  - Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 
+      04763, Korea.
+AD  - Institute of Next Generation Material Design, Hanyang University, Seoul 04763, 
+      Korea.
+FAU - Grafström, Roland
+AU  - Grafström R
+AD  - Institute of Environmental Medicine, Karolinska Institutet, 171 77 Stockholm, 
+      Sweden.
+AD  - Division of Toxicology, Misvik Biology, 20520 Turku, Finland.
+FAU - Greco, Dario
+AU  - Greco D
+AUID- ORCID: 0000-0001-9195-9003
+AD  - Faculty of Medicine and Health Technology, Tampere University, FI-33014 Tampere, 
+      Finland.
+AD  - BioMediTech Institute, Tampere University, FI-33014 Tampere, Finland.
+AD  - Institute of Biotechnology, University of Helsinki, 00014 Helsinki, Finland.
+LA  - eng
+GR  - 322761/Academy of Finland/
+GR  - 814572/H2020 NanosolveIT/
+PT  - Journal Article
+PT  - Review
+DEP - 20200508
+TA  - Nanomaterials (Basel)
+JT  - Nanomaterials (Basel, Switzerland)
+JID - 101610216
+PMC - PMC7279140
+OTO - NOTNLM
+OT  - RNA-Seq
+OT  - batch effect
+OT  - data preprocessing
+OT  - differential expression
+OT  - microarray
+OT  - normalization
+OT  - quality check
+OT  - scRNA-Seq
+OT  - toxicogenomics
+OT  - transcriptomics
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/05/14 06:00
+MHDA- 2020/05/14 06:01
+CRDT- 2020/05/14 06:00
+PHST- 2020/03/10 00:00 [received]
+PHST- 2020/04/29 00:00 [revised]
+PHST- 2020/05/04 00:00 [accepted]
+PHST- 2020/05/14 06:00 [entrez]
+PHST- 2020/05/14 06:00 [pubmed]
+PHST- 2020/05/14 06:01 [medline]
+AID - nano10050903 [pii]
+AID - nanomaterials-10-00903 [pii]
+AID - 10.3390/nano10050903 [doi]
+PST - epublish
+SO  - Nanomaterials (Basel). 2020 May 8;10(5):903. doi: 10.3390/nano10050903.

@@ -1,0 +1,878 @@
+PMID- 30443215
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1663-9812 (Print)
+IS  - 1663-9812 (Electronic)
+IS  - 1663-9812 (Linking)
+VI  - 9
+DP  - 2018
+TI  - Chemoinformatics Strategies for Leishmaniasis Drug Discovery.
+PG  - 1278
+LID - 10.3389/fphar.2018.01278 [doi]
+LID - 1278
+AB  - Leishmaniasis is a fatal neglected tropical disease (NTD) that is caused by more 
+      than 20 species of Leishmania parasites. The disease kills approximately 20,000 
+      people each year and more than 1 billion are susceptible to infection. Although 
+      counting on a few compounds, the therapeutic arsenal faces some drawbacks such as 
+      drug resistance, toxicity issues, high treatment costs, and accessibility 
+      problems, which highlight the need for novel treatment options. Worldwide efforts 
+      have been made to that aim and, as well as in other therapeutic areas, 
+      chemoinformatics have contributed significantly to leishmaniasis drug discovery. 
+      Breakthrough advances in the comprehension of the parasites' molecular biology 
+      have enabled the design of high-affinity ligands for a number of macromolecular 
+      targets. In addition, the use of chemoinformatics has allowed highly accurate 
+      predictions of biological activity and physicochemical and pharmacokinetics 
+      properties of novel antileishmanial compounds. This review puts into perspective 
+      the current context of leishmaniasis drug discovery and focuses on the use of 
+      chemoinformatics to develop better therapies for this life-threatening condition.
+FAU - Ferreira, Leonardo L G
+AU  - Ferreira LLG
+AD  - Laboratory of Medicinal and Computational Chemistry, Center for Research and 
+      Innovation in Biodiversity and Drug Discovery, São Carlos Institute of Physics, 
+      University of São Paulo, São Carlos, Brazil.
+FAU - Andricopulo, Adriano D
+AU  - Andricopulo AD
+AD  - Laboratory of Medicinal and Computational Chemistry, Center for Research and 
+      Innovation in Biodiversity and Drug Discovery, São Carlos Institute of Physics, 
+      University of São Paulo, São Carlos, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20181101
+TA  - Front Pharmacol
+JT  - Frontiers in pharmacology
+JID - 101548923
+PMC - PMC6221941
+OTO - NOTNLM
+OT  - leishmania
+OT  - ligand-based drug design
+OT  - medicinal chemistry
+OT  - molecular modeling
+OT  - neglected tropical diseases
+OT  - structure-based drug design
+EDAT- 2018/11/18 06:00
+MHDA- 2018/11/18 06:01
+CRDT- 2018/11/17 06:00
+PHST- 2018/08/08 00:00 [received]
+PHST- 2018/10/18 00:00 [accepted]
+PHST- 2018/11/17 06:00 [entrez]
+PHST- 2018/11/18 06:00 [pubmed]
+PHST- 2018/11/18 06:01 [medline]
+AID - 10.3389/fphar.2018.01278 [doi]
+PST - epublish
+SO  - Front Pharmacol. 2018 Nov 1;9:1278. doi: 10.3389/fphar.2018.01278. eCollection 
+      2018.
+
+PMID- 32759729
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210217
+LR  - 20210217
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 15
+DP  - 2020 Aug 4
+TI  - The Literature of Chemoinformatics: 1978-2018.
+LID - 10.3390/ijms21155576 [doi]
+LID - 5576
+AB  - This article presents a study of the literature of chemoinformatics, updating and 
+      building upon an analogous bibliometric investigation that was published in 2008. 
+      Data on outputs in the field, and citations to those outputs, were obtained by 
+      means of topic searches of the Web of Science Core Collection. The searches 
+      demonstrate that chemoinformatics is by now a well-defined sub-discipline of 
+      chemistry, and one that forms an essential part of the chemical educational 
+      curriculum. There are three core journals for the subject: The Journal of 
+      Chemical Information and Modeling, the Journal of Cheminformatics, and Molecular 
+      Informatics, and, having established itself, chemoinformatics is now starting to 
+      export knowledge to disciplines outside of chemistry.
+FAU - Willett, Peter
+AU  - Willett P
+AUID- ORCID: 0000-0003-4591-7173
+AD  - Information School, University of Sheffield, Sheffield S1 4DP, UK.
+LA  - eng
+PT  - Editorial
+DEP - 20200804
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+MH  - *Bibliometrics
+MH  - Cheminformatics/*trends
+MH  - Humans
+MH  - Journal Impact Factor
+MH  - Publications/*trends
+PMC - PMC7432360
+OTO - NOTNLM
+OT  - bibliometrics
+OT  - cheminformatics
+OT  - chemoinformatics
+OT  - scientometrics
+COIS- The author declares no competing interests.
+EDAT- 2020/08/08 06:00
+MHDA- 2021/02/18 06:00
+CRDT- 2020/08/08 06:00
+PHST- 2020/07/17 00:00 [received]
+PHST- 2020/07/30 00:00 [revised]
+PHST- 2020/07/31 00:00 [accepted]
+PHST- 2020/08/08 06:00 [entrez]
+PHST- 2020/08/08 06:00 [pubmed]
+PHST- 2021/02/18 06:00 [medline]
+AID - ijms21155576 [pii]
+AID - ijms-21-05576 [pii]
+AID - 10.3390/ijms21155576 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Aug 4;21(15):5576. doi: 10.3390/ijms21155576.
+
+PMID- 32084340
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200824
+LR  - 20220114
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 180
+IP  - 4
+DP  - 2020 Feb 20
+TI  - A Deep Learning Approach to Antibiotic Discovery.
+PG  - 688-702.e13
+LID - S0092-8674(20)30102-1 [pii]
+LID - 10.1016/j.cell.2020.01.021 [doi]
+AB  - Due to the rapid emergence of antibiotic-resistant bacteria, there is a growing 
+      need to discover new antibiotics. To address this challenge, we trained a deep 
+      neural network capable of predicting molecules with antibacterial activity. We 
+      performed predictions on multiple chemical libraries and discovered a molecule 
+      from the Drug Repurposing Hub-halicin-that is structurally divergent from 
+      conventional antibiotics and displays bactericidal activity against a wide 
+      phylogenetic spectrum of pathogens including Mycobacterium tuberculosis and 
+      carbapenem-resistant Enterobacteriaceae. Halicin also effectively treated 
+      Clostridioides difficile and pan-resistant Acinetobacter baumannii infections in 
+      murine models. Additionally, from a discrete set of 23 empirically tested 
+      predictions from >107 million molecules curated from the ZINC15 database, our 
+      model identified eight antibacterial compounds that are structurally distant from 
+      known antibiotics. This work highlights the utility of deep learning approaches 
+      to expand our antibiotic arsenal through the discovery of structurally distinct 
+      antibacterial molecules.
+CI  - Copyright © 2020 Elsevier Inc. All rights reserved.
+FAU - Stokes, Jonathan M
+AU  - Stokes JM
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 
+      02142, USA; Machine Learning for Pharmaceutical Discovery and Synthesis 
+      Consortium, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.
+FAU - Yang, Kevin
+AU  - Yang K
+AD  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, 
+      Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Computer Science 
+      and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA.
+FAU - Swanson, Kyle
+AU  - Swanson K
+AD  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, 
+      Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Computer Science 
+      and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA.
+FAU - Jin, Wengong
+AU  - Jin W
+AD  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, 
+      Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Computer Science 
+      and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA.
+FAU - Cubillos-Ruiz, Andres
+AU  - Cubillos-Ruiz A
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 
+      02142, USA; Wyss Institute for Biologically Inspired Engineering, Harvard 
+      University, Boston, MA 02115, USA.
+FAU - Donghia, Nina M
+AU  - Donghia NM
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Wyss Institute for Biologically Inspired Engineering, 
+      Harvard University, Boston, MA 02115, USA.
+FAU - MacNair, Craig R
+AU  - MacNair CR
+AD  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute 
+      for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, 
+      Canada.
+FAU - French, Shawn
+AU  - French S
+AD  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute 
+      for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, 
+      Canada.
+FAU - Carfrae, Lindsey A
+AU  - Carfrae LA
+AD  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute 
+      for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, 
+      Canada.
+FAU - Bloom-Ackermann, Zohar
+AU  - Bloom-Ackermann Z
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA; Department of 
+      Genetics, Harvard Medical School, Boston, MA 02115, USA.
+FAU - Tran, Victoria M
+AU  - Tran VM
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Chiappino-Pepe, Anush
+AU  - Chiappino-Pepe A
+AD  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, 
+      MA 02115, USA; Department of Genetics, Harvard Medical School, Boston, MA 02115, 
+      USA.
+FAU - Badran, Ahmed H
+AU  - Badran AH
+AD  - Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+FAU - Andrews, Ian W
+AU  - Andrews IW
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 
+      02142, USA; Wyss Institute for Biologically Inspired Engineering, Harvard 
+      University, Boston, MA 02115, USA.
+FAU - Chory, Emma J
+AU  - Chory EJ
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 
+      02142, USA.
+FAU - Church, George M
+AU  - Church GM
+AD  - Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, 
+      MA 02115, USA; Department of Genetics, Harvard Medical School, Boston, MA 02115, 
+      USA; Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA 02139, 
+      USA.
+FAU - Brown, Eric D
+AU  - Brown ED
+AD  - Department of Biochemistry and Biomedical Sciences, Michael G. DeGroote Institute 
+      for Infectious Disease Research, McMaster University, Hamilton, ON L8N 3Z5, 
+      Canada.
+FAU - Jaakkola, Tommi S
+AU  - Jaakkola TS
+AD  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, 
+      Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Computer Science 
+      and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA.
+FAU - Barzilay, Regina
+AU  - Barzilay R
+AD  - Machine Learning for Pharmaceutical Discovery and Synthesis Consortium, 
+      Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Computer Science 
+      and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Abdul Latif Jameel Clinic for Machine Learning in 
+      Health, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. 
+      Electronic address: regina@csail.mit.edu.
+FAU - Collins, James J
+AU  - Collins JJ
+AD  - Department of Biological Engineering, Synthetic Biology Center, Institute for 
+      Medical Engineering and Science, Massachusetts Institute of Technology, 
+      Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 
+      02142, USA; Wyss Institute for Biologically Inspired Engineering, Harvard 
+      University, Boston, MA 02115, USA; Harvard-MIT Program in Health Sciences and 
+      Technology, Cambridge, MA 02139, USA; Abdul Latif Jameel Clinic for Machine 
+      Learning in Health, Massachusetts Institute of Technology, Cambridge, MA 02139, 
+      USA. Electronic address: jimjc@mit.edu.
+LA  - eng
+GR  - DP5 OD024590/OD/NIH HHS/United States
+GR  - FRN 143215/CIHR/Canada
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (SU 3327)
+RN  - 0 (Small Molecule Libraries)
+RN  - 0 (Thiadiazoles)
+SB  - IM
+EIN - Cell. 2020 Apr 16;181(2):475-483. PMID: 32302574
+CIN - Biochemistry. 2020 May 5;59(17):1645-1646. PMID: 32315170
+MH  - Acinetobacter baumannii/drug effects
+MH  - Animals
+MH  - Anti-Bacterial Agents/chemistry/*pharmacology
+MH  - Cheminformatics/methods
+MH  - Clostridioides difficile/drug effects
+MH  - Databases, Chemical
+MH  - Drug Discovery/*methods
+MH  - *Machine Learning
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Mice, Inbred C57BL
+MH  - Mycobacterium tuberculosis/drug effects
+MH  - Small Molecule Libraries/chemistry/pharmacology
+MH  - Thiadiazoles/chemistry/*pharmacology
+PMC - PMC8349178
+MID - NIHMS1723185
+OTO - NOTNLM
+OT  - antibiotic resistance
+OT  - antibiotic tolerance
+OT  - antibiotics
+OT  - drug discovery
+OT  - machine learning
+COIS- Declaration of Interests J.J.C. is scientific co-founder and SAB chair of 
+      EnBiotix, an antibiotic drug discovery company.
+EDAT- 2020/02/23 06:00
+MHDA- 2020/08/25 06:00
+CRDT- 2020/02/22 06:00
+PHST- 2019/08/27 00:00 [received]
+PHST- 2019/12/04 00:00 [revised]
+PHST- 2020/01/15 00:00 [accepted]
+PHST- 2020/02/22 06:00 [entrez]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2020/08/25 06:00 [medline]
+AID - S0092-8674(20)30102-1 [pii]
+AID - 10.1016/j.cell.2020.01.021 [doi]
+PST - ppublish
+SO  - Cell. 2020 Feb 20;180(4):688-702.e13. doi: 10.1016/j.cell.2020.01.021.
+
+PMID- 29750902
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181126
+LR  - 20190802
+IS  - 1878-5832 (Electronic)
+IS  - 1359-6446 (Print)
+IS  - 1359-6446 (Linking)
+VI  - 23
+IP  - 8
+DP  - 2018 Aug
+TI  - Machine learning in chemoinformatics and drug discovery.
+PG  - 1538-1546
+LID - S1359-6446(17)30469-5 [pii]
+LID - 10.1016/j.drudis.2018.05.010 [doi]
+AB  - Chemoinformatics is an established discipline focusing on extracting, processing 
+      and extrapolating meaningful data from chemical structures. With the rapid 
+      explosion of chemical 'big' data from HTS and combinatorial synthesis, machine 
+      learning has become an indispensable tool for drug designers to mine chemical 
+      information from large compound databases to design drugs with important 
+      biological properties. To process the chemical data, we first reviewed multiple 
+      processing layers in the chemoinformatics pipeline followed by the introduction 
+      of commonly used machine learning models in drug discovery and QSAR analysis. 
+      Here, we present basic principles and recent case studies to demonstrate the 
+      utility of machine learning techniques in chemoinformatics analyses; and we 
+      discuss limitations and future directions to guide further development in this 
+      evolving field.
+CI  - Copyright © 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Lo, Yu-Chen
+AU  - Lo YC
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA.
+FAU - Rensi, Stefano E
+AU  - Rensi SE
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA.
+FAU - Torng, Wen
+AU  - Torng W
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA.
+FAU - Altman, Russ B
+AU  - Altman RB
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA. Electronic 
+      address: rbaltman@stanford.edu.
+LA  - eng
+GR  - R01 GM102365/GM/NIGMS NIH HHS/United States
+GR  - R01 LM005652/LM/NLM NIH HHS/United States
+GR  - U01 FD004979/FD/FDA HHS/United States
+GR  - U01 GM061374/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+DEP - 20180508
+TA  - Drug Discov Today
+JT  - Drug discovery today
+JID - 9604391
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Animals
+MH  - Diffusion of Innovation
+MH  - Drug Discovery/*methods
+MH  - High-Throughput Screening Assays
+MH  - Humans
+MH  - *Informatics
+MH  - *Machine Learning
+MH  - Molecular Structure
+MH  - Pattern Recognition, Automated
+MH  - Pharmaceutical Preparations/*chemistry
+MH  - Quantitative Structure-Activity Relationship
+PMC - PMC6078794
+MID - NIHMS966325
+EDAT- 2018/05/12 06:00
+MHDA- 2018/11/27 06:00
+CRDT- 2018/05/12 06:00
+PHST- 2017/12/15 00:00 [received]
+PHST- 2018/03/29 00:00 [revised]
+PHST- 2018/05/02 00:00 [accepted]
+PHST- 2018/05/12 06:00 [pubmed]
+PHST- 2018/11/27 06:00 [medline]
+PHST- 2018/05/12 06:00 [entrez]
+AID - S1359-6446(17)30469-5 [pii]
+AID - 10.1016/j.drudis.2018.05.010 [doi]
+PST - ppublish
+SO  - Drug Discov Today. 2018 Aug;23(8):1538-1546. doi: 10.1016/j.drudis.2018.05.010. 
+      Epub 2018 May 8.
+
+PMID- 30465503
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190218
+LR  - 20190219
+IS  - 1873-4294 (Electronic)
+IS  - 1568-0266 (Linking)
+VI  - 18
+IP  - 20
+DP  - 2018
+TI  - Intelligently Applying Artificial Intelligence in Chemoinformatics.
+PG  - 1804-1826
+LID - 10.2174/1568026619666181120150938 [doi]
+AB  - The intertwining of chemoinformatics with artificial intelligence (AI) has given 
+      a tremendous fillip to the field of drug discovery. With the rapid growth of 
+      chemical data from high throughput screening and combinatorial synthesis, AI has 
+      become an indispensable tool for drug designers to mine chemical information from 
+      large compound databases for developing drugs at a much faster rate as never 
+      before. The applications of AI have gone beyond bioactivity predictions and have 
+      shown promise in addressing diverse problems in drug discovery like de novo 
+      molecular design, synthesis prediction and biological image analysis. In this 
+      article, we provide an overview of all the algorithms under the umbrella of AI, 
+      enlist the tools/frameworks required for implementing these algorithms as well as 
+      present a compendium of web servers, databases and open-source platforms 
+      implicated in drug discovery, Quantitative Structure-Activity Relationship 
+      (QSAR), data mining, solvation free energy and molecular graph mining.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Sharma, Sahil
+AU  - Sharma S
+AD  - Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee 
+      247667, India.
+FAU - Sharma, Deepak
+AU  - Sharma D
+AD  - Department of Biotechnology, Indian Institute of Technology Roorkee, Roorkee 
+      247667, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Top Med Chem
+JT  - Current topics in medicinal chemistry
+JID - 101119673
+SB  - IM
+MH  - Algorithms
+MH  - *Artificial Intelligence
+MH  - Data Mining
+MH  - Drug Discovery/*methods
+MH  - High-Throughput Screening Assays
+MH  - Machine Learning/*classification
+MH  - Quantitative Structure-Activity Relationship
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Chemoinformatics
+OT  - Data/graph mining
+OT  - Deep learning
+OT  - Drug discovery
+OT  - Generative models
+OT  - Machine learning
+OT  - QSAR analysis.
+EDAT- 2018/11/23 06:00
+MHDA- 2019/02/20 06:00
+CRDT- 2018/11/23 06:00
+PHST- 2018/06/05 00:00 [received]
+PHST- 2018/09/12 00:00 [revised]
+PHST- 2018/11/15 00:00 [accepted]
+PHST- 2018/11/23 06:00 [pubmed]
+PHST- 2019/02/20 06:00 [medline]
+PHST- 2018/11/23 06:00 [entrez]
+AID - CTMC-EPUB-94694 [pii]
+AID - 10.2174/1568026619666181120150938 [doi]
+PST - ppublish
+SO  - Curr Top Med Chem. 2018;18(20):1804-1826. doi: 10.2174/1568026619666181120150938.
+
+PMID- 35440144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220812
+LR  - 20220816
+IS  - 2574-3414 (Electronic)
+IS  - 2574-3414 (Linking)
+VI  - 5
+DP  - 2022 Aug 10
+TI  - Machine Learning in Chemoinformatics and Medicinal Chemistry.
+PG  - 43-65
+LID - 10.1146/annurev-biodatasci-122120-124216 [doi]
+AB  - In chemoinformatics and medicinal chemistry, machine learning has evolved into an 
+      important approach. In recent years, increasing computational resources and new 
+      deep learning algorithms have put machine learning onto a new level, addressing 
+      previously unmet challenges in pharmaceutical research. In silico approaches for 
+      compound activity predictions, de novo design, and reaction modeling have been 
+      further advanced by new algorithmic developments and the emergence of big data in 
+      the field. Herein, novel applications of machine learning and deep learning in 
+      chemoinformatics and medicinal chemistry are reviewed. Opportunities and 
+      challenges for new methods and applications are discussed, placing emphasis on 
+      proper baseline comparisons, robust validation methodologies, and new 
+      applicability domains.
+FAU - Rodríguez-Pérez, Raquel
+AU  - Rodríguez-Pérez R
+AD  - Department of Life Science Informatics, B-IT (Bonn-Aachen International Center 
+      for Information Technology), Chemical Biology and Medicinal Chemistry Program 
+      Unit, LIMES (Life and Medical Sciences Institute), Rheinische 
+      Friedrich-Wilhelms-Universität, Bonn, Germany; email: bajorath@bit.uni-bonn.de.
+AD  - Current affiliation: Novartis Institutes for Biomedical Research, Novartis 
+      Campus, Basel, Switzerland.
+FAU - Miljković, Filip
+AU  - Miljković F
+AD  - Department of Life Science Informatics, B-IT (Bonn-Aachen International Center 
+      for Information Technology), Chemical Biology and Medicinal Chemistry Program 
+      Unit, LIMES (Life and Medical Sciences Institute), Rheinische 
+      Friedrich-Wilhelms-Universität, Bonn, Germany; email: bajorath@bit.uni-bonn.de.
+AD  - Current affiliation: Data Science and AI, Imaging and Data Analytics, Clinical 
+      Pharmacology and Safety Sciences, R&D AstraZeneca, Gothenburg, Sweden.
+FAU - Bajorath, Jürgen
+AU  - Bajorath J
+AD  - Department of Life Science Informatics, B-IT (Bonn-Aachen International Center 
+      for Information Technology), Chemical Biology and Medicinal Chemistry Program 
+      Unit, LIMES (Life and Medical Sciences Institute), Rheinische 
+      Friedrich-Wilhelms-Universität, Bonn, Germany; email: bajorath@bit.uni-bonn.de.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220419
+PL  - United States
+TA  - Annu Rev Biomed Data Sci
+JT  - Annual review of biomedical data science
+JID - 101714020
+SB  - IM
+MH  - Algorithms
+MH  - *Cheminformatics
+MH  - *Chemistry, Pharmaceutical/methods
+MH  - Machine Learning
+OTO - NOTNLM
+OT  - chemoinformatics
+OT  - data structures
+OT  - deep learning
+OT  - learning strategies
+OT  - machine learning
+OT  - medicinal chemistry
+EDAT- 2022/04/21 06:00
+MHDA- 2022/08/13 06:00
+CRDT- 2022/04/20 05:21
+PHST- 2022/04/21 06:00 [pubmed]
+PHST- 2022/08/13 06:00 [medline]
+PHST- 2022/04/20 05:21 [entrez]
+AID - 10.1146/annurev-biodatasci-122120-124216 [doi]
+PST - ppublish
+SO  - Annu Rev Biomed Data Sci. 2022 Aug 10;5:43-65. doi: 
+      10.1146/annurev-biodatasci-122120-124216. Epub 2022 Apr 19.
+
+PMID- 33283975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220502
+LR  - 20220502
+IS  - 1868-1751 (Electronic)
+IS  - 1868-1743 (Linking)
+VI  - 41
+IP  - 1
+DP  - 2022 Jan
+TI  - Chemoinformatics for the Safety of Energetic and Reactive Materials at Ineris.
+PG  - e2000190
+LID - 10.1002/minf.202000190 [doi]
+AB  - The characterization of physical hazards of substances is a key information to 
+      manage the risks associated to their use, storage and transport. With decades of 
+      work in this area, Ineris develops and implements cutting-edge experimental 
+      facilities allowing such characterizations at different scales and under various 
+      conditions to study all of the dreaded accident scenarios. This review presents 
+      the efforts engaged by Ineris more recently in the field of chemoinformatics to 
+      develop and use new predictive methods for the anticipation and management of 
+      industrials risks associated to energetic and reactive materials as a complement 
+      to experiments. An overview of the methods used for the development of 
+      Quantitative Structure-Property Relationships for physical hazards are presented 
+      and discussed regarding the specificities associated to this class of properties. 
+      A review of models developed at Ineris is also provided from the first tentative 
+      models on the explosivity of nitro compounds to the successful application to the 
+      flammability of organic mixtures. Then, a discussion is proposed on the use of 
+      QSPR models. Good practices for robust use for QSPR models are recalled with 
+      specific comments related to physical hazards, notably for regulatory purpose. 
+      Dissemination and training efforts engaged by Ineris are also presented. The 
+      potential offered by these predictive methods in terms of in silico design and 
+      for the development of new intrinsically safer technologies in safety-by-design 
+      strategies is finally discussed. At last, challenges and perspectives to extend 
+      the application of chemoinformatics in the field of safety and in particular for 
+      the physical hazards of energetic and reactive substances are proposed.
+CI  - © 2020 Wiley-VCH GmbH.
+FAU - Fayet, Guillaume
+AU  - Fayet G
+AUID- ORCID: 0000-0001-5591-6110
+AD  - Ineris, Accidental Risk Division, Parc Technologique Alata, 60550, 
+      Verneuil-en-Halatte, France.
+FAU - Rotureau, Patricia
+AU  - Rotureau P
+AD  - Ineris, Accidental Risk Division, Parc Technologique Alata, 60550, 
+      Verneuil-en-Halatte, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20201217
+PL  - Germany
+TA  - Mol Inform
+JT  - Molecular informatics
+JID - 101529315
+RN  - 0 (Nitro Compounds)
+SB  - IM
+MH  - *Cheminformatics
+MH  - Nitro Compounds
+MH  - *Quantitative Structure-Activity Relationship
+OTO - NOTNLM
+OT  - Quantitative Structure-Property Relationships
+OT  - energetic materials
+OT  - in silico design
+OT  - physical hazards
+OT  - reactive substances.
+OT  - safety-by-design
+EDAT- 2020/12/08 06:00
+MHDA- 2022/05/03 06:00
+CRDT- 2020/12/07 08:52
+PHST- 2020/07/31 00:00 [received]
+PHST- 2020/12/06 00:00 [accepted]
+PHST- 2020/12/08 06:00 [pubmed]
+PHST- 2022/05/03 06:00 [medline]
+PHST- 2020/12/07 08:52 [entrez]
+AID - 10.1002/minf.202000190 [doi]
+PST - ppublish
+SO  - Mol Inform. 2022 Jan;41(1):e2000190. doi: 10.1002/minf.202000190. Epub 2020 Dec 
+      17.
+
+PMID- 28418201
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180618
+LR  - 20180926
+IS  - 1868-1751 (Electronic)
+IS  - 1868-1743 (Linking)
+VI  - 36
+IP  - 10
+DP  - 2017 Oct
+TI  - Chemoinformatics at IFP Energies Nouvelles: Applications in the Fields of Energy, 
+      Transport, and Environment.
+LID - 10.1002/minf.201700028 [doi]
+AB  - The objective of the present paper is to summarize chemoinformatics based 
+      research, and more precisely, the development of quantitative structure property 
+      relationships performed at IFP Energies nouvelles (IFPEN) during the last decade. 
+      A special focus is proposed on research activities performed in the 
+      "Thermodynamics and Molecular Simulation" department, i. e. the use of multiscale 
+      molecular simulation methods in responses to projects. Molecular simulation 
+      techniques can be envisaged to supplement dataset when experimental information 
+      lacks, thus the review includes a section dedicated to molecular simulation 
+      codes, development of intermolecular potentials, and some of their possible 
+      applications. Know-how and feedback from our experiences in terms of machine 
+      learning application for thermophysical property predictions are included in a 
+      section dealing with methodological aspects. The generic character of 
+      chemoinformatics is emphasized through applications in the fields of energy, 
+      transport, and environment, with illustrations for three IFPEN business units: 
+      "Transports", "Energy Resources", and "Processes". More precisely, the review 
+      focus on different challenges such as the prediction of properties for 
+      alternative fuels, the prediction of fuel compatibility with polymeric materials, 
+      the prediction of properties for surfactants usable in chemical enhanced oil 
+      recovery, and the prediction of guest-host interactions between gases and 
+      nanoporous materials in the frame of carbon dioxide capture or gas separation 
+      activities.
+CI  - © 2017 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Creton, Benoit
+AU  - Creton B
+AD  - IFP Energies nouvelles, 1 et 4 avenue de Bois-Préau, 92852, Rueil-Malmaison, 
+      France.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170418
+PL  - Germany
+TA  - Mol Inform
+JT  - Molecular informatics
+JID - 101529315
+SB  - IM
+MH  - Data Mining
+MH  - Machine Learning
+MH  - Nanostructures/*chemistry
+MH  - Thermodynamics
+OTO - NOTNLM
+OT  - Data mining
+OT  - Fluids
+OT  - Machine learning
+OT  - Nanoporous materials
+OT  - Property
+EDAT- 2017/04/19 06:00
+MHDA- 2018/06/19 06:00
+CRDT- 2017/04/19 06:00
+PHST- 2017/02/09 00:00 [received]
+PHST- 2017/03/20 00:00 [accepted]
+PHST- 2017/04/19 06:00 [pubmed]
+PHST- 2018/06/19 06:00 [medline]
+PHST- 2017/04/19 06:00 [entrez]
+AID - 10.1002/minf.201700028 [doi]
+PST - ppublish
+SO  - Mol Inform. 2017 Oct;36(10). doi: 10.1002/minf.201700028. Epub 2017 Apr 18.
+
+PMID- 34762411
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211125
+LR  - 20211203
+IS  - 1520-5118 (Electronic)
+IS  - 0021-8561 (Print)
+IS  - 0021-8561 (Linking)
+VI  - 69
+IP  - 46
+DP  - 2021 Nov 24
+TI  - Chemoinformatics View on Bitter Taste Receptor Agonists in Food.
+PG  - 13916-13924
+LID - 10.1021/acs.jafc.1c05057 [doi]
+AB  - Food compounds with a bitter taste have a role in human health, both for their 
+      capability to influence food choice and preferences and for their possible 
+      systemic effect due to the modulation of extra-oral bitter taste receptors 
+      (TAS2Rs). Investigating the interaction of bitter food compounds with TAS2Rs is a 
+      key step to unravel their complex effects on health and to pave the way to 
+      rationally design new additives for food formulation or drugs. Here, we propose a 
+      collection of food bitter compounds, for which in vitro activity data against 
+      TAS2Rs are available. The patterns of TAS2R subtype-specific agonists were 
+      analyzed using scaffold decomposition and chemical space analysis, providing a 
+      detailed characterization of the associations between food bitter tastants and 
+      TAS2Rs.
+FAU - Bayer, Sebastian
+AU  - Bayer S
+AD  - Leibniz Institute for Food Systems Biology at the Technical University of Munich, 
+      Lise-Meitner Str. 34, D-85354 Freising, Germany.
+AD  - Faculty of Life Sciences, University of Vienna, Djerassiplatz 1, 1030 Vienna, 
+      Austria.
+FAU - Mayer, Ariane Isabell
+AU  - Mayer AI
+AD  - Department of Food, Environmental and Nutritional Sciences-DeFENS, University of 
+      Milan, via Celoria 2, 20147 Milano, Italy.
+FAU - Borgonovo, Gigliola
+AU  - Borgonovo G
+AD  - Department of Food, Environmental and Nutritional Sciences-DeFENS, University of 
+      Milan, via Celoria 2, 20147 Milano, Italy.
+FAU - Morini, Gabriella
+AU  - Morini G
+AUID- ORCID: 0000-0001-5494-9201
+AD  - University of Gastronomic Sciences, piazza Vittorio Emanuele 9, 12042 Pollenzo, 
+      (Bra, CN), Italy.
+FAU - Di Pizio, Antonella
+AU  - Di Pizio A
+AUID- ORCID: 0000-0002-8520-5165
+AD  - Leibniz Institute for Food Systems Biology at the Technical University of Munich, 
+      Lise-Meitner Str. 34, D-85354 Freising, Germany.
+FAU - Bassoli, Angela
+AU  - Bassoli A
+AUID- ORCID: 0000-0001-5442-3808
+AD  - Department of Food, Environmental and Nutritional Sciences-DeFENS, University of 
+      Milan, via Celoria 2, 20147 Milano, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20211111
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Pharmaceutical Preparations)
+RN  - 0 (Receptors, G-Protein-Coupled)
+SB  - IM
+MH  - Cheminformatics
+MH  - Humans
+MH  - *Pharmaceutical Preparations
+MH  - Receptors, G-Protein-Coupled/genetics
+MH  - Taste
+MH  - *Taste Buds
+PMC - PMC8630789
+OTO - NOTNLM
+OT  - TAS2Rs
+OT  - bitter molecules
+OT  - bitter taste receptors
+OT  - chemical space
+OT  - food
+OT  - scaffold decomposition
+COIS- The authors declare no competing financial interest.
+EDAT- 2021/11/12 06:00
+MHDA- 2021/11/26 06:00
+CRDT- 2021/11/11 17:10
+PHST- 2021/11/12 06:00 [pubmed]
+PHST- 2021/11/26 06:00 [medline]
+PHST- 2021/11/11 17:10 [entrez]
+AID - 10.1021/acs.jafc.1c05057 [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2021 Nov 24;69(46):13916-13924. doi: 10.1021/acs.jafc.1c05057. 
+      Epub 2021 Nov 11.
+
+PMID- 33372622
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210101
+IS  - 1758-2946 (Print)
+IS  - 1758-2946 (Electronic)
+IS  - 1758-2946 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2020 Oct 27
+TI  - Chemoinformatics-based enumeration of chemical libraries: a tutorial.
+PG  - 64
+LID - 10.1186/s13321-020-00466-z [doi]
+LID - 64
+AB  - Virtual compound libraries are increasingly being used in computer-assisted drug 
+      discovery applications and have led to numerous successful cases. This paper aims 
+      to examine the fundamental concepts of library design and describe how to 
+      enumerate virtual libraries using open source tools. To exemplify the enumeration 
+      of chemical libraries, we emphasize the use of pre-validated or reported 
+      reactions and accessible chemical reagents. This tutorial shows a step-by-step 
+      procedure for anyone interested in designing and building chemical libraries with 
+      or without chemoinformatics experience. The aim is to explore various 
+      methodologies proposed by synthetic organic chemists and explore affordable 
+      chemical space using open-access chemoinformatics tools. As part of the tutorial, 
+      we discuss three examples of design: a Diversity-Oriented-Synthesis library based 
+      on lactams, a bis-heterocyclic combinatorial library, and a set of 
+      target-oriented molecules: isoindolinone based compounds as potential 
+      acetylcholinesterase inhibitors. This manuscript also seeks to contribute to the 
+      critical task of teaching and learning chemoinformatics.
+FAU - Saldívar-González, Fernanda I
+AU  - Saldívar-González FI
+AUID- ORCID: 0000-0002-0435-8662
+AD  - DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, 
+      Universidad Nacional Autónoma de México, Avenida Universidad 3000, 04510, Mexico, 
+      Mexico. fer.saldivarg@gmail.com.
+FAU - Huerta-García, C Sebastian
+AU  - Huerta-García CS
+AUID- ORCID: 0000-0002-0973-5906
+AD  - School of Chemistry, Department of Pharmacy, Universidad Nacional Autónoma de 
+      México, Avenida Universidad 3000, 04510, Mexico, Mexico.
+FAU - Medina-Franco, José L
+AU  - Medina-Franco JL
+AUID- ORCID: 0000-0003-4940-1107
+AD  - DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, 
+      Universidad Nacional Autónoma de México, Avenida Universidad 3000, 04510, Mexico, 
+      Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20201027
+TA  - J Cheminform
+JT  - Journal of cheminformatics
+JID - 101516718
+PMC - PMC7590480
+OTO - NOTNLM
+OT  - Chemical enumeration
+OT  - Chemoinformatics
+OT  - Combinatorial libraries
+OT  - DOS synthesis
+OT  - Drug design
+OT  - Education
+OT  - KNIME
+OT  - Python
+COIS- The authors have declared no competing interest.
+EDAT- 2020/12/30 06:00
+MHDA- 2020/12/30 06:01
+CRDT- 2020/12/29 08:36
+PHST- 2020/07/22 00:00 [received]
+PHST- 2020/10/05 00:00 [accepted]
+PHST- 2020/12/29 08:36 [entrez]
+PHST- 2020/12/30 06:00 [pubmed]
+PHST- 2020/12/30 06:01 [medline]
+AID - 10.1186/s13321-020-00466-z [pii]
+AID - 466 [pii]
+AID - 10.1186/s13321-020-00466-z [doi]
+PST - epublish
+SO  - J Cheminform. 2020 Oct 27;12(1):64. doi: 10.1186/s13321-020-00466-z.

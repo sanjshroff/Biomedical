@@ -1,0 +1,849 @@
+PMID- 32872128
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210224
+LR  - 20210224
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 17
+DP  - 2020 Aug 28
+TI  - Bioinformatics Methods in Medical Genetics and Genomics.
+LID - 10.3390/ijms21176224 [doi]
+LID - 6224
+AB  - Medical genomics relies on next-gen sequencing methods to decipher underlying 
+      molecular mechanisms of gene expression. This special issue collects materials 
+      originally presented at the "Centenary of Human Population Genetics" 
+      Conference-2019, in Moscow. Here we present some recent developments in 
+      computational methods tested on actual medical genetics problems dissected 
+      through genomics, transcriptomics and proteomics data analysis, gene networks, 
+      protein-protein interactions and biomedical literature mining. We have selected 
+      materials based on systems biology approaches, database mining. These methods and 
+      algorithms were discussed at the Digital Medical Forum-2019, organized by I.M. 
+      Sechenov First Moscow State Medical University presenting bioinformatics 
+      approaches for the drug targets discovery in cancer, its computational support, 
+      and digitalization of medical research, as well as at "Systems Biology and 
+      Bioinformatics"-2019 (SBB-2019) Young Scientists School in Novosibirsk, Russia. 
+      Selected recent advancements discussed at these events in the medical genomics 
+      and genetics areas are based on novel bioinformatics tools.
+FAU - Orlov, Yuriy L
+AU  - Orlov YL
+AUID- ORCID: 0000-0003-0587-1609
+AD  - The Digital Health Institute, I.M. Sechenov First Moscow State Medical University 
+      of the Ministry of Health of the Russian Federation (Sechenov University), 119991 
+      Moscow, Russia.
+AD  - Life Sciences Department, Novosibirsk State University, 630090 Novosibirsk, 
+      Russia.
+AD  - Institute of Cytology and Genetics SB RAS, 630090 Novosibirsk, Russia.
+FAU - Baranova, Ancha V
+AU  - Baranova AV
+AD  - School of Systems Biology, George Mason University, Fairfax, VA 22030, USA.
+AD  - Research Centre for Medical Genetics, 115522 Moscow, Russia.
+FAU - Tatarinova, Tatiana V
+AU  - Tatarinova TV
+AUID- ORCID: 0000-0003-1787-1112
+AD  - La Verne University, La Verne, CA 91750, USA.
+AD  - Department of Fundamental Biology and Biotechnology, Siberian Federal University, 
+      660074 Krasnoyarsk, Russia.
+LA  - eng
+PT  - Editorial
+PT  - Introductory Journal Article
+DEP - 20200828
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+SB  - IM
+MH  - Algorithms
+MH  - Computational Biology/*methods
+MH  - Data Mining
+MH  - Genetics, Medical/*methods
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Systems Biology
+PMC - PMC7504073
+OTO - NOTNLM
+OT  - bioinformatics
+OT  - gene expression
+OT  - genomics
+OT  - human population genetics
+OT  - medical genetics
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/09/03 06:00
+MHDA- 2021/02/25 06:00
+CRDT- 2020/09/03 06:00
+PHST- 2020/08/24 00:00 [received]
+PHST- 2020/08/25 00:00 [accepted]
+PHST- 2020/09/03 06:00 [entrez]
+PHST- 2020/09/03 06:00 [pubmed]
+PHST- 2021/02/25 06:00 [medline]
+AID - ijms21176224 [pii]
+AID - ijms-21-06224 [pii]
+AID - 10.3390/ijms21176224 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Aug 28;21(17):6224. doi: 10.3390/ijms21176224.
+
+PMID- 30696980
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190724
+LR  - 20220416
+IS  - 1471-0064 (Electronic)
+IS  - 1471-0056 (Linking)
+VI  - 20
+IP  - 5
+DP  - 2019 May
+TI  - Integrative single-cell analysis.
+PG  - 257-272
+LID - 10.1038/s41576-019-0093-7 [doi]
+AB  - The recent maturation of single-cell RNA sequencing (scRNA-seq) technologies has 
+      coincided with transformative new methods to profile genetic, epigenetic, 
+      spatial, proteomic and lineage information in individual cells. This provides 
+      unique opportunities, alongside computational challenges, for integrative methods 
+      that can jointly learn across multiple types of data. Integrated analysis can 
+      discover relationships across cellular modalities, learn a holistic 
+      representation of the cell state, and enable the pooling of data sets produced 
+      across individuals and technologies. In this Review, we discuss the recent 
+      advances in the collection and integration of different data types at single-cell 
+      resolution with a focus on the integration of gene expression data with other 
+      types of single-cell measurement.
+FAU - Stuart, Tim
+AU  - Stuart T
+AUID- ORCID: 0000-0002-3044-0897
+AD  - New York Genome Center, New York, NY, USA.
+FAU - Satija, Rahul
+AU  - Satija R
+AUID- ORCID: 0000-0001-9448-8833
+AD  - New York Genome Center, New York, NY, USA. rsatija@nygenome.org.
+AD  - Center for Genomics and Systems Biology, New York University, New York, NY, USA. 
+      rsatija@nygenome.org.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Nat Rev Genet
+JT  - Nature reviews. Genetics
+JID - 100962779
+RN  - 0 (Proteins)
+RN  - 63231-63-0 (RNA)
+CIN - Nat Rev Genet. 2019 May;20(5):249. PMID: 30911142
+MH  - Computational Biology/*methods
+MH  - Data Mining/*statistics & numerical data
+MH  - Datasets as Topic
+MH  - Epigenesis, Genetic
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Proteins/genetics/metabolism
+MH  - RNA/chemistry/*genetics/metabolism
+MH  - Single-Cell Analysis/methods/*statistics & numerical data
+EDAT- 2019/01/31 06:00
+MHDA- 2019/07/25 06:00
+CRDT- 2019/01/31 06:00
+PHST- 2019/01/31 06:00 [pubmed]
+PHST- 2019/07/25 06:00 [medline]
+PHST- 2019/01/31 06:00 [entrez]
+AID - 10.1038/s41576-019-0093-7 [pii]
+AID - 10.1038/s41576-019-0093-7 [doi]
+PST - ppublish
+SO  - Nat Rev Genet. 2019 May;20(5):257-272. doi: 10.1038/s41576-019-0093-7.
+
+PMID- 31501885
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200917
+LR  - 20201208
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 36
+IP  - 4
+DP  - 2020 Feb 15
+TI  - BioBERT: a pre-trained biomedical language representation model for biomedical 
+      text mining.
+PG  - 1234-1240
+LID - 10.1093/bioinformatics/btz682 [doi]
+AB  - MOTIVATION: Biomedical text mining is becoming increasingly important as the 
+      number of biomedical documents rapidly grows. With the progress in natural 
+      language processing (NLP), extracting valuable information from biomedical 
+      literature has gained popularity among researchers, and deep learning has boosted 
+      the development of effective biomedical text mining models. However, directly 
+      applying the advancements in NLP to biomedical text mining often yields 
+      unsatisfactory results due to a word distribution shift from general domain 
+      corpora to biomedical corpora. In this article, we investigate how the recently 
+      introduced pre-trained language model BERT can be adapted for biomedical corpora. 
+      RESULTS: We introduce BioBERT (Bidirectional Encoder Representations from 
+      Transformers for Biomedical Text Mining), which is a domain-specific language 
+      representation model pre-trained on large-scale biomedical corpora. With almost 
+      the same architecture across tasks, BioBERT largely outperforms BERT and previous 
+      state-of-the-art models in a variety of biomedical text mining tasks when 
+      pre-trained on biomedical corpora. While BERT obtains performance comparable to 
+      that of previous state-of-the-art models, BioBERT significantly outperforms them 
+      on the following three representative biomedical text mining tasks: biomedical 
+      named entity recognition (0.62% F1 score improvement), biomedical relation 
+      extraction (2.80% F1 score improvement) and biomedical question answering (12.24% 
+      MRR improvement). Our analysis results show that pre-training BERT on biomedical 
+      corpora helps it to understand complex biomedical texts. AVAILABILITY AND 
+      IMPLEMENTATION: We make the pre-trained weights of BioBERT freely available at 
+      https://github.com/naver/biobert-pretrained, and the source code for fine-tuning 
+      BioBERT available at https://github.com/dmis-lab/biobert.
+CI  - © The Author(s) 2019. Published by Oxford University Press.
+FAU - Lee, Jinhyuk
+AU  - Lee J
+AD  - Department of Computer Science and Engineering, Korea University, Seoul 02841, 
+      Korea.
+FAU - Yoon, Wonjin
+AU  - Yoon W
+AD  - Department of Computer Science and Engineering, Korea University, Seoul 02841, 
+      Korea.
+FAU - Kim, Sungdong
+AU  - Kim S
+AD  - Clova AI Research, Naver Corp, Seong-Nam 13561, Korea.
+FAU - Kim, Donghyeon
+AU  - Kim D
+AD  - Department of Computer Science and Engineering, Korea University, Seoul 02841, 
+      Korea.
+FAU - Kim, Sunkyu
+AU  - Kim S
+AD  - Department of Computer Science and Engineering, Korea University, Seoul 02841, 
+      Korea.
+FAU - So, Chan Ho
+AU  - So CH
+AD  - Interdisciplinary Graduate Program in Bioinformatics, Korea University, Seoul 
+      02841, Korea.
+FAU - Kang, Jaewoo
+AU  - Kang J
+AD  - Department of Computer Science and Engineering, Korea University, Seoul 02841, 
+      Korea.
+AD  - Interdisciplinary Graduate Program in Bioinformatics, Korea University, Seoul 
+      02841, Korea.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - *Data Mining
+MH  - Language
+MH  - *Natural Language Processing
+MH  - Software
+PMC - PMC7703786
+EDAT- 2019/09/11 06:00
+MHDA- 2020/09/18 06:00
+CRDT- 2019/09/11 06:00
+PHST- 2019/05/16 00:00 [received]
+PHST- 2019/07/29 00:00 [revised]
+PHST- 2019/09/05 00:00 [accepted]
+PHST- 2019/09/11 06:00 [pubmed]
+PHST- 2020/09/18 06:00 [medline]
+PHST- 2019/09/11 06:00 [entrez]
+AID - 5566506 [pii]
+AID - btz682 [pii]
+AID - 10.1093/bioinformatics/btz682 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2020 Feb 15;36(4):1234-1240. doi: 10.1093/bioinformatics/btz682.
+
+PMID- 31557052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20220311
+IS  - 1552-9924 (Electronic)
+IS  - 0091-6765 (Print)
+IS  - 0091-6765 (Linking)
+VI  - 127
+IP  - 9
+DP  - 2019 Sep
+TI  - Generating the Blood Exposome Database Using a Comprehensive Text Mining and 
+      Database Fusion Approach.
+PG  - 97008
+LID - 10.1289/EHP4713 [doi]
+LID - 097008
+AB  - BACKGROUND: Blood chemicals are routinely measured in clinical or preclinical 
+      research studies to diagnose diseases, assess risks in epidemiological research, 
+      or use metabolomic phenotyping in response to treatments. A vast volume of 
+      blood-related literature is available via the PubMed database for data mining. 
+      OBJECTIVES: We aimed to generate a comprehensive blood exposome database of 
+      endogenous and exogenous chemicals associated with the mammalian circulating 
+      system through text mining and database fusion. METHODS: Using NCBI resources, we 
+      retrieved PubMed abstracts, PubChem chemical synonyms, and PMC supplementary 
+      tables. We then employed text mining and PubChem crowdsourcing to associate 
+      phrases relating to blood with PubChem chemicals. False positives were removed by 
+      a phrase pattern and a compound exclusion list. RESULTS: A query to identify 
+      blood-related publications in the PubMed database yielded 1.1 million papers. 
+      Matching a total of 15 million synonyms from 6.5 million relevant PubChem 
+      chemicals against all blood-related publications yielded 37,514 chemicals and 
+      851,999 publications records. Mapping PubChem compound identifiers to the PubMed 
+      database yielded 49,940 unique chemicals linked to 676,643 papers. Analysis of 
+      open-access metabolomics papers related to blood phrases in the PMC database 
+      yielded 4,039 unique compounds and 204 papers. Consolidating these three 
+      approaches summed up to a total of 41,474 achiral structures that were linked to 
+      65,957 PubChem CIDs and to over 878,966 PubMed articles. We mapped these 
+      compounds to 50 databases such as those covering metabolites and pathways, 
+      governmental and toxicological databases, pharmacology resources, and bioassay 
+      repositories. In comparison, HMDB, the Human Metabolome Database, links 1,075 
+      compounds to blood-related primary publications. CONCLUSION: This new Blood 
+      Exposome Database can be used for prioritizing chemicals for systematic reviews, 
+      developing target assays in exposome research, identifying compounds in 
+      untargeted mass spectrometry, and biological interpretation in metabolomics data. 
+      The database is available at http://bloodexposome.org. 
+      https://doi.org/10.1289/EHP4713.
+FAU - Barupal, Dinesh Kumar
+AU  - Barupal DK
+AD  - National Institutes of Health (NIH) West Coast Metabolomics Center, Genome 
+      Center, University of California, Davis, Davis, California, USA.
+FAU - Fiehn, Oliver
+AU  - Fiehn O
+AD  - National Institutes of Health (NIH) West Coast Metabolomics Center, Genome 
+      Center, University of California, Davis, Davis, California, USA.
+LA  - eng
+GR  - U19 AG023122/AG/NIA NIH HHS/United States
+GR  - U2C ES030158/ES/NIEHS NIH HHS/United States
+GR  - U54 AI138370/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20190926
+TA  - Environ Health Perspect
+JT  - Environmental health perspectives
+JID - 0330411
+SB  - IM
+MH  - Biological Assay
+MH  - Data Management
+MH  - *Data Mining
+MH  - *Databases, Factual
+MH  - *Exposome
+MH  - Humans
+MH  - Metabolome
+MH  - Metabolomics
+MH  - PubMed
+MH  - Publications
+PMC - PMC6794490
+EDAT- 2019/09/27 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2019/09/27 06:00
+PHST- 2019/09/27 06:00 [entrez]
+PHST- 2019/09/27 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - EHP4713 [pii]
+AID - 10.1289/EHP4713 [doi]
+PST - ppublish
+SO  - Environ Health Perspect. 2019 Sep;127(9):97008. doi: 10.1289/EHP4713. Epub 2019 
+      Sep 26.
+
+PMID- 33953899
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 2040-2309 (Electronic)
+IS  - 2040-2295 (Print)
+IS  - 2040-2295 (Linking)
+VI  - 2021
+DP  - 2021
+TI  - Text Mining-Based Drug Discovery in Osteoarthritis.
+PG  - 6674744
+LID - 10.1155/2021/6674744 [doi]
+LID - 6674744
+AB  - BACKGROUND: Osteoarthritis (OA) is a chronic and degenerative joint disease, 
+      which causes stiffness, pain, and decreased function. At the early stage of OA, 
+      nonsteroidal anti-inflammatory drugs (NSAIDs) are considered the first-line 
+      treatment. However, the efficacy and utility of available drug therapies are 
+      limited. We aim to use bioinformatics to identify potential genes and drugs 
+      associated with OA. METHODS: The genes related to OA and NSAIDs therapy were 
+      determined by text mining. Then, the common genes were performed for GO, KEGG 
+      pathway analysis, and protein-protein interaction (PPI) network analysis. Using 
+      the MCODE plugin-obtained hub genes, the expression levels of hub genes were 
+      verified using quantitative real-time polymerase chain reaction (qRT-PCR). The 
+      confirmed genes were queried in the Drug Gene Interaction Database to determine 
+      potential genes and drugs. RESULTS: The qRT-PCR result showed that the expression 
+      level of 15 genes was significantly increased in OA samples. Finally, eight 
+      potential genes were targetable to a total of 53 drugs, twenty-one of which have 
+      been employed to treat OA and 32 drugs have not yet been used in OA. CONCLUSIONS: 
+      The 15 genes (including PTGS2, NLRP3, MMP9, IL1RN, CCL2, TNF, IL10, CD40, IL6, 
+      NGF, TP53, RELA, BCL2L1, VEGFA, and NOTCH1) and 32 drugs, which have not been 
+      used in OA but approved by the FDA for other diseases, could be potential genes 
+      and drugs, respectively, to improve OA treatment. Additionally, those methods 
+      provided tremendous opportunities to facilitate drug repositioning efforts and 
+      study novel target pharmacology in the pharmaceutical industry.
+CI  - Copyright © 2021 Rong-Guo Yu et al.
+FAU - Yu, Rong-Guo
+AU  - Yu RG
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+FAU - Zhang, Jia-Yu
+AU  - Zhang JY
+AD  - School of Clinical Medicine, Yunnan University of Traditional Chinese Medicine, 
+      Kunming 650032, Yunnan, China.
+FAU - Liu, Zhen-Tao
+AU  - Liu ZT
+AD  - College of Integrated Chinese and Western Medicine, Fujian Univerisity of 
+      Traditional Chinese Medicine, Fuzhou 350122, Fujian, China.
+FAU - Zhuo, You-Guang
+AU  - Zhuo YG
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+FAU - Wang, Hai-Yang
+AU  - Wang HY
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+FAU - Ye, Jie
+AU  - Ye J
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+FAU - Liu, Nannan
+AU  - Liu N
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+FAU - Zhang, Yi-Yuan
+AU  - Zhang YY
+AUID- ORCID: 0000-0003-0792-8015
+AD  - Department of Orthopedics, Fuzhou Second Hospital Affiliated to Xiamen 
+      University, Fuzhou 350007, Fujian, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210414
+TA  - J Healthc Eng
+JT  - Journal of healthcare engineering
+JID - 101528166
+SB  - IM
+MH  - Computational Biology/methods
+MH  - Data Mining
+MH  - Drug Discovery
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - *Osteoarthritis/drug therapy/genetics/metabolism
+MH  - Protein Interaction Maps/genetics
+PMC - PMC8060081
+COIS- The authors declare no conflicts of interest with respect to the research, 
+      authorship, and/or publication of this article.
+EDAT- 2021/05/07 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2021/05/06 07:04
+PHST- 2020/12/29 00:00 [received]
+PHST- 2021/03/08 00:00 [revised]
+PHST- 2021/04/01 00:00 [accepted]
+PHST- 2021/05/06 07:04 [entrez]
+PHST- 2021/05/07 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+AID - 10.1155/2021/6674744 [doi]
+PST - epublish
+SO  - J Healthc Eng. 2021 Apr 14;2021:6674744. doi: 10.1155/2021/6674744. eCollection 
+      2021.
+
+PMID- 29956014
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181113
+LR  - 20181114
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 42
+IP  - 8
+DP  - 2018 Jun 28
+TI  - A Survey of Data Mining and Deep Learning in Bioinformatics.
+PG  - 139
+LID - 10.1007/s10916-018-1003-9 [doi]
+AB  - The fields of medicine science and health informatics have made great progress 
+      recently and have led to in-depth analytics that is demanded by generation, 
+      collection and accumulation of massive data. Meanwhile, we are entering a new 
+      period where novel technologies are starting to analyze and explore knowledge 
+      from tremendous amount of data, bringing limitless potential for information 
+      growth. One fact that cannot be ignored is that the techniques of machine 
+      learning and deep learning applications play a more significant role in the 
+      success of bioinformatics exploration from biological data point of view, and a 
+      linkage is emphasized and established to bridge these two data analytics 
+      techniques and bioinformatics in both industry and academia. This survey 
+      concentrates on the review of recent researches using data mining and deep 
+      learning approaches for analyzing the specific domain knowledge of 
+      bioinformatics. The authors give a brief but pithy summarization of numerous data 
+      mining algorithms used for preprocessing, classification and clustering as well 
+      as various optimized neural network architectures in deep learning methods, and 
+      their advantages and disadvantages in the practical applications are also 
+      discussed and compared in terms of their industrial usage. It is believed that in 
+      this review paper, valuable insights are provided for those who are dedicated to 
+      start using data analytics methods in bioinformatics.
+FAU - Lan, Kun
+AU  - Lan K
+AD  - Department of Computer and Information Science, University of Macau, Taipa, 
+      Macau, China.
+FAU - Wang, Dan-Tong
+AU  - Wang DT
+AD  - Department of Media integration technology center, Zhejiang Radio & TV Group, 
+      Hangzhou, People's Republic of China.
+FAU - Fong, Simon
+AU  - Fong S
+AD  - Department of Computer and Information Science, University of Macau, Taipa, 
+      Macau, China. ccfong@umac.mo.
+FAU - Liu, Lian-Sheng
+AU  - Liu LS
+AD  - First Affiliated Hospital of Guangzhou University of TCM, Guangzhou, 510405, 
+      Guangdong, China.
+FAU - Wong, Kelvin K L
+AU  - Wong KKL
+AD  - School of Medicine, University of Western Sydney, Sydney, NSW, Australia.
+FAU - Dey, Nilanjan
+AU  - Dey N
+AD  - Department of Information Technology, Techno India College of Technology, 
+      Kolkata, West Bengal, 740000, India.
+LA  - eng
+GR  - FDCT/126/2014/A3/FDCT Macau SAR Government/
+GR  - MYRG2016-00069/Universidade de Macau/
+PT  - Journal Article
+PT  - Review
+DEP - 20180628
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Algorithms
+MH  - Bayes Theorem
+MH  - *Computational Biology
+MH  - *Data Mining
+MH  - Machine Learning
+MH  - Surveys and Questionnaires
+OTO - NOTNLM
+OT  - Bioinformatics
+OT  - Biomedicine
+OT  - Data mining
+OT  - Deep learning
+OT  - Machine learning
+EDAT- 2018/06/30 06:00
+MHDA- 2018/11/14 06:00
+CRDT- 2018/06/30 06:00
+PHST- 2018/03/28 00:00 [received]
+PHST- 2018/06/21 00:00 [accepted]
+PHST- 2018/06/30 06:00 [entrez]
+PHST- 2018/06/30 06:00 [pubmed]
+PHST- 2018/11/14 06:00 [medline]
+AID - 10.1007/s10916-018-1003-9 [pii]
+AID - 10.1007/s10916-018-1003-9 [doi]
+PST - epublish
+SO  - J Med Syst. 2018 Jun 28;42(8):139. doi: 10.1007/s10916-018-1003-9.
+
+PMID- 30423142
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200511
+LR  - 20220409
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 47
+IP  - D1
+DP  - 2019 Jan 8
+TI  - miRBase: from microRNA sequences to function.
+PG  - D155-D162
+LID - 10.1093/nar/gky1141 [doi]
+AB  - miRBase catalogs, names and distributes microRNA gene sequences. The latest 
+      release of miRBase (v22) contains microRNA sequences from 271 organisms: 38 589 
+      hairpin precursors and 48 860 mature microRNAs. We describe improvements to the 
+      database and website to provide more information about the quality of microRNA 
+      gene annotations, and the cellular functions of their products. We have collected 
+      1493 small RNA deep sequencing datasets and mapped a total of 5.5 billion reads 
+      to microRNA sequences. The read mapping patterns provide strong support for the 
+      validity of between 20% and 65% of microRNA annotations in different well-studied 
+      animal genomes, and evidence for the removal of >200 sequences from the database. 
+      To improve the availability of microRNA functional information, we are 
+      disseminating Gene Ontology terms annotated against miRBase sequences. We have 
+      also used a text-mining approach to search for microRNA gene names in the 
+      full-text of open access articles. Over 500 000 sentences from 18 542 papers 
+      contain microRNA names. We score these sentences for functional information and 
+      link them with 12 519 microRNA entries. The sentences themselves, and word clouds 
+      built from them, provide effective summaries of the functional information about 
+      specific microRNAs. miRBase is publicly and freely available at 
+      http://mirbase.org/.
+FAU - Kozomara, Ana
+AU  - Kozomara A
+AD  - School of Biological Sciences, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester M13 9PT, UK.
+FAU - Birgaoanu, Maria
+AU  - Birgaoanu M
+AD  - School of Biological Sciences, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester M13 9PT, UK.
+FAU - Griffiths-Jones, Sam
+AU  - Griffiths-Jones S
+AD  - School of Biological Sciences, Faculty of Biology, Medicine and Health, 
+      University of Manchester, Manchester M13 9PT, UK.
+LA  - eng
+GR  - BB/G022623/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Animals
+MH  - *Computational Biology/methods
+MH  - Data Mining
+MH  - *Databases, Nucleic Acid
+MH  - Gene Ontology
+MH  - *Genomics/methods
+MH  - Humans
+MH  - MicroRNAs/*genetics
+MH  - Molecular Sequence Annotation
+MH  - Web Browser
+PMC - PMC6323917
+EDAT- 2018/11/14 06:00
+MHDA- 2020/05/12 06:00
+CRDT- 2018/11/14 06:00
+PHST- 2018/09/15 00:00 [received]
+PHST- 2018/10/25 00:00 [accepted]
+PHST- 2018/11/14 06:00 [pubmed]
+PHST- 2020/05/12 06:00 [medline]
+PHST- 2018/11/14 06:00 [entrez]
+AID - 5179337 [pii]
+AID - gky1141 [pii]
+AID - 10.1093/nar/gky1141 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2019 Jan 8;47(D1):D155-D162. doi: 10.1093/nar/gky1141.
+
+PMID- 29746254
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181107
+LR  - 20200225
+IS  - 1613-4516 (Electronic)
+IS  - 1613-4516 (Linking)
+VI  - 15
+IP  - 3
+DP  - 2018 May 10
+TI  - Big Data Analytics in Medicine and Healthcare.
+LID - 10.1515/jib-2017-0030 [doi]
+LID - 20170030
+AB  - This paper surveys big data with highlighting the big data analytics in medicine 
+      and healthcare. Big data characteristics: value, volume, velocity, variety, 
+      veracity and variability are described. Big data analytics in medicine and 
+      healthcare covers integration and analysis of large amount of complex 
+      heterogeneous data such as various - omics data (genomics, epigenomics, 
+      transcriptomics, proteomics, metabolomics, interactomics, pharmacogenomics, 
+      diseasomics), biomedical data and electronic health records data. We underline 
+      the challenging issues about big data privacy and security. Regarding big data 
+      characteristics, some directions of using suitable and promising open-source 
+      distributed data processing software platform are given.
+FAU - Ristevski, Blagoj
+AU  - Ristevski B
+AUID- ORCID: 0000-0002-8356-1203
+AD  - "St. Kliment Ohridski" University - Bitola, Faculty of Information and 
+      Communication Technologies, ul. Partizanska bb, 7000 Bitola, Republic of 
+      Macedonia.
+FAU - Chen, Ming
+AU  - Chen M
+AD  - Department of Bioinformatics, College of Life Sciences, Zhejiang University 
+      Zijingang Campus, Hangzhou, P.R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20180510
+TA  - J Integr Bioinform
+JT  - Journal of integrative bioinformatics
+JID - 101503361
+SB  - IM
+MH  - Computational Biology/*methods
+MH  - Data Mining/*methods
+MH  - Databases, Factual
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - Genomics
+MH  - Humans
+MH  - *Medical Informatics
+MH  - Metabolomics
+MH  - Population Surveillance
+PMC - PMC6340124
+OTO - NOTNLM
+OT  - Big Data Analytics
+OT  - Data Mining
+OT  - Health Informatics
+OT  - Healthcare Information Systems
+COIS- Authors state no conflict of interest. All authors have read the journal’s 
+      Publication ethics and publication malpractice statement available at the 
+      journal’s website and hereby confirm that they comply with all its parts 
+      applicable to the present scientific work.
+EDAT- 2018/05/11 06:00
+MHDA- 2018/11/08 06:00
+CRDT- 2018/05/11 06:00
+PHST- 2017/04/07 00:00 [received]
+PHST- 2018/03/20 00:00 [accepted]
+PHST- 2018/05/11 06:00 [pubmed]
+PHST- 2018/11/08 06:00 [medline]
+PHST- 2018/05/11 06:00 [entrez]
+AID - /j/jib.ahead-of-print/jib-2017-0030/jib-2017-0030.xml [pii]
+AID - jib-2017-0030 [pii]
+AID - 10.1515/jib-2017-0030 [doi]
+PST - epublish
+SO  - J Integr Bioinform. 2018 May 10;15(3):20170030. doi: 10.1515/jib-2017-0030.
+
+PMID- 30937439
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200630
+LR  - 20200630
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Print)
+IS  - 1367-4803 (Linking)
+VI  - 35
+IP  - 21
+DP  - 2019 Nov 1
+TI  - Open Agile text mining for bioinformatics: the PubAnnotation ecosystem.
+PG  - 4372-4380
+LID - 10.1093/bioinformatics/btz227 [doi]
+AB  - MOTIVATION: Most currently available text mining tools share two characteristics 
+      that make them less than optimal for use by biomedical researchers: they require 
+      extensive specialist skills in natural language processing and they were built on 
+      the assumption that they should optimize global performance metrics on 
+      representative datasets. This is a problem because most end-users are not natural 
+      language processing specialists and because biomedical researchers often care 
+      less about global metrics like F-measure or representative datasets than they do 
+      about more granular metrics such as precision and recall on their own specialized 
+      datasets. Thus, there are fundamental mismatches between the assumptions of much 
+      text mining work and the preferences of potential end-users. RESULTS: This 
+      article introduces the concept of Agile text mining, and presents the 
+      PubAnnotation ecosystem as an example implementation. The system approaches the 
+      problems from two perspectives: it allows the reformulation of text mining by 
+      biomedical researchers from the task of assembling a complete system to the task 
+      of retrieving warehoused annotations, and it makes it possible to do very 
+      targeted customization of the pre-existing system to address specific end-user 
+      requirements. Two use cases are presented: assisted curation of the GlycoEpitope 
+      database, and assessing coverage in the literature of pre-eclampsia-associated 
+      genes. AVAILABILITY AND IMPLEMENTATION: The three tools that make up the 
+      ecosystem, PubAnnotation, PubDictionaries and TextAE are publicly available as 
+      web services, and also as open source projects. The dictionaries and the 
+      annotation datasets associated with the use cases are all publicly available 
+      through PubDictionaries and PubAnnotation, respectively.
+CI  - © The Author(s) 2019. Published by Oxford University Press.
+FAU - Kim, Jin-Dong
+AU  - Kim JD
+AD  - Database Center for Life Science, Research Organization of Information and 
+      Systems, Kashiwa, Chiba, Japan.
+FAU - Wang, Yue
+AU  - Wang Y
+AD  - Database Center for Life Science, Research Organization of Information and 
+      Systems, Kashiwa, Chiba, Japan.
+FAU - Fujiwara, Toyofumi
+AU  - Fujiwara T
+AD  - Database Center for Life Science, Research Organization of Information and 
+      Systems, Kashiwa, Chiba, Japan.
+FAU - Okuda, Shujiro
+AU  - Okuda S
+AD  - Graduate School of Medical and Dental Sciences, Niigata University, Niigata, 
+      Japan.
+FAU - Callahan, Tiffany J
+AU  - Callahan TJ
+AD  - Computational Bioscience Program, University of Colorado Denver, Anschutz Medical 
+      Campus, Aurora, CO, USA.
+FAU - Cohen, K Bretonnel
+AU  - Cohen KB
+AD  - Computational Bioscience Program, University of Colorado Denver, Anschutz Medical 
+      Campus, Aurora, CO, USA.
+AD  - Université Paris-Saclay, LIMSI-ILES, France.
+LA  - eng
+GR  - R01 LM009254/LM/NLM NIH HHS/United States
+GR  - T15 LM009451/LM/NLM NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+SB  - IM
+MH  - *Computational Biology
+MH  - Data Mining
+MH  - *Ecosystem
+MH  - Female
+MH  - Humans
+MH  - Natural Language Processing
+MH  - Pregnancy
+MH  - PubMed
+PMC - PMC6821251
+EDAT- 2019/04/03 06:00
+MHDA- 2020/07/01 06:00
+CRDT- 2019/04/03 06:00
+PHST- 2018/07/25 00:00 [received]
+PHST- 2019/03/16 00:00 [revised]
+PHST- 2019/03/29 00:00 [accepted]
+PHST- 2019/04/03 06:00 [pubmed]
+PHST- 2020/07/01 06:00 [medline]
+PHST- 2019/04/03 06:00 [entrez]
+AID - 5425327 [pii]
+AID - btz227 [pii]
+AID - 10.1093/bioinformatics/btz227 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2019 Nov 1;35(21):4372-4380. doi: 10.1093/bioinformatics/btz227.
+
+PMID- 33404829
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 105
+IP  - 3
+DP  - 2021 Feb
+TI  - Bioinformatics: new tools and applications in life science and personalized 
+      medicine.
+PG  - 937-951
+LID - 10.1007/s00253-020-11056-2 [doi]
+AB  - While we have a basic understanding of the functioning of the gene when coding 
+      sequences of specific proteins, we feel the lack of information on the role that 
+      DNA has on specific diseases or functions of thousands of proteins that are 
+      produced. Bioinformatics combines the methods used in the collection, storage, 
+      identification, analysis, and correlation of this huge and complex information. 
+      All this work produces an "ocean" of information that can only be "sailed" with 
+      the help of computerized methods. The goal is to provide scientists with the 
+      right means to explain normal biological processes, dysfunctions of these 
+      processes which give rise to disease and approaches that allow the discovery of 
+      new medical cures. Recently, sequencing platforms, a large scale of genomes and 
+      transcriptomes, have created new challenges not only to the genomics but 
+      especially for bioinformatics. The intent of this article is to compile a list of 
+      tools and information resources used by scientists to treat information from the 
+      massive sequencing of recent platforms to new generations and the applications of 
+      this information in different areas of life sciences including medicine. KEY 
+      POINTS: • Biological data mining • Omic approaches • From genotype to phenotype.
+FAU - Branco, Iuliia
+AU  - Branco I
+AD  - Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, 
+      Campus de Santa Apolónia, 5300-253, Bragança, Portugal.
+FAU - Choupina, Altino
+AU  - Choupina A
+AUID- ORCID: 0000-0002-3956-9398
+AD  - Centro de Investigação de Montanha (CIMO), Instituto Politécnico de Bragança, 
+      Campus de Santa Apolónia, 5300-253, Bragança, Portugal. albracho@ipb.pt.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210106
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+SB  - IM
+MH  - *Computational Biology
+MH  - Data Mining
+MH  - Genome
+MH  - Genomics
+MH  - *Precision Medicine
+OTO - NOTNLM
+OT  - Applications
+OT  - Bioinformatics
+OT  - Life science
+OT  - Personalized medicine
+OT  - Sequencing
+OT  - Tools
+EDAT- 2021/01/07 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2021/01/06 12:19
+PHST- 2020/11/29 00:00 [received]
+PHST- 2020/12/09 00:00 [accepted]
+PHST- 2020/11/29 00:00 [revised]
+PHST- 2021/01/07 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+PHST- 2021/01/06 12:19 [entrez]
+AID - 10.1007/s00253-020-11056-2 [pii]
+AID - 10.1007/s00253-020-11056-2 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2021 Feb;105(3):937-951. doi: 
+      10.1007/s00253-020-11056-2. Epub 2021 Jan 6.

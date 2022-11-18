@@ -1,0 +1,928 @@
+PMID- 31858902
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210204
+LR  - 20210204
+IS  - 1875-533X (Electronic)
+IS  - 0929-8673 (Linking)
+VI  - 27
+IP  - 42
+DP  - 2020
+TI  - Repurposing Drugs for Skin Cancer.
+PG  - 7214-7221
+LID - 10.2174/0929867327666191220103901 [doi]
+AB  - Drug repurposing is the process of developing existing or abandoned drugs for a 
+      different disease. Repurposing can circumvent higher costs and times associated 
+      with conventional drug discovery strategies because toxicity and pharmacokinetics 
+      profiles are typically already established. This brief review focuses on efforts 
+      to repurpose drugs for skin cancer and includes reuse of antihypertensives, 
+      anthelmintics and antifungals among a range of other medicines. Repurposing not 
+      only ushers promising known drugs for new indications, the process of repurposing 
+      can uncover new mechanistic insights in the pathogenesis of disease and uncover 
+      new opportunities for pharmaceutical intervention.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Khachigian, Levon M
+AU  - Khachigian LM
+AD  - Vascular Biology and Translational Research, School of Medical Sciences, Faculty 
+      of Medicine, University of New South Wales, Sydney NSW 2052, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Med Chem
+JT  - Current medicinal chemistry
+JID - 9440157
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Drug Discovery
+MH  - *Drug Repositioning
+MH  - Humans
+MH  - Pharmaceutical Preparations
+MH  - *Skin Neoplasms/drug therapy
+OTO - NOTNLM
+OT  - Drug repurposing
+OT  - cancer
+OT  - disease
+OT  - drug repositioning
+OT  - melanoma
+OT  - skin cancer
+EDAT- 2019/12/21 06:00
+MHDA- 2021/02/05 06:00
+CRDT- 2019/12/21 06:00
+PHST- 2019/09/06 00:00 [received]
+PHST- 2019/10/15 00:00 [revised]
+PHST- 2019/10/29 00:00 [accepted]
+PHST- 2019/12/21 06:00 [pubmed]
+PHST- 2021/02/05 06:00 [medline]
+PHST- 2019/12/21 06:00 [entrez]
+AID - CMC-EPUB-103105 [pii]
+AID - 10.2174/0929867327666191220103901 [doi]
+PST - ppublish
+SO  - Curr Med Chem. 2020;27(42):7214-7221. doi: 10.2174/0929867327666191220103901.
+
+PMID- 31711994
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 1096-3650 (Electronic)
+IS  - 1044-579X (Linking)
+VI  - 68
+DP  - 2021 Jan
+TI  - Repurposing of drugs as STAT3 inhibitors for cancer therapy.
+PG  - 31-46
+LID - S1044-579X(19)30172-5 [pii]
+LID - 10.1016/j.semcancer.2019.09.022 [doi]
+AB  - Drug repurposing is a valuable approach in delivering new cancer therapeutics 
+      rapidly into the clinic. Existing safety and patient tolerability data for drugs 
+      already in clinical use represent an untapped resource in terms of identifying 
+      therapeutic agents for off-label protein targets. The multicellular effects of 
+      STAT3 mediated by a range of various upstream signaling pathways make it an 
+      attractive therapeutic target with utility in a range of diseases including 
+      cancer, and has led to the development of a variety of STAT3 inhibitors. 
+      Moreover, heightened STAT3 transcriptional activation in tumor cells and within 
+      the cells of the tumor microenvironment contribute to disease progression. 
+      Consequently, there are many STAT3 inhibitors in preclinical development or under 
+      evaluation in clinical trials for their therapeutic efficacy predominantly in 
+      inflammatory diseases and cancer. Despite these advances, many challenges remain 
+      in ultimately providing STAT3 inhibitors to patients as cancer treatments, 
+      highlighting the need not only for a better understanding of the mechanisms 
+      associated with STAT3 activation, but also how various pharmaceutical agents 
+      suppress STAT3 activity in various cancers. In this review we discuss the 
+      importance of STAT3-dependent functions in cancer, review the status of compounds 
+      designed as direct-acting STAT3 inhibitors, and describe some of the strategies 
+      for repurposing of drugs as STAT3 inhibitors for cancer therapy.
+CI  - Copyright © 2019 Elsevier Ltd. All rights reserved.
+FAU - Thilakasiri, Pathum S
+AU  - Thilakasiri PS
+AD  - Cancer and Inflammation Program, Olivia Newton-John Cancer Research Institute, 
+      School of Cancer Medicine, La Trobe University, Heidelberg, Vic., Australia.
+FAU - Dmello, Rhynelle S
+AU  - Dmello RS
+AD  - Cancer and Inflammation Program, Olivia Newton-John Cancer Research Institute, 
+      School of Cancer Medicine, La Trobe University, Heidelberg, Vic., Australia.
+FAU - Nero, Tracy L
+AU  - Nero TL
+AD  - ACRF Rational Drug Discovery Centre, St Vincent's Institute, Melbourne, Vic., 
+      Australia; Department of Biochemistry and Molecular Biology, Bio21 Institute, 
+      University of Melbourne, Melbourne, Vic., Australia.
+FAU - Parker, Michael W
+AU  - Parker MW
+AD  - ACRF Rational Drug Discovery Centre, St Vincent's Institute, Melbourne, Vic., 
+      Australia; Department of Biochemistry and Molecular Biology, Bio21 Institute, 
+      University of Melbourne, Melbourne, Vic., Australia.
+FAU - Ernst, Matthias
+AU  - Ernst M
+AD  - Cancer and Inflammation Program, Olivia Newton-John Cancer Research Institute, 
+      School of Cancer Medicine, La Trobe University, Heidelberg, Vic., Australia.
+FAU - Chand, Ashwini L
+AU  - Chand AL
+AD  - Cancer and Inflammation Program, Olivia Newton-John Cancer Research Institute, 
+      School of Cancer Medicine, La Trobe University, Heidelberg, Vic., Australia. 
+      Electronic address: ashwini.chand@onjcri.org.au.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20191108
+PL  - England
+TA  - Semin Cancer Biol
+JT  - Seminars in cancer biology
+JID - 9010218
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Pharmaceutical Preparations)
+RN  - 0 (STAT3 Transcription Factor)
+RN  - 0 (STAT3 protein, human)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Agents/*therapeutic use
+MH  - *Drug Discovery
+MH  - Drug Repositioning/*methods
+MH  - Humans
+MH  - Neoplasms/*drug therapy
+MH  - Pharmaceutical Preparations/*administration & dosage
+MH  - STAT3 Transcription Factor/*antagonists & inhibitors
+OTO - NOTNLM
+OT  - Bazedoxifene
+OT  - Cancer
+OT  - Drug repurposing
+OT  - IL11
+OT  - IL6
+OT  - Interleukin 11
+OT  - Interleukin 6
+OT  - STAT3
+OT  - STAT3 inhibitors
+OT  - Small molecule inhibitors
+OT  - gp130
+EDAT- 2019/11/13 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2019/11/13 06:00
+PHST- 2019/07/15 00:00 [received]
+PHST- 2019/09/20 00:00 [revised]
+PHST- 2019/09/24 00:00 [accepted]
+PHST- 2019/11/13 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+PHST- 2019/11/13 06:00 [entrez]
+AID - S1044-579X(19)30172-5 [pii]
+AID - 10.1016/j.semcancer.2019.09.022 [doi]
+PST - ppublish
+SO  - Semin Cancer Biol. 2021 Jan;68:31-46. doi: 10.1016/j.semcancer.2019.09.022. Epub 
+      2019 Nov 8.
+
+PMID- 33382619
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210308
+LR  - 20220115
+IS  - 1520-4804 (Electronic)
+IS  - 0022-2623 (Print)
+IS  - 0022-2623 (Linking)
+VI  - 64
+IP  - 1
+DP  - 2021 Jan 14
+TI  - Peptide-Drug Conjugates with Different Linkers for Cancer Therapy.
+PG  - 216-232
+LID - 10.1021/acs.jmedchem.0c01530 [doi]
+AB  - Drug conjugates are chemotherapeutic or cytotoxic agents covalently linked to 
+      targeting ligands such as an antibody or a peptide via a linker. While 
+      antibody-drug conjugates (ADCs) are now clinically established for cancer 
+      therapy, peptide-drug conjugates (PDCs) are gaining recognition as a new modality 
+      for targeted drug delivery with improved efficacy and reduced side effects for 
+      cancer treatment. The linker in a drug conjugate plays a key role in the 
+      circulation time of the conjugate and release of the drug for full activity at 
+      the target site. Herein, we highlight the main linker chemistries utilized in the 
+      design of PDCs and discuss representative examples of PDCs with different linker 
+      chemistries with the related outcome in cell and animal studies.
+FAU - Alas, Mona
+AU  - Alas M
+AD  - Chapman University School of Pharmacy (CUSP), Harry and Diane Rinker Health 
+      Science Campus, Chapman University, Irvine, California 92618-1908, United States.
+FAU - Saghaeidehkordi, Azam
+AU  - Saghaeidehkordi A
+AD  - Chapman University School of Pharmacy (CUSP), Harry and Diane Rinker Health 
+      Science Campus, Chapman University, Irvine, California 92618-1908, United States.
+FAU - Kaur, Kamaljit
+AU  - Kaur K
+AUID- ORCID: 0000-0002-8190-5658
+AD  - Chapman University School of Pharmacy (CUSP), Harry and Diane Rinker Health 
+      Science Campus, Chapman University, Irvine, California 92618-1908, United States.
+LA  - eng
+GR  - R15 CA208656/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20201231
+TA  - J Med Chem
+JT  - Journal of medicinal chemistry
+JID - 9716531
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Oximes)
+RN  - 0 (Peptides)
+RN  - 0 (Pharmaceutical Preparations)
+RN  - 0 (Triazoles)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antineoplastic Agents/chemistry/*therapeutic use
+MH  - Cell Line, Tumor
+MH  - Humans
+MH  - Neoplasms/*drug therapy
+MH  - Oximes/chemistry
+MH  - Peptides/*chemistry
+MH  - Pharmaceutical Preparations/*chemistry
+MH  - Triazoles/chemistry
+MH  - Xenograft Model Antitumor Assays
+PMC - PMC8610607
+MID - NIHMS1749084
+COIS- The authors declare no competing financial interest.
+EDAT- 2021/01/01 06:00
+MHDA- 2021/03/09 06:00
+CRDT- 2020/12/31 17:08
+PHST- 2021/01/01 06:00 [pubmed]
+PHST- 2021/03/09 06:00 [medline]
+PHST- 2020/12/31 17:08 [entrez]
+AID - 10.1021/acs.jmedchem.0c01530 [doi]
+PST - ppublish
+SO  - J Med Chem. 2021 Jan 14;64(1):216-232. doi: 10.1021/acs.jmedchem.0c01530. Epub 
+      2020 Dec 31.
+
+PMID- 35125116
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220208
+LR  - 20220216
+IS  - 1601-5223 (Electronic)
+IS  - 0018-0661 (Print)
+IS  - 0018-0661 (Linking)
+VI  - 159
+IP  - 1
+DP  - 2022 Feb 7
+TI  - Identification of a chromatin regulator signature and potential candidate drugs 
+      for bladder cancer.
+PG  - 13
+LID - 10.1186/s41065-021-00212-x [doi]
+LID - 13
+AB  - BACKGROUND: Bladder cancer (BLCA) is a malignant tumor with a dismay outcome. 
+      Increasing evidence has confirmed that chromatin regulators (CRs) are involved in 
+      cancer progression. Therefore, we aimed to explore the function and prognostic 
+      value of CRs in BLCA patients. METHODS: Chromatin regulators (CRs) were acquired 
+      from the previous top research. The mRNA expression and clinical information were 
+      downloaded from TCGA and GEO datasets. Cox regression analysis and least absolute 
+      shrinkage and selection operator (LASSO) regression analysis were performed to 
+      select the prognostic gene and construct the risk model for predicting outcome in 
+      BLCA. The Kaplan-Meier analysis was used to assess the prognosis between high- 
+      and low-risk groups. We also investigated the drug sensitivity difference between 
+      high- and low-risk groups. CMAP dataset was performed to screen the small 
+      molecule drugs for treatment. RESULTS: We successfully constructed and validated 
+      an 11 CRs-based model for predicting the prognosis of patients with BLCA. 
+      Moreover, we also found 11 CRs-based model was an independent prognostic factor. 
+      Functional analysis suggested that CRs were mainly enriched in cancer-related 
+      signaling pathways. The CR-based model was also correlated with immune cells 
+      infiltration and immune checkpoint. Patients in the high-risk group were more 
+      sensitive to several drugs, such as mitomycin C, gemcitabine, cisplatin. Eight 
+      small molecule drugs could be beneficial to treatment for BLCA patients. 
+      CONCLUSION: In conclusion, our study provided novel insights into the function of 
+      CRs in BLCA. We identified a reliable prognostic biomarker for the survival of 
+      patients with BLCA.
+CI  - © 2022. The Author(s).
+FAU - Zhu, Ke
+AU  - Zhu K
+AD  - Department of Urology, The First Affiliated Hospital of Nanchang University, 17 
+      Yongwaizheng Street, Nanchang, Jiangxi, 330006, P.R. China.
+FAU - Liu, Xiaoqiang
+AU  - Liu X
+AD  - Department of Urology, The First Affiliated Hospital of Nanchang University, 17 
+      Yongwaizheng Street, Nanchang, Jiangxi, 330006, P.R. China.
+FAU - Deng, Wen
+AU  - Deng W
+AD  - Department of Urology, The First Affiliated Hospital of Nanchang University, 17 
+      Yongwaizheng Street, Nanchang, Jiangxi, 330006, P.R. China.
+FAU - Wang, Gongxian
+AU  - Wang G
+AD  - Department of Urology, The First Affiliated Hospital of Nanchang University, 17 
+      Yongwaizheng Street, Nanchang, Jiangxi, 330006, P.R. China. wanggx-mr@126.com.
+AD  - Jiangxi Institute of Urology, Nanchang, Jiangxi, 330006, PR China. 
+      wanggx-mr@126.com.
+FAU - Fu, Bin
+AU  - Fu B
+AD  - Department of Urology, The First Affiliated Hospital of Nanchang University, 17 
+      Yongwaizheng Street, Nanchang, Jiangxi, 330006, P.R. China. urofubin@sina.com.
+AD  - Jiangxi Institute of Urology, Nanchang, Jiangxi, 330006, PR China. 
+      urofubin@sina.com.
+LA  - eng
+GR  - 81960512/national natural science foundation of china/
+PT  - Journal Article
+DEP - 20220207
+TA  - Hereditas
+JT  - Hereditas
+JID - 0374654
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Chromatin)
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Biomarkers, Tumor/genetics
+MH  - Chromatin
+MH  - Humans
+MH  - *Pharmaceutical Preparations
+MH  - Prognosis
+MH  - *Urinary Bladder Neoplasms/drug therapy/genetics
+PMC - PMC8819906
+OTO - NOTNLM
+OT  - Bladder cancer
+OT  - Chromatin regulators
+OT  - Prognosis
+OT  - TCGA
+COIS- No competing interests.
+EDAT- 2022/02/08 06:00
+MHDA- 2022/02/09 06:00
+CRDT- 2022/02/07 05:24
+PHST- 2021/07/26 00:00 [received]
+PHST- 2021/11/16 00:00 [accepted]
+PHST- 2022/02/07 05:24 [entrez]
+PHST- 2022/02/08 06:00 [pubmed]
+PHST- 2022/02/09 06:00 [medline]
+AID - 10.1186/s41065-021-00212-x [pii]
+AID - 212 [pii]
+AID - 10.1186/s41065-021-00212-x [doi]
+PST - epublish
+SO  - Hereditas. 2022 Feb 7;159(1):13. doi: 10.1186/s41065-021-00212-x.
+
+PMID- 32380233
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 1096-3650 (Electronic)
+IS  - 1044-579X (Linking)
+VI  - 68
+DP  - 2021 Jan
+TI  - Repurposing of drugs: An attractive pharmacological strategy for cancer 
+      therapeutics.
+PG  - 258-278
+LID - S1044-579X(20)30094-8 [pii]
+LID - 10.1016/j.semcancer.2020.04.006 [doi]
+AB  - Human malignancies are one of the major health-related issues though out the 
+      world and anticipated to rise in the future. The development of novel 
+      drugs/agents requires a huge amount of cost and time that represents a major 
+      challenge for drug discovery. In the last three decades, the number of FDA 
+      approved drugs has dropped down and this led to increasing interest in drug 
+      reposition or repurposing. The present review focuses on recent concepts and 
+      therapeutic opportunities for the utilization of antidiabetics, antibiotics, 
+      antifungal, anti-inflammatory, antipsychotic, PDE inhibitors and estrogen 
+      receptor antagonist, Antabuse, antiparasitic and cardiovascular agents/drugs as 
+      an alternative approach against human malignancies. The repurposing of approved 
+      non-cancerous drugs is an effective strategy to develop new therapeutic options 
+      for the treatment of cancer patients at an affordable cost in clinics. In the 
+      current scenario, most of the countries throughout the globe are unable to meet 
+      the medical needs of cancer patients because of the high cost of the available 
+      cancerous drugs. Some of these drugs displayed potential anti-cancer activity in 
+      preclinic and clinical studies by regulating several key molecular mechanisms and 
+      oncogenic pathways in human malignancies. The emerging pieces of evidence 
+      indicate that repurposing of drugs is crucial to the faster and cheaper discovery 
+      of anti-cancerous drugs.
+CI  - Copyright © 2020 Elsevier Ltd. All rights reserved.
+FAU - Kirtonia, Anuradha
+AU  - Kirtonia A
+AD  - Amity Institute of Molecular Medicine and Stem cell Research (AIMMSCR), Amity 
+      University Uttar Pradesh, Noida, 201313, India; Equal contribution.
+FAU - Gala, Kavita
+AU  - Gala K
+AD  - Sunandan Divatia School of Science, SVKM's NMIMS (Deemed to be University), Vile 
+      Parle West, Mumbai, 400056, India; Equal contribution.
+FAU - Fernandes, Stina George
+AU  - Fernandes SG
+AD  - Sunandan Divatia School of Science, SVKM's NMIMS (Deemed to be University), Vile 
+      Parle West, Mumbai, 400056, India; Equal contribution.
+FAU - Pandya, Gouri
+AU  - Pandya G
+AD  - Amity Institute of Molecular Medicine and Stem cell Research (AIMMSCR), Amity 
+      University Uttar Pradesh, Noida, 201313, India; Equal contribution.
+FAU - Pandey, Amit Kumar
+AU  - Pandey AK
+AD  - Amity Institute of Biotechnology, Amity University Haryana, Manesar, Haryana, 
+      122413, India.
+FAU - Sethi, Gautam
+AU  - Sethi G
+AD  - Department of Pharmacology, Yong Loo Lin School of Medicine, National University 
+      of Singapore, Singapore, 117600, Singapore.
+FAU - Khattar, Ekta
+AU  - Khattar E
+AD  - Sunandan Divatia School of Science, SVKM's NMIMS (Deemed to be University), Vile 
+      Parle West, Mumbai, 400056, India. Electronic address: Ekta.Khattar@nmims.edu.
+FAU - Garg, Manoj
+AU  - Garg M
+AD  - Amity Institute of Molecular Medicine and Stem cell Research (AIMMSCR), Amity 
+      University Uttar Pradesh, Noida, 201313, India. Electronic address: 
+      mgarg@amity.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20200505
+PL  - England
+TA  - Semin Cancer Biol
+JT  - Seminars in cancer biology
+JID - 9010218
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Animals
+MH  - Antineoplastic Agents/*therapeutic use
+MH  - *Drug Discovery
+MH  - Drug Repositioning/*methods
+MH  - Humans
+MH  - Neoplasms/*drug therapy
+MH  - Pharmaceutical Preparations/*administration & dosage
+OTO - NOTNLM
+OT  - Anti-inflammatory
+OT  - Antibiotic
+OT  - Antidiabetic
+OT  - Antifungal
+OT  - Antipsychotic
+OT  - Aspirin
+OT  - Cancer
+OT  - Drug repurposing/repositioning
+OT  - Metformin
+OT  - PDE inhibitors
+EDAT- 2020/05/08 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2020/05/08 06:00
+PHST- 2020/01/27 00:00 [received]
+PHST- 2020/03/20 00:00 [revised]
+PHST- 2020/04/22 00:00 [accepted]
+PHST- 2020/05/08 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+PHST- 2020/05/08 06:00 [entrez]
+AID - S1044-579X(20)30094-8 [pii]
+AID - 10.1016/j.semcancer.2020.04.006 [doi]
+PST - ppublish
+SO  - Semin Cancer Biol. 2021 Jan;68:258-278. doi: 10.1016/j.semcancer.2020.04.006. 
+      Epub 2020 May 5.
+
+PMID- 33188892
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210617
+LR  - 20210617
+IS  - 1873-3476 (Electronic)
+IS  - 0378-5173 (Linking)
+VI  - 592
+DP  - 2021 Jan 5
+TI  - EGFR targeting for cancer therapy: Pharmacology and immunoconjugates with drugs 
+      and nanoparticles.
+PG  - 120082
+LID - S0378-5173(20)31067-X [pii]
+LID - 10.1016/j.ijpharm.2020.120082 [doi]
+AB  - The epidermal growth factor receptor (EGFR) belongs to the tyrosine kinase 
+      receptors family and is present in the epithelial cell membrane. Its endogenous 
+      activation occurs through the binding of different endogenous ligands, including 
+      the epidermal growth factor (EGF), leading to signaling cascades able to maintain 
+      normal cellular functions. Although involved in the development and maintenance 
+      of tissues in normal conditions, when EGFR is overexpressed, it stimulates the 
+      growth and progression of tumors, resulting in angiogenesis, invasion and 
+      metastasis, through some main cascades such as Ras/Raf/MAPK, PIK-3/AKT, PLC-PKC 
+      and STAT. Besides, considering the limitations of conventional chemotherapy that 
+      result in high toxicity and low tumor specificity, EGFR is currently considered 
+      an important target. As a result, several monoclonal antibodies are currently 
+      approved for use in cancer treatment, such as cetuximab (CTX), panitumumab, 
+      nimotuzumab, necitumumab and others are in clinical trials. Aiming to combine the 
+      chemotherapeutic agent toxicity and specific targeting to EGFR overexpressing 
+      tumor tissues, two main strategies will be discussed in this review: 
+      antibody-drug conjugates (ADCs) and antibody-nanoparticle conjugates (ANCs). 
+      Briefly, ADCs consist of antibodies covalently linked through a spacer to the 
+      cytotoxic drug. Upon administration, binding to EGFR and endocytosis, ADCs suffer 
+      chemical and enzymatic reactions leading to the release and accumulation of the 
+      drug. Instead, ANCs consist of nanotechnology-based formulations, such as lipid, 
+      polymeric and inorganic nanoparticles able to protect the drug against 
+      inactivation, allowing controlled release and also passive accumulation in tumor 
+      tissues by the enhanced permeability and retention effect (EPR). Furthermore, 
+      ANCs undergo active targeting through EGFR receptor-mediated endocytosis, leading 
+      to the formation of lysosomes and drug release into the cytosol. Herein, we will 
+      present and discuss some important aspects regarding EGFR structure, its role on 
+      internal signaling pathways and downregulation aspects. Then, considering that 
+      EGFR is a potential therapeutic target for cancer therapy, the monoclonal 
+      antibodies able to target this receptor will be presented and discussed. Finally, 
+      ADCs and ANCs state of the art will be reviewed and recent studies and clinical 
+      progresses will be highlighted. To the best of our knowledge, this is the first 
+      review paper to address specifically the EGFR target and its application on ADCs 
+      and ANCs.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Santos, Elias da Silva
+AU  - Santos EDS
+AD  - Federal University of Ceará, Faculty of Pharmacy, Dentistry and Nursing, 
+      Department of Pharmacy, Brazil.
+FAU - Nogueira, Karina Alexandre Barros
+AU  - Nogueira KAB
+AD  - Federal University of Ceará, Center of Technology, Department of Chemical 
+      Engineering, Brazil.
+FAU - Fernandes, Luiziana Cavalcante Costa
+AU  - Fernandes LCC
+AD  - Federal University of Ceará, Faculty of Pharmacy, Dentistry and Nursing, 
+      Department of Pharmacy, Brazil.
+FAU - Martins, Jéssica Roberta Pereira
+AU  - Martins JRP
+AD  - Federal University of Ceará, Center of Technology, Department of Chemical 
+      Engineering, Brazil.
+FAU - Reis, Alice Vitoria Frota
+AU  - Reis AVF
+AD  - Federal University of Ceará, Faculty of Pharmacy, Dentistry and Nursing, 
+      Department of Pharmacy, Brazil.
+FAU - Neto, José de Brito Vieira
+AU  - Neto JBV
+AD  - Federal University of Ceará, Faculty of Medicine, Brazil.
+FAU - Júnior, Ivanildo José da Silva
+AU  - Júnior IJDS
+AD  - Federal University of Ceará, Center of Technology, Department of Chemical 
+      Engineering, Brazil.
+FAU - Pessoa, Claudia
+AU  - Pessoa C
+AD  - Federal University of Ceará, Faculty of Medicine, Brazil.
+FAU - Petrilli, Raquel
+AU  - Petrilli R
+AD  - University of International Integration of the Afro-Brazilian Lusophony, 
+      Institute of Health Sciences, Brazil.
+FAU - Eloy, Josimar O
+AU  - Eloy JO
+AD  - Federal University of Ceará, Faculty of Pharmacy, Dentistry and Nursing, 
+      Department of Pharmacy, Brazil. Electronic address: josimar.eloy@ufc.br.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20201112
+PL  - Netherlands
+TA  - Int J Pharm
+JT  - International journal of pharmaceutics
+JID - 7804127
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Immunoconjugates)
+RN  - 0 (Pharmaceutical Preparations)
+RN  - EC 2.7.10.1 (ErbB Receptors)
+SB  - IM
+MH  - *Antineoplastic Agents
+MH  - ErbB Receptors
+MH  - *Immunoconjugates
+MH  - *Nanoparticles
+MH  - *Neoplasms/drug therapy
+MH  - *Pharmaceutical Preparations
+OTO - NOTNLM
+OT  - Cancer
+OT  - Drug delivery
+OT  - Epidermal growth factor receptor (EGFR)
+OT  - Immunoconjugates
+OT  - Nanoparticles
+OT  - Review
+EDAT- 2020/11/15 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/11/14 20:08
+PHST- 2020/07/20 00:00 [received]
+PHST- 2020/10/21 00:00 [revised]
+PHST- 2020/11/08 00:00 [accepted]
+PHST- 2020/11/15 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/11/14 20:08 [entrez]
+AID - S0378-5173(20)31067-X [pii]
+AID - 10.1016/j.ijpharm.2020.120082 [doi]
+PST - ppublish
+SO  - Int J Pharm. 2021 Jan 5;592:120082. doi: 10.1016/j.ijpharm.2020.120082. Epub 2020 
+      Nov 12.
+
+PMID- 32072574
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210602
+LR  - 20210602
+IS  - 2168-4804 (Electronic)
+IS  - 2168-4790 (Linking)
+VI  - 54
+IP  - 2
+DP  - 2020 Mar
+TI  - Barriers for Pharmaceutical Innovation With Focus in Cancer Drugs, the Case of 
+      Mexico.
+PG  - 342-352
+LID - 10.1007/s43441-019-00062-w [doi]
+AB  - Drug innovation does not only generate economic growth but also portrays a 
+      country's efforts toward innovation. The article reviews the current status on 
+      the innovation of the Mexican pharmaceutical industry with a focus on cancer 
+      drugs. The authors examined the scientific and nonscientific literature in search 
+      of the origin of innovative cancer drugs, as well as the regulatory frames by 
+      which these drugs are approved in Mexico. The article presents a narrative 
+      analysis of the author's experiences on the barriers that impede pharmaceutical 
+      innovation in Mexico. To the best of the authors' knowledge, there was only 1 
+      domestic approval by COFEPRIS, the Mexican health regulatory agency, of an 
+      anticancer product developed under a repositioning approach. Among the barriers 
+      impeding drug innovation in Mexico are, but not be limited to, insufficient funds 
+      for the discovery phase; unaffordable or limited capacity for performing 
+      preclinical studies under good laboratory practices (GLP); lengthy clinical trial 
+      approval; unfavorable conditions for clinical trials for both academic and 
+      domestic pharmaceutical industry-sponsored studies; unclear policies for drug 
+      approvals and marketing. The authors state specific proposals for overcoming 
+      these barriers to generate a climate for increasing participation of academic and 
+      existing domestic pharmaceutical industry as well as to increase venture capital 
+      and favor start-up and early-stage companies. In conclusion, Mexico has the human 
+      resources and material infrastructure to innovate. The implementation of these 
+      and any other constructive proposals are just a matter of political will.
+FAU - Duenas-Gonzalez, Alfonso
+AU  - Duenas-Gonzalez A
+AUID- ORCID: 0000-0002-2956-645X
+AD  - Unidad de Investigación Biomédica en Cancer, Instituto de Investigaciones 
+      Biomédicas, UNAM/Instituto Nacional de Cancerologia, San Fernando 22, Tlalpan, 
+      14080, Mexico City, Mexico. alfonso_duenasg@yahoo.com.
+FAU - Gonzalez-Fierro, Aurora
+AU  - Gonzalez-Fierro A
+AD  - Subdirección de Investigación Básica, Instituto Nacional de Cancerología, Mexico 
+      City, Mexico.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200106
+PL  - Switzerland
+TA  - Ther Innov Regul Sci
+JT  - Therapeutic innovation & regulatory science
+JID - 101597411
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - *Antineoplastic Agents
+MH  - Drug Approval
+MH  - Drug Industry
+MH  - Humans
+MH  - Mexico
+MH  - *Neoplasms/drug therapy
+MH  - *Pharmaceutical Preparations
+OTO - NOTNLM
+OT  - Mexico
+OT  - barriers
+OT  - cancer
+OT  - drug approval
+OT  - pharmaceutical innovation
+EDAT- 2020/02/20 06:00
+MHDA- 2021/06/03 06:00
+CRDT- 2020/02/20 06:00
+PHST- 2018/11/07 00:00 [received]
+PHST- 2019/02/22 00:00 [accepted]
+PHST- 2020/02/20 06:00 [entrez]
+PHST- 2020/02/20 06:00 [pubmed]
+PHST- 2021/06/03 06:00 [medline]
+AID - 10.1007/s43441-019-00062-w [pii]
+AID - 10.1007/s43441-019-00062-w [doi]
+PST - ppublish
+SO  - Ther Innov Regul Sci. 2020 Mar;54(2):342-352. doi: 10.1007/s43441-019-00062-w. 
+      Epub 2020 Jan 6.
+
+PMID- 34517536
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210923
+LR  - 20210923
+IS  - 1551-0018 (Electronic)
+IS  - 1547-1063 (Linking)
+VI  - 18
+IP  - 5
+DP  - 2021 Jul 21
+TI  - Strategies for the treatment of breast cancer: from classical drugs to 
+      mathematical models.
+PG  - 6328-6385
+LID - 10.3934/mbe.2021316 [doi]
+AB  - Breast cancer is one of the most common cancers and generally affects women. It 
+      is a heterogeneous disease that presents different entities, different biological 
+      characteristics, and differentiated clinical behaviors. With this in mind, this 
+      literature review had as its main objective to analyze the path taken from the 
+      simple use of classical drugs to the application of mathematical models, which 
+      through the many ongoing studies, have been considered as one of the reliable 
+      strategies, explaining the reasons why chemotherapy is not always successful. 
+      Besides, the most commonly mentioned strategies are immunotherapy, which includes 
+      techniques and therapies such as the use of antibodies, cytokines, antitumor 
+      vaccines, oncolytic and genomic viruses, among others, and nanoparticles, 
+      including metallic, magnetic, polymeric, liposome, dendrimer, micelle, and 
+      others, as well as drug reuse, which is a process by which new therapeutic 
+      indications are found for existing and approved drugs. The most commonly used 
+      pharmacological categories are cardiac, antiparasitic, anthelmintic, antiviral, 
+      antibiotic, and others. For the efficient development of reused drugs, there must 
+      be a process of exchange of purposes, methods, and information already available, 
+      and for their better understanding, computational mathematical models are then 
+      used, of which the methods of blind search or screening, based on the target, 
+      knowledge, signature, pathway or network and the mechanism to which it is 
+      directed, stand out. To conclude it should be noted that these different 
+      strategies can be applied alone or in combination with each other always to 
+      improve breast cancer treatment.
+FAU - Costa, Ana
+AU  - Costa A
+AD  - OncoPharma Research Group, Center for Health Technology and Services Research 
+      (CINTESIS), Rua Dr. Plácido da Costa, 4200-450 Porto, Portugal.
+FAU - Vale, Nuno
+AU  - Vale N
+AD  - OncoPharma Research Group, Center for Health Technology and Services Research 
+      (CINTESIS), Rua Dr. Plácido da Costa, 4200-450 Porto, Portugal.
+AD  - Department of Community Medicine, Health Information and Decision (MEDCIDS), 
+      Faculty of Medicine, University of Porto, Al. Prof. Hernâni Monteiro, 4200-319 
+      Porto, Portugal.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Math Biosci Eng
+JT  - Mathematical biosciences and engineering : MBE
+JID - 101197794
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - *Breast Neoplasms/drug therapy
+MH  - Female
+MH  - Humans
+MH  - Immunotherapy
+MH  - Models, Theoretical
+MH  - *Pharmaceutical Preparations
+OTO - NOTNLM
+OT  - breast cancer
+OT  - drug repurposing
+OT  - immunotherapy
+OT  - mathematical models
+OT  - nanoparticles
+EDAT- 2021/09/15 06:00
+MHDA- 2021/09/24 06:00
+CRDT- 2021/09/14 01:00
+PHST- 2021/09/14 01:00 [entrez]
+PHST- 2021/09/15 06:00 [pubmed]
+PHST- 2021/09/24 06:00 [medline]
+AID - 10.3934/mbe.2021316 [doi]
+PST - ppublish
+SO  - Math Biosci Eng. 2021 Jul 21;18(5):6328-6385. doi: 10.3934/mbe.2021316.
+
+PMID- 34352380
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211103
+LR  - 20211103
+IS  - 1556-1380 (Electronic)
+IS  - 1556-0864 (Linking)
+VI  - 16
+IP  - 11
+DP  - 2021 Nov
+TI  - Mechanism of Drug Tolerant Persister Cancer Cells: The Landscape and Clinical 
+      Implication for Therapy.
+PG  - 1798-1809
+LID - S1556-0864(21)02332-7 [pii]
+LID - 10.1016/j.jtho.2021.07.017 [doi]
+AB  - A minor population of cancer cells may evade cell death from chemotherapy and 
+      targeted therapy by entering a reversible slow proliferation state known as the 
+      drug tolerant persister (DTP) state. This DTP state can allow cancer cells to 
+      survive drug therapy long enough for additional mechanisms of acquired drug 
+      resistance to develop. Thus, cancer persistence is a major obstacle to curing 
+      cancers, where insight into the biology of DTP cells and therapeutic strategies 
+      targeting this mechanism can have considerable clinical implications. There is 
+      emerging evidence that DTP cells adapt to new environments through epigenomic 
+      modification, transcriptomic regulation, flexible energy metabolism, and 
+      interactions with the tumor microenvironment. Herein, we review and discuss the 
+      various proposed mechanisms of cancer persister cells and the molecular features 
+      underlying the DTP state, with insights into the potential therapeutic strategies 
+      to conquer DTP cells and prevent cancer recurrence or therapeutic failures.
+CI  - Copyright © 2021 International Association for the Study of Lung Cancer. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Mikubo, Masashi
+AU  - Mikubo M
+AD  - Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+      Canada.
+FAU - Inoue, Yoshiaki
+AU  - Inoue Y
+AD  - Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+      Canada.
+FAU - Liu, Geoffrey
+AU  - Liu G
+AD  - Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+      Canada.
+FAU - Tsao, Ming-Sound
+AU  - Tsao MS
+AD  - Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+      Canada; Department of Medical Biophysics, University Health Network, Toronto, 
+      Ontario, Canada; Department of Laboratory Medicine and Pathobiology University 
+      Health Network, Toronto, Ontario, Canada. Electronic address: Ming.Tsao@uhn.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210803
+PL  - United States
+TA  - J Thorac Oncol
+JT  - Journal of thoracic oncology : official publication of the International 
+      Association for the Study of Lung Cancer
+JID - 101274235
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Humans
+MH  - *Lung Neoplasms
+MH  - Neoplasm Recurrence, Local
+MH  - *Pharmaceutical Preparations
+MH  - Tumor Microenvironment
+OTO - NOTNLM
+OT  - Chemotherapy
+OT  - Drug persisters
+OT  - Drug resistance
+OT  - EGFR TKI
+OT  - Targeted therapy
+OT  - Tumor dormancy
+EDAT- 2021/08/06 06:00
+MHDA- 2021/11/04 06:00
+CRDT- 2021/08/05 20:17
+PHST- 2021/05/26 00:00 [received]
+PHST- 2021/06/30 00:00 [revised]
+PHST- 2021/07/18 00:00 [accepted]
+PHST- 2021/08/06 06:00 [pubmed]
+PHST- 2021/11/04 06:00 [medline]
+PHST- 2021/08/05 20:17 [entrez]
+AID - S1556-0864(21)02332-7 [pii]
+AID - 10.1016/j.jtho.2021.07.017 [doi]
+PST - ppublish
+SO  - J Thorac Oncol. 2021 Nov;16(11):1798-1809. doi: 10.1016/j.jtho.2021.07.017. Epub 
+      2021 Aug 3.
+
+PMID- 34036903
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220106
+LR  - 20220531
+IS  - 1875-533X (Electronic)
+IS  - 0929-8673 (Linking)
+VI  - 28
+IP  - 40
+DP  - 2021
+TI  - Developing Novel Drug Candidates and Repurposed Drugs for Prostate Cancer Based 
+      on Molecular Profiles.
+PG  - 8392-8415
+LID - 10.2174/0929867328666210525162730 [doi]
+AB  - Prostate cancer (PCa) carries a growing burden on society. Lack of curative 
+      treatment and poor prognosis among patients with advanced PCa imply an urgent 
+      need for novel and improved drug identification. This is hampered by the 
+      disease's high molecular heterogeneity and complex molecular pathophysiology, 
+      resulting in drugs being efficient in a few patients and cancer developing 
+      resistance to treatment. De novo drug discovery has proven to be complex and 
+      challenging. Along with technological advancements (mainly linked to -omics 
+      approaches) that allow for comprehensive characterization of the molecular 
+      changes underlying disease, and considering respective developments in 
+      bioinformatics, computational drug repurposing has emerged as a promising 
+      approach to shorten the way from discovery to clinical application and address 
+      the disease molecular complexity. With this article, we aimed at reviewing recent 
+      studies in which drugs/ compounds for PCa were defined through the investigation 
+      of molecular profiling (-omics) data and the application of drug repurposing 
+      strategies. A brief overview of the technical requirements and associated 
+      challenges with the latter are also provided. For that purpose, a literature 
+      search was conducted using the PubMed database. Numerous drugs/ compounds have 
+      been proposed as potential PCa therapeutics, mostly based on the investigation of 
+      genomics and transcriptomics data. In most cases, further assessment in disease 
+      models is required. Since ultimately proteins are targeted by drugs, expanding on 
+      the use of proteomics profiling data (alone or in combination with other -omics) 
+      is expected to advance further defining new/repurposed drugs for PCa.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Mokou, Marika
+AU  - Mokou M
+AD  - Department of Biomarker Research, Mosaiques Diagnostics GmbH, Hannover,Germany.
+FAU - Frantzi, Maria
+AU  - Frantzi M
+AD  - Department of Biomarker Research, Mosaiques Diagnostics GmbH, Hannover,Germany.
+FAU - Mischak, Harald
+AU  - Mischak H
+AD  - Department of Biomarker Research, Mosaiques Diagnostics GmbH, Hannover,Germany.
+FAU - Vlahou, Antonia
+AU  - Vlahou A
+AD  - Centre of Systems Biology, Biomedical Research Foundation of the Academy of 
+      Athens, Athens,Greece.
+FAU - Latosinska, Agnieszka
+AU  - Latosinska A
+AD  - Department of Biomarker Research, Mosaiques Diagnostics GmbH, Hannover,Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Med Chem
+JT  - Current medicinal chemistry
+JID - 9440157
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Computational Biology
+MH  - Drug Repositioning
+MH  - Genomics
+MH  - Humans
+MH  - Male
+MH  - *Pharmaceutical Preparations
+MH  - *Prostatic Neoplasms/drug therapy/genetics
+OTO - NOTNLM
+OT  - -omics
+OT  - Drug candidates
+OT  - drug repurposing
+OT  - molecular signature
+OT  - personalized medicine
+OT  - prostate cancer.
+EDAT- 2021/05/27 06:00
+MHDA- 2022/01/07 06:00
+CRDT- 2021/05/26 08:46
+PHST- 2021/01/18 00:00 [received]
+PHST- 2021/02/20 00:00 [revised]
+PHST- 2021/03/02 00:00 [accepted]
+PHST- 2021/05/27 06:00 [pubmed]
+PHST- 2022/01/07 06:00 [medline]
+PHST- 2021/05/26 08:46 [entrez]
+AID - CMC-EPUB-115785 [pii]
+AID - 10.2174/0929867328666210525162730 [doi]
+PST - ppublish
+SO  - Curr Med Chem. 2021;28(40):8392-8415. doi: 10.2174/0929867328666210525162730.

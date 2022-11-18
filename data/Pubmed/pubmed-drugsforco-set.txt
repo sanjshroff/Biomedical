@@ -1,0 +1,1058 @@
+PMID- 34991982
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220202
+LR  - 20220202
+IS  - 1532-2084 (Electronic)
+IS  - 1368-7646 (Print)
+IS  - 1368-7646 (Linking)
+VI  - 59
+DP  - 2021 Dec
+TI  - An update on drugs with therapeutic potential for SARS-CoV-2 (COVID-19) 
+      treatment.
+PG  - 100794
+LID - S1368-7646(21)00054-6 [pii]
+LID - 10.1016/j.drup.2021.100794 [doi]
+AB  - The COVID-19 pandemic is one of the greatest threats to human health in the 21st 
+      century with more than 257 million cases and over 5.17 million deaths reported 
+      worldwide (as of November 23, 2021. Various agents were initially proclaimed to 
+      be effective against SARS-CoV-2, the etiological agent of COVID-19. 
+      Hydroxychloroquine, lopinavir/ritonavir, and ribavirin are all examples of 
+      therapeutic agents, whose efficacy against COVID-19 was later disproved. 
+      Meanwhile, concentrated efforts of researchers and clinicians worldwide have led 
+      to the identification of novel therapeutic options to control the disease 
+      including PAXLOVID™ (PF-07321332). Although COVID-19 cases are currently treated 
+      using a comprehensive approach of anticoagulants, oxygen, and antibiotics, the 
+      novel Pfizer agent PAXLOVID™ (PF-07321332), an investigational COVID-19 oral 
+      antiviral candidate, significantly reduced hospitalization time and death rates, 
+      based on an interim analysis of the phase 2/3 EPIC-HR (Evaluation of Protease 
+      Inhibition for COVID-19 in High-Risk Patients) randomized, double-blind study of 
+      non-hospitalized adult patients with COVID-19, who are at high risk of 
+      progressing to severe illness. The scheduled interim analysis demonstrated an 89 
+      % reduction in risk of COVID-19-related hospitalization or death from any cause 
+      compared to placebo in patients treated within three days of symptom onset 
+      (primary endpoint). However, there still exists a great need for the development 
+      of additional treatments, as the recommended therapeutic options are insufficient 
+      in many cases. Thus far, mRNA and vector vaccines appear to be the most effective 
+      modalities to control the pandemic. In the current review, we provide an update 
+      on the progress that has been made since April 2020 in clinical trials concerning 
+      the effectiveness of therapies available to combat COVID-19. We focus on 
+      currently recommended therapeutic agents, including steroids, various monoclonal 
+      antibodies, remdesivir, baricitinib, anticoagulants and PAXLOVID™ summarizing the 
+      latest original studies and meta-analyses. Moreover, we aim to discuss other 
+      currently and previously studied agents targeting COVID-19 that either show no or 
+      only limited therapeutic activity. The results of recent studies report that 
+      hydroxychloroquine and convalescent plasma demonstrate no efficacy against 
+      SARS-CoV-2 infection. Lastly, we summarize the studies on various drugs with 
+      incoherent or insufficient data concerning their effectiveness, such as 
+      amantadine, ivermectin, or niclosamide.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Drożdżal, Sylwester
+AU  - Drożdżal S
+AD  - Department of Nephrology, Transplantation and Internal Medicine, Pomeranian 
+      Medical University in Szczecin, Poland.
+FAU - Rosik, Jakub
+AU  - Rosik J
+AD  - Department of Physiology, Pomeranian Medical University in Szczecin, Poland.
+FAU - Lechowicz, Kacper
+AU  - Lechowicz K
+AD  - Department of Anesthesiology, Intensive Therapy and Acute Intoxications, 
+      Pomeranian Medical University in Szczecin, Poland.
+FAU - Machaj, Filip
+AU  - Machaj F
+AD  - Department of Physiology, Pomeranian Medical University in Szczecin, Poland.
+FAU - Szostak, Bartosz
+AU  - Szostak B
+AD  - Department of Physiology, Pomeranian Medical University in Szczecin, Poland.
+FAU - Przybyciński, Jarosław
+AU  - Przybyciński J
+AD  - Department of Nephrology, Transplantation and Internal Medicine, Pomeranian 
+      Medical University in Szczecin, Poland.
+FAU - Lorzadeh, Shahrokh
+AU  - Lorzadeh S
+AD  - Department of Molecular Genetics, Science and Research Branch, Marvdasht Branch, 
+      Islamic Azad University, Marvdasht, Iran.
+FAU - Kotfis, Katarzyna
+AU  - Kotfis K
+AD  - Department of Anesthesiology, Intensive Therapy and Acute Intoxications, 
+      Pomeranian Medical University in Szczecin, Poland.
+FAU - Ghavami, Saeid
+AU  - Ghavami S
+AD  - Department of Human Anatomy and Cell Science, Max Rady College of Medicine, Rady 
+      Faculty of Health Sciences, University of Manitoba, Winnipeg, MB, Canada; 
+      Research Institutes of Oncology and Hematology, Cancer Care Manitoba-University 
+      of Manitoba, Winnipeg, MB R3E 0V9, Canada; Biology of Breathing Theme, Children 
+      Hospital Research Institute of Manitoba, University of Manitoba, Winnipeg, MB R3E 
+      0V9, Canada; Autophagy Research Center, Shiraz University of Medical Sciences, 
+      Shiraz 7134845794, Iran; Faculty of Medicine, Katowice School of Technology, 
+      40-555 Katowice, Poland.
+FAU - Łos, Marek J
+AU  - Łos MJ
+AD  - Biotechnology Centre, Silesian University of Technology, 44-100 Gliwice, Poland. 
+      Electronic address: mjelos@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20211209
+TA  - Drug Resist Updat
+JT  - Drug resistance updates : reviews and commentaries in antimicrobial and 
+      anticancer chemotherapy
+JID - 9815369
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Lactams)
+RN  - 0 (Nitriles)
+RN  - 0 (Pharmaceutical Preparations)
+RN  - 7R9A5P7H32 (nirmatrelvir)
+RN  - 9DLQ4CIU6V (Proline)
+RN  - GMW67QNF9C (Leucine)
+RN  - COVID-19 serotherapy
+SB  - IM
+MH  - Adult
+MH  - Antiviral Agents/therapeutic use
+MH  - *COVID-19/therapy
+MH  - Humans
+MH  - Immunization, Passive
+MH  - Lactams
+MH  - Leucine
+MH  - Nitriles
+MH  - Pandemics
+MH  - *Pharmaceutical Preparations
+MH  - Proline
+MH  - Randomized Controlled Trials as Topic
+MH  - SARS-CoV-2
+MH  - Treatment Outcome
+PMC - PMC8654464
+OTO - NOTNLM
+OT  - Baricitinib
+OT  - COVID-19
+OT  - Casirivimab
+OT  - Dexamethasone
+OT  - Imdevimab
+OT  - Omicron
+OT  - Paxlovid
+OT  - Remdesivir
+OT  - SARS-CoV-2
+OT  - Sotrovimab
+OT  - Tocilizumab
+EDAT- 2022/01/08 06:00
+MHDA- 2022/02/03 06:00
+CRDT- 2022/01/07 05:58
+PHST- 2021/10/15 00:00 [received]
+PHST- 2021/11/23 00:00 [revised]
+PHST- 2021/11/25 00:00 [accepted]
+PHST- 2022/01/08 06:00 [pubmed]
+PHST- 2022/02/03 06:00 [medline]
+PHST- 2022/01/07 05:58 [entrez]
+AID - S1368-7646(21)00054-6 [pii]
+AID - 100794 [pii]
+AID - 10.1016/j.drup.2021.100794 [doi]
+PST - ppublish
+SO  - Drug Resist Updat. 2021 Dec;59:100794. doi: 10.1016/j.drup.2021.100794. Epub 2021 
+      Dec 9.
+
+PMID- 32950264
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210219
+LR  - 20210608
+IS  - 1873-5487 (Electronic)
+IS  - 0188-4409 (Print)
+IS  - 0188-4409 (Linking)
+VI  - 52
+IP  - 1
+DP  - 2021 Jan
+TI  - Coronavirus Disease (COVID-19): Current Status and Prospects for Drug and Vaccine 
+      Development.
+PG  - 15-24
+LID - S0188-4409(20)31154-1 [pii]
+LID - 10.1016/j.arcmed.2020.09.010 [doi]
+AB  - The Coronavirus disease 2019 (COVID-19) pandemic has spread to almost all nooks 
+      and corners of the world. There are numerous potential approaches to 
+      pharmacologically fight COVID-19: small-molecule drugs, interferon therapies, 
+      vaccines, oligonucleotides, peptides, and monoclonal antibodies. Medications are 
+      being developed to target the spike, membrane, nucleocapsid or envelope proteins. 
+      The spike protein is also a critical target for vaccine development. 
+      Immunoinformatic approaches are being used for the identification of B cell and 
+      cytotoxic T lymphocyte (CTL) epitopes in the SARS-CoV-2 spike protein. Different 
+      vaccine vectors are also being developed. Chemical and physical methods such as 
+      formaldehyde, UV light or β-propiolactone are being deployed for the preparation 
+      of inactivated virus vaccine. Currently, there are many vaccines undergoing 
+      clinical trials. Even though mRNA and DNA vaccines are being designed and moved 
+      into clinical trials, these types of vaccines are yet to be approved by 
+      regulatory bodies for human use. This review focuses on the drugs and vaccines 
+      being developed against the COVID-19.
+CI  - Copyright © 2020 IMSS. Published by Elsevier Inc. All rights reserved.
+FAU - Ita, Kevin
+AU  - Ita K
+AD  - College of Pharmacy, Touro University, California, USA. Electronic address: 
+      kevin.ita@tu.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200910
+TA  - Arch Med Res
+JT  - Archives of medical research
+JID - 9312706
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Epitopes, T-Lymphocyte)
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - 0 (spike protein, SARS-CoV-2)
+SB  - IM
+CIN - Arch Med Res. 2021 May;52(4):456-457. PMID: 33483149
+MH  - COVID-19/immunology/*prevention & control
+MH  - COVID-19 Vaccines/chemistry/*immunology/*therapeutic use
+MH  - Drug Development/methods
+MH  - Epitopes, T-Lymphocyte/chemistry/genetics/immunology
+MH  - Humans
+MH  - SARS-CoV-2/*immunology
+MH  - Spike Glycoprotein, Coronavirus/chemistry/*immunology
+PMC - PMC7832760
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Coronavirus
+OT  - Drugs
+OT  - SARS-CoV-2
+OT  - Spike protein
+OT  - Vaccine
+EDAT- 2020/09/21 06:00
+MHDA- 2021/02/20 06:00
+CRDT- 2020/09/20 20:25
+PHST- 2020/06/23 00:00 [received]
+PHST- 2020/09/08 00:00 [accepted]
+PHST- 2020/09/21 06:00 [pubmed]
+PHST- 2021/02/20 06:00 [medline]
+PHST- 2020/09/20 20:25 [entrez]
+AID - S0188-4409(20)31154-1 [pii]
+AID - 10.1016/j.arcmed.2020.09.010 [doi]
+PST - ppublish
+SO  - Arch Med Res. 2021 Jan;52(1):15-24. doi: 10.1016/j.arcmed.2020.09.010. Epub 2020 
+      Sep 10.
+
+PMID- 33464914
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210309
+LR  - 20210309
+IS  - 1543-8392 (Electronic)
+IS  - 1543-8384 (Print)
+IS  - 1543-8384 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2021 Mar 1
+TI  - COVID-19 Transmission, Current Treatment, and Future Therapeutic Strategies.
+PG  - 754-771
+LID - 10.1021/acs.molpharmaceut.0c00608 [doi]
+LID - acs.molpharmaceut.0c00608
+AB  - At the stroke of the New Year 2020, COVID-19, a zoonotic disease that would turn 
+      into a global pandemic, was identified in the Chinese city of Wuhan. Although 
+      unique in its transmission and virulence, COVID-19 is similar to zoonotic 
+      diseases, including other SARS variants (e.g., SARS-CoV) and MERS, in exhibiting 
+      severe flu-like symptoms and acute respiratory distress. Even at the molecular 
+      level, many parallels have been identified between SARS and COVID-19 so much so 
+      that the COVID-19 virus has been named SARS-CoV-2. These similarities have 
+      provided several opportunities to treat COVID-19 patients using clinical 
+      approaches that were proven to be effective against SARS. Importantly, the 
+      identification of similarities in how SARS-CoV and SARS-CoV-2 access the host, 
+      replicate, and trigger life-threatening pathological conditions have revealed 
+      opportunities to repurpose drugs that were proven to be effective against SARS. 
+      In this article, we first provided an overview of COVID-19 etiology vis-à-vis 
+      other zoonotic diseases, particularly SARS and MERS. Then, we summarized the 
+      characteristics of droplets/aerosols emitted by COVID-19 patients and how they 
+      aid in the transmission of the virus among people. Moreover, we discussed the 
+      molecular mechanisms that enable SARS-CoV-2 to access the host and become more 
+      contagious than other betacoronaviruses such as SARS-CoV. Further, we outlined 
+      various approaches that are currently being employed to diagnose and 
+      symptomatically treat COVID-19 in the clinic. Finally, we reviewed various 
+      approaches and technologies employed to develop vaccines against COVID-19 and 
+      summarized the attempts to repurpose various classes of drugs and novel 
+      therapeutic approaches.
+FAU - Salian, Vrishali S
+AU  - Salian VS
+AD  - Department of Pharmaceutics, College of Pharmacy, University of Minnesota, 
+      Minneapolis, Minnesota 55455, United States.
+FAU - Wright, Jessica A
+AU  - Wright JA
+AD  - Department of Pharmacy Services, Mayo Clinic, Rochester, Minnesota 55905, United 
+      States.
+FAU - Vedell, Peter T
+AU  - Vedell PT
+AD  - Division of Biostatistics and Informatics, Department of Health Sciences 
+      Research, Mayo Clinic, Rochester, Minnesota 55905, United States.
+FAU - Nair, Sanjana
+AU  - Nair S
+AD  - Department of Pharmaceutics, College of Pharmacy, University of Minnesota, 
+      Minneapolis, Minnesota 55455, United States.
+FAU - Li, Chenxu
+AU  - Li C
+AD  - Department of Pharmaceutics, College of Pharmacy, University of Minnesota, 
+      Minneapolis, Minnesota 55455, United States.
+FAU - Kandimalla, Mahathi
+AU  - Kandimalla M
+AD  - College of Letters and Science, University of California, Berkeley, Berkeley, 
+      California 55906, United States.
+FAU - Tang, Xiaojia
+AU  - Tang X
+AD  - Division of Biostatistics and Informatics, Department of Health Sciences 
+      Research, Mayo Clinic, Rochester, Minnesota 55905, United States.
+FAU - Carmona Porquera, Eva M
+AU  - Carmona Porquera EM
+AD  - Division of Pulmonary and Critical Care Medicine, Department of Internal 
+      Medicine, Mayo Clinic, Rochester, Minnesota 55905, United States.
+FAU - Kalari, Krishna R
+AU  - Kalari KR
+AD  - Division of Biostatistics and Informatics, Department of Health Sciences 
+      Research, Mayo Clinic, Rochester, Minnesota 55905, United States.
+FAU - Kandimalla, Karunya K
+AU  - Kandimalla KK
+AUID- ORCID: 0000-0001-7786-1915
+AD  - Department of Pharmaceutics, College of Pharmacy, University of Minnesota, 
+      Minneapolis, Minnesota 55455, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210119
+TA  - Mol Pharm
+JT  - Molecular pharmaceutics
+JID - 101197791
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - COVID-19/diagnosis/prevention & control/therapy/*transmission
+MH  - COVID-19 Vaccines/immunology
+MH  - Humans
+MH  - *SARS-CoV-2
+PMC - PMC7839412
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - therapeutic strategies
+OT  - transmission
+OT  - vaccines
+COIS- The authors declare no competing financial interest.
+EDAT- 2021/01/20 06:00
+MHDA- 2021/03/10 06:00
+CRDT- 2021/01/19 17:10
+PHST- 2021/01/20 06:00 [pubmed]
+PHST- 2021/03/10 06:00 [medline]
+PHST- 2021/01/19 17:10 [entrez]
+AID - 10.1021/acs.molpharmaceut.0c00608 [doi]
+PST - ppublish
+SO  - Mol Pharm. 2021 Mar 1;18(3):754-771. doi: 10.1021/acs.molpharmaceut.0c00608. Epub 
+      2021 Jan 19.
+
+PMID- 32446285
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201224
+LR  - 20220716
+IS  - 1742-4658 (Electronic)
+IS  - 1742-464X (Print)
+IS  - 1742-464X (Linking)
+VI  - 287
+IP  - 17
+DP  - 2020 Sep
+TI  - A Guide to COVID-19: a global pandemic caused by the novel coronavirus 
+      SARS-CoV-2.
+PG  - 3633-3650
+LID - 10.1111/febs.15375 [doi]
+AB  - The emergence of the SARS-CoV-2 strain of the human coronavirus has thrown the 
+      world into the midst of a new pandemic. In the human body, the virus causes 
+      COVID-19, a disease characterized by shortness of breath, fever, and pneumonia, 
+      which can be fatal in vulnerable individuals. SARS-CoV-2 has characteristics of 
+      past human coronaviruses, with close genomic similarities to SARS-CoV, the virus 
+      that causes the disease SARS. Like these related coronaviruses, SARS-CoV-2 is 
+      transmitted through the inhalation of droplets and interaction with contaminated 
+      surfaces. Across the world, laboratories are developing candidate vaccines for 
+      the virus - with vaccine trials underway in the United States and the United 
+      Kingdom - and considering various drugs for possible treatments and prophylaxis. 
+      Here, we provide an overview of SARS-CoV-2 by analyzing its virology, 
+      epidemiology, and modes of transmission while examining the current progress of 
+      testing procedures and possible treatments through drugs and vaccines.
+CI  - © 2020 Federation of European Biochemical Societies.
+FAU - Atzrodt, Cassandra L
+AU  - Atzrodt CL
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Maknojia, Insha
+AU  - Maknojia I
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - McCarthy, Robert D P
+AU  - McCarthy RDP
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Oldfield, Tiara M
+AU  - Oldfield TM
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Po, Jonathan
+AU  - Po J
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Ta, Kenny T L
+AU  - Ta KTL
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Stepp, Hannah E
+AU  - Stepp HE
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+FAU - Clements, Thomas P
+AU  - Clements TP
+AUID- ORCID: 0000-0003-3480-9214
+AD  - Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200616
+TA  - FEBS J
+JT  - The FEBS journal
+JID - 101229646
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Drug Combinations)
+RN  - 0 (lopinavir-ritonavir drug combination)
+RN  - 2494G1JF75 (Lopinavir)
+RN  - 3QKI37EEHE (remdesivir)
+RN  - 415SHH325A (Adenosine Monophosphate)
+RN  - 4QWG6N8QKH (Hydroxychloroquine)
+RN  - O3J8G9O825 (Ritonavir)
+RN  - OF5P57N2ZX (Alanine)
+RN  - XRO4566Q4R (Interferon beta-1a)
+SB  - IM
+MH  - Adenosine Monophosphate/analogs & derivatives/therapeutic use
+MH  - Alanine/analogs & derivatives/therapeutic use
+MH  - Antiviral Agents/*therapeutic use
+MH  - COVID-19/drug therapy/*epidemiology/immunology/pathology
+MH  - COVID-19 Testing/methods
+MH  - COVID-19 Vaccines/therapeutic use
+MH  - Coronavirus Infections/drug therapy/*epidemiology/immunology/pathology
+MH  - Drug Combinations
+MH  - Humans
+MH  - Hydroxychloroquine/therapeutic use
+MH  - Interferon beta-1a/therapeutic use
+MH  - Lopinavir/therapeutic use
+MH  - Middle East Respiratory Syndrome Coronavirus/immunology/pathogenicity
+MH  - *Pandemics
+MH  - Respiration, Artificial/methods
+MH  - Ritonavir/therapeutic use
+MH  - SARS Virus/immunology/pathogenicity
+MH  - SARS-CoV-2/drug effects/immunology/*pathogenicity
+MH  - Severe Acute Respiratory Syndrome/drug therapy/*epidemiology/immunology/pathology
+MH  - Severity of Illness Index
+PMC - PMC7283703
+OTO - NOTNLM
+OT  - ACE2
+OT  - COVID-19
+OT  - CRISPR
+OT  - MERS
+OT  - MERS-CoV
+OT  - SARS
+OT  - SARS-CoV
+OT  - SARS-CoV-2
+OT  - coronavirus
+OT  - vaccine
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/05/24 06:00
+MHDA- 2020/12/29 06:00
+CRDT- 2020/05/24 06:00
+PHST- 2020/05/12 00:00 [received]
+PHST- 2020/04/06 00:00 [revised]
+PHST- 2020/05/19 00:00 [accepted]
+PHST- 2020/05/24 06:00 [pubmed]
+PHST- 2020/12/29 06:00 [medline]
+PHST- 2020/05/24 06:00 [entrez]
+AID - FEBS15375 [pii]
+AID - 10.1111/febs.15375 [doi]
+PST - ppublish
+SO  - FEBS J. 2020 Sep;287(17):3633-3650. doi: 10.1111/febs.15375. Epub 2020 Jun 16.
+
+PMID- 34241776
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220107
+LR  - 20220716
+IS  - 2523-899X (Electronic)
+IS  - 2096-5230 (Print)
+IS  - 2523-899X (Linking)
+VI  - 41
+IP  - 6
+DP  - 2021 Dec
+TI  - A Comprehensive Review of COVID-19 Virology, Vaccines, Variants, and 
+      Therapeutics.
+PG  - 1037-1051
+LID - 10.1007/s11596-021-2395-1 [doi]
+AB  - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative 
+      pathogen of the coronavirus disease 2019 (COVID-19), has caused more than 179 
+      million infections and 3.8 million deaths worldwide. Throughout the past year, 
+      multiple vaccines have already been developed and used, while some others are in 
+      the process of being developed. However, the emergence of new mutant strains of 
+      SARS-CoV-2 that have demonstrated immune-evading characteristics and an increase 
+      in infective capabilities leads to potential ineffectiveness of the vaccines 
+      against these variants. The purpose of this review article is to highlight the 
+      current understanding of the immunological mechanisms of the virus and vaccines, 
+      as well as to investigate some key variants and mutations of the virus driving 
+      the current pandemic and their impacts on current management guidelines. We also 
+      discussed new technologies being developed for the prevention, treatment, and 
+      detection of SARS-CoV-2. In this paper, we thoroughly reviewed and provided 
+      crucial information on SARS-CoV-2 virology, vaccines and drugs being used and 
+      developed for its prevention and treatment, as well as important variant strains. 
+      Our review paper will be beneficial to health care professionals and researchers 
+      so they can have a better understanding of the basic sciences, prevention, and 
+      clinical treatment of COVID-19 during the pandemic. This paper consists of the 
+      most updated information that has been available as of June 21, 2021.
+CI  - © 2021. The Author(s).
+FAU - Forchette, Lauren
+AU  - Forchette L
+AD  - Department of Biomedical Sciences, West Virginia School of Osteopathic Medicine, 
+      400 Lee Street North, Lewisburg, West Virginia, 24901, USA.
+FAU - Sebastian, William
+AU  - Sebastian W
+AD  - Department of Biomedical Sciences, West Virginia School of Osteopathic Medicine, 
+      400 Lee Street North, Lewisburg, West Virginia, 24901, USA.
+FAU - Liu, Tuoen
+AU  - Liu T
+AD  - Department of Biomedical Sciences, West Virginia School of Osteopathic Medicine, 
+      400 Lee Street North, Lewisburg, West Virginia, 24901, USA. tliu@osteo.wvsom.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210709
+TA  - Curr Med Sci
+JT  - Current medical science
+JID - 101729993
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - SARS-CoV-2 variants
+SB  - IM
+MH  - Antiviral Agents/therapeutic use
+MH  - *COVID-19/drug therapy/prevention & control/virology
+MH  - COVID-19 Vaccines/pharmacology
+MH  - Drug Development
+MH  - Host Microbial Interactions
+MH  - Humans
+MH  - Models, Biological
+MH  - Pandemics/prevention & control
+MH  - *SARS-CoV-2/genetics/pathogenicity/physiology
+PMC - PMC8267225
+OTO - NOTNLM
+OT  - antiviral therapy
+OT  - coronavirus disease 2019
+OT  - severe acute respiratory syndrome coronavirus 2
+OT  - vaccines
+OT  - variant strains
+EDAT- 2021/07/10 06:00
+MHDA- 2022/01/08 06:00
+CRDT- 2021/07/09 12:24
+PHST- 2021/05/31 00:00 [received]
+PHST- 2021/06/25 00:00 [accepted]
+PHST- 2021/07/10 06:00 [pubmed]
+PHST- 2022/01/08 06:00 [medline]
+PHST- 2021/07/09 12:24 [entrez]
+AID - 10.1007/s11596-021-2395-1 [pii]
+AID - 2395 [pii]
+AID - 10.1007/s11596-021-2395-1 [doi]
+PST - ppublish
+SO  - Curr Med Sci. 2021 Dec;41(6):1037-1051. doi: 10.1007/s11596-021-2395-1. Epub 2021 
+      Jul 9.
+
+PMID- 33683637
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210325
+LR  - 20220218
+IS  - 1179-1950 (Electronic)
+IS  - 0012-6667 (Print)
+IS  - 0012-6667 (Linking)
+VI  - 81
+IP  - 4
+DP  - 2021 Mar
+TI  - BNT162b2 mRNA COVID-19 Vaccine: First Approval.
+PG  - 495-501
+LID - 10.1007/s40265-021-01480-7 [doi]
+AB  - BNT162b2 (Comirnaty(®); BioNTech and Pfizer) is a lipid nanoparticle-formulated, 
+      nucleoside-modified mRNA vaccine for the prevention of the novel coronavirus 
+      disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 
+      (SARS-CoV-2) infection. BNT162b2 encodes the SARS-CoV-2 spike protein, the 
+      expression of which elicits immune responses against the antigen in recipients. 
+      In early December 2020, BNT162b2 received a temporary emergency use authorization 
+      (EUA) in the UK and, subsequently, a series of approvals or authorizations for 
+      emergency use in Bahrain, Canada, Mexico, Saudi Arabia and the USA. Soon after, 
+      BNT162b2 received conditional marketing authorizations in Switzerland (19 
+      December 2020) and the EU (21 December 2020) for active immunization to prevent 
+      COVID-19 caused by SARS-CoV-2 in individuals 16 years of age and older. BNT162b2 
+      is administered intramuscularly in a two-dose regimen. This article summarizes 
+      the milestones in the development of BNT162b2 leading to these first approvals 
+      for the prevention of COVID-19.
+FAU - Lamb, Yvette N
+AU  - Lamb YN
+AD  - Springer Nature, Mairangi Bay, Private Bag 65901, Auckland, 0754, New Zealand. 
+      dru@adis.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Drugs
+JT  - Drugs
+JID - 7600076
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - 0 (Vaccines, Synthetic)
+RN  - 0 (mRNA Vaccine)
+RN  - 0 (spike protein, SARS-CoV-2)
+RN  - N38TVC63NU (BNT162 Vaccine)
+SB  - IM
+MH  - BNT162 Vaccine
+MH  - Bahrain
+MH  - COVID-19/*prevention & control
+MH  - COVID-19 Vaccines/*therapeutic use
+MH  - Canada
+MH  - Clinical Trials as Topic
+MH  - *Drug Approval
+MH  - Drug Development
+MH  - European Union
+MH  - Humans
+MH  - Mexico
+MH  - SARS-CoV-2/genetics/immunology
+MH  - Saudi Arabia
+MH  - Spike Glycoprotein, Coronavirus/genetics/immunology
+MH  - Switzerland
+MH  - United Kingdom
+MH  - United States
+MH  - Vaccines, Synthetic
+MH  - World Health Organization
+PMC - PMC7938284
+COIS- During the peer review process the manufacturer of the agent under review was 
+      offered an opportunity to comment on the article. Changes resulting from any 
+      comments received were made by the authors on the basis of scientific 
+      completeness and accuracy. Yvette Lamb is a salaried employee of Adis 
+      International Ltd/Springer Nature, and declares no relevant conflicts of 
+      interest. All authors contributed to the review and are responsible for the 
+      article content.
+EDAT- 2021/03/09 06:00
+MHDA- 2021/03/26 06:00
+CRDT- 2021/03/08 12:17
+PHST- 2021/03/09 06:00 [pubmed]
+PHST- 2021/03/26 06:00 [medline]
+PHST- 2021/03/08 12:17 [entrez]
+AID - 10.1007/s40265-021-01480-7 [pii]
+AID - 1480 [pii]
+AID - 10.1007/s40265-021-01480-7 [doi]
+PST - ppublish
+SO  - Drugs. 2021 Mar;81(4):495-501. doi: 10.1007/s40265-021-01480-7.
+
+PMID- 33400058
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210113
+LR  - 20210127
+IS  - 1550-7416 (Electronic)
+IS  - 1550-7416 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2021 Jan 5
+TI  - Recent Developments on Therapeutic and Diagnostic Approaches for COVID-19.
+PG  - 14
+LID - 10.1208/s12248-020-00532-2 [doi]
+LID - 14
+AB  - The ongoing pandemic of coronavirus disease 2019 (COVID-19) caused by the severe 
+      acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made a serious public 
+      health threat worldwide with millions of people at risk in a growing number of 
+      countries. Though there are no clinically approved antiviral drugs and vaccines 
+      for COVID-19, attempts are ongoing for clinical trials of several known antiviral 
+      drugs, their combination, as well as development of vaccines in patients with 
+      confirmed COVID-19. This review focuses on the latest approaches to diagnostics 
+      and therapy of COVID-19. We have summarized recent progress on the conventional 
+      therapeutics such as antiviral drugs, vaccines, anti-SARS-CoV-2 antibody 
+      treatments, and convalescent plasma therapy which are currently under extensive 
+      research and clinical trials for the treatment of COVID-19. The developments of 
+      nanoparticle-based therapeutic and diagnostic approaches have been also discussed 
+      for COVID-19. We have assessed recent literature data on this topic and made a 
+      summary of current development and future perspectives.
+FAU - Majumder, Joydeb
+AU  - Majumder J
+AD  - Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the State 
+      University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 08854, 
+      USA.
+AD  - Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, USA.
+AD  - Environmental and Occupational Health Science Institute, Piscataway, New Jersey, 
+      08854, USA.
+FAU - Minko, Tamara
+AU  - Minko T
+AD  - Department of Pharmaceutics, Ernest Mario School of Pharmacy, Rutgers, the State 
+      University of New Jersey, 160 Frelinghuysen Road, Piscataway, New Jersey, 08854, 
+      USA. minko@pharmacy.rutgers.edu.
+AD  - Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey, 08903, USA. 
+      minko@pharmacy.rutgers.edu.
+AD  - Environmental and Occupational Health Science Institute, Piscataway, New Jersey, 
+      08854, USA. minko@pharmacy.rutgers.edu.
+LA  - eng
+GR  - R01 CA238871/CA/NCI NIH HHS/United States
+GR  - R01 CA209818/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20210105
+TA  - AAPS J
+JT  - The AAPS journal
+JID - 101223209
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - COVID-19 drug treatment
+RN  - COVID-19 serotherapy
+SB  - IM
+MH  - Animals
+MH  - Antiviral Agents/adverse effects/*therapeutic use
+MH  - COVID-19/*diagnosis/*drug therapy/*therapy/virology
+MH  - *COVID-19 Testing
+MH  - COVID-19 Vaccines/adverse effects/*therapeutic use
+MH  - Host-Pathogen Interactions
+MH  - Humans
+MH  - Immunization, Passive/adverse effects
+MH  - Predictive Value of Tests
+MH  - SARS-CoV-2/*drug effects/pathogenicity
+MH  - Treatment Outcome
+PMC - PMC7784226
+OTO - NOTNLM
+OT  - ARDS
+OT  - anti-SARS-CoV-2 antibody
+OT  - antiviral drugs
+OT  - antiviral vaccines
+OT  - convalescent plasma therapy
+OT  - immunotherapy
+OT  - nanotherapeutics
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/01/06 06:00
+MHDA- 2021/01/14 06:00
+CRDT- 2021/01/05 12:16
+PHST- 2020/09/04 00:00 [received]
+PHST- 2020/11/03 00:00 [accepted]
+PHST- 2021/01/05 12:16 [entrez]
+PHST- 2021/01/06 06:00 [pubmed]
+PHST- 2021/01/14 06:00 [medline]
+AID - 10.1208/s12248-020-00532-2 [pii]
+AID - 532 [pii]
+AID - 10.1208/s12248-020-00532-2 [doi]
+PST - epublish
+SO  - AAPS J. 2021 Jan 5;23(1):14. doi: 10.1208/s12248-020-00532-2.
+
+PMID- 34488083
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211019
+LR  - 20211019
+IS  - 1950-6007 (Electronic)
+IS  - 0753-3322 (Print)
+IS  - 0753-3322 (Linking)
+VI  - 143
+DP  - 2021 Nov
+TI  - Recent advances in management of COVID-19: A review.
+PG  - 112107
+LID - S0753-3322(21)00891-X [pii]
+LID - 10.1016/j.biopha.2021.112107 [doi]
+AB  - The coronavirus disease 2019 (COVID-19) pandemic caused and is still causing 
+      significant mortality and economic consequences all over the globe. As of today, 
+      there are three U.S Food and Drug administration (FDA) approved vaccines, 
+      Pfizer-BioNTech, Moderna and Janssen COVID-19 vaccine. Also, the antiviral drug 
+      remdesivir and two combinations of monoclonal antibodies are authorized for 
+      Emergency use (EUA) in certain patients. Furthermore, baricitinib was approved in 
+      Japan (April 23, 2021). Despite available vaccines and EUA, pharmacological 
+      therapy for the prevention and treatment of COVID-19 is still highly required. 
+      There are several ongoing clinical trials investigating the efficacy of 
+      clinically available drugs in treating COVID-19. In this study, selected novel 
+      pharmacological agents for the possible treatment of COVID-19 will be discussed. 
+      Point of discussion will cover mechanism of action, supporting evidence for 
+      safety and efficacy and reached stage in development. Drugs were classified into 
+      three classes according to the phase of viral life cycle they target. Phase I, 
+      the early infective phase, relies on supportive care and symptomatic treatment as 
+      needed. In phase II, the pulmonary phase, treatment aims at inhibiting viral 
+      entry or replication. Drugs used during this phase are famotidine, monoclonal 
+      antibodies, nanobodies, ivermectin, remdesivir, camostat mesylate and other 
+      antiviral agents. Finally, phase III, the hyper-inflammatory phase, tocilizumab, 
+      dexamethasone, selective serotonin reuptake inhibitors (SSRI), and melatonin are 
+      used. The aim of this study is to summarize current findings and suggest gaps in 
+      knowledge that can influence future COVID-19 treatment study design.
+CI  - Copyright © 2021 The Authors. Published by Elsevier Masson SAS.. All rights 
+      reserved.
+FAU - Mouffak, Soraya
+AU  - Mouffak S
+AD  - College of Pharmacy, University of Sharjah, Sharjah, United Arab Emirates.
+FAU - Shubbar, Qamar
+AU  - Shubbar Q
+AD  - College of Pharmacy, University of Sharjah, Sharjah, United Arab Emirates.
+FAU - Saleh, Ekram
+AU  - Saleh E
+AD  - Clinical Biochemistry and Molecular Biology Unit, Cancer Biology department, 
+      National Cancer Institute, Cairo University, Egypt.
+FAU - El-Awady, Raafat
+AU  - El-Awady R
+AD  - College of Pharmacy, University of Sharjah, Sharjah, United Arab Emirates; 
+      Sharjah Institute of Medical Research, University of Sharjah, Sharjah, United 
+      Arab Emirates. Electronic address: relawady@sharjah.ac.ae.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210827
+TA  - Biomed Pharmacother
+JT  - Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+JID - 8213295
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - COVID-19 drug treatment
+SB  - IM
+MH  - *Antiviral Agents/classification/pharmacology
+MH  - COVID-19/*drug therapy/epidemiology/prevention & control
+MH  - *COVID-19 Vaccines/classification/pharmacology
+MH  - Drug Development
+MH  - Humans
+MH  - Medication Therapy Management/trends
+MH  - SARS-CoV-2
+MH  - Treatment Outcome
+PMC - PMC8390390
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Dexamethasone
+OT  - Famotidine
+OT  - Fluoxetine
+OT  - Fluvoxamine
+OT  - Ivermectin
+OT  - Melatonin
+OT  - Monoclonal antibodies
+OT  - Nanobodies
+OT  - Remdesivir
+OT  - SARS-CoV-2
+OT  - SSRI
+OT  - Serotonin
+OT  - Tocilizumab
+COIS- All authors declare that they have no conflict of interest.
+EDAT- 2021/09/07 06:00
+MHDA- 2021/10/21 06:00
+CRDT- 2021/09/06 20:22
+PHST- 2021/06/05 00:00 [received]
+PHST- 2021/08/09 00:00 [revised]
+PHST- 2021/08/23 00:00 [accepted]
+PHST- 2021/09/07 06:00 [pubmed]
+PHST- 2021/10/21 06:00 [medline]
+PHST- 2021/09/06 20:22 [entrez]
+AID - S0753-3322(21)00891-X [pii]
+AID - 112107 [pii]
+AID - 10.1016/j.biopha.2021.112107 [doi]
+PST - ppublish
+SO  - Biomed Pharmacother. 2021 Nov;143:112107. doi: 10.1016/j.biopha.2021.112107. Epub 
+      2021 Aug 27.
+
+PMID- 33359141
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210331
+LR  - 20220811
+IS  - 1872-8294 (Electronic)
+IS  - 0169-409X (Print)
+IS  - 0169-409X (Linking)
+VI  - 170
+DP  - 2021 Mar
+TI  - COVID-19 vaccines: The status and perspectives in delivery points of view.
+PG  - 1-25
+LID - S0169-409X(20)30282-9 [pii]
+LID - 10.1016/j.addr.2020.12.011 [doi]
+AB  - Due to the high prevalence and long incubation periods often without symptoms, 
+      the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has infected 
+      millions of individuals globally, causing the coronavirus disease 2019 (COVID-19) 
+      pandemic. Even with the recent approval of the anti-viral drug, remdesivir, and 
+      Emergency Use Authorization of monoclonal antibodies against S protein, 
+      bamlanivimab and casirimab/imdevimab, efficient and safe COVID-19 vaccines are 
+      still desperately demanded not only to prevent its spread but also to restore 
+      social and economic activities via generating mass immunization. Recent Emergency 
+      Use Authorization of Pfizer and BioNTech's mRNA vaccine may provide a pathway 
+      forward, but monitoring of long-term immunity is still required, and diverse 
+      candidates are still under development. As the knowledge of SARS-CoV-2 
+      pathogenesis and interactions with the immune system continues to evolve, a 
+      variety of drug candidates are under investigation and in clinical trials. 
+      Potential vaccines and therapeutics against COVID-19 include repurposed drugs, 
+      monoclonal antibodies, antiviral and antigenic proteins, peptides, and 
+      genetically engineered viruses. This paper reviews the virology and immunology of 
+      SARS-CoV-2, alternative therapies for COVID-19 to vaccination, principles and 
+      design considerations in COVID-19 vaccine development, and the promises and roles 
+      of vaccine carriers in addressing the unique immunopathological challenges 
+      presented by the disease.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Chung, Jee Young
+AU  - Chung JY
+AD  - Department of Pharmaceutical Sciences, University of California, Irvine, CA 
+      92697, United States of America.
+FAU - Thone, Melissa N
+AU  - Thone MN
+AD  - Department of Pharmaceutical Sciences, University of California, Irvine, CA 
+      92697, United States of America.
+FAU - Kwon, Young Jik
+AU  - Kwon YJ
+AD  - Department of Pharmaceutical Sciences, University of California, Irvine, CA 
+      92697, United States of America; Department of Chemical and Biomolecular 
+      Engineering, University of California, Irvine, CA 92697, United States of 
+      America; Department of Molecular Biology and Biochemistry, University of 
+      California, Irvine, CA 92697, United States of America; Department of Biomedical 
+      Engineering, University of California, Irvine, CA 92697, United States of 
+      America. Electronic address: kwonyj@uci.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20201224
+TA  - Adv Drug Deliv Rev
+JT  - Advanced drug delivery reviews
+JID - 8710523
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Animals
+MH  - Antiviral Agents/*administration & dosage/immunology
+MH  - COVID-19/*epidemiology/immunology/*prevention & control
+MH  - COVID-19 Vaccines/*administration & dosage/chemical synthesis/immunology
+MH  - Drug Development/*methods/trends
+MH  - Humans
+MH  - Immunization Programs/methods/trends
+MH  - SARS-CoV-2/*drug effects/immunology
+PMC - PMC7759095
+OTO - NOTNLM
+OT  - Coronavirus disease 2019 (COVID-19)
+OT  - Immune response
+OT  - Neutralizing antibodies
+OT  - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+OT  - Vaccine delivery
+EDAT- 2020/12/29 06:00
+MHDA- 2021/04/01 06:00
+CRDT- 2020/12/28 10:44
+PHST- 2020/10/16 00:00 [received]
+PHST- 2020/12/15 00:00 [revised]
+PHST- 2020/12/17 00:00 [accepted]
+PHST- 2020/12/29 06:00 [pubmed]
+PHST- 2021/04/01 06:00 [medline]
+PHST- 2020/12/28 10:44 [entrez]
+AID - S0169-409X(20)30282-9 [pii]
+AID - 10.1016/j.addr.2020.12.011 [doi]
+PST - ppublish
+SO  - Adv Drug Deliv Rev. 2021 Mar;170:1-25. doi: 10.1016/j.addr.2020.12.011. Epub 2020 
+      Dec 24.
+
+PMID- 32682788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200916
+LR  - 20210110
+IS  - 1879-0712 (Electronic)
+IS  - 0014-2999 (Print)
+IS  - 0014-2999 (Linking)
+VI  - 883
+DP  - 2020 Sep 15
+TI  - Virology, pathogenesis, diagnosis and in-line treatment of COVID-19.
+PG  - 173375
+LID - S0014-2999(20)30467-2 [pii]
+LID - 10.1016/j.ejphar.2020.173375 [doi]
+AB  - SARS-CoV-2, a newly emerged pathogen in December 2019, marked as one of the 
+      highly pathogenic Coronavirus, and altogether this is the third coronavirus 
+      attack that crossed the species barrier. As of 1(st) July 2020, it is spreading 
+      around 216 countries, areas or territories, and a total of 10,185,374 and 503,862 
+      confirmed cases and death reports, respectively. The SARS-CoV-2 virus entered 
+      into the target cells by binding with the hACE2 receptors. Spike glycoprotein 
+      promotes the entry of the virus into host target cells. Literature reported a 
+      significant mutation in receptor binding sites and membrane proteins of the 
+      previous SARS-CoV to turned as SARS-CoV-2 virus, responsible for most dreadful 
+      pandemic COVID-19. These modifications may be the probable reason for the extreme 
+      transmission and pathogenicity of the virus. A hasty spread of COVID-19 
+      throughout the world is highly threatening, but still, scientists do not have a 
+      proper therapeutic measure to fight with it. Scientists are endeavoring across 
+      the world to find effective therapy to combat COVID 19. Several drugs such as 
+      Remdesivir, Hydroxychloroquine, Chloroquine, Ribavirin, Ritonavir, Lopinavir, 
+      Favipiravir, Interferons, Bevacizumab, Azithromycin, etc. are currently under 
+      clinical trials. Vaccine development from various pharmaceutical companies and 
+      research institutes is under progress, and more than ten vaccine candidates are 
+      in the various phases of clinical trials. This review work highlighted the 
+      origin, emergence, structural features, pathogenesis, and clinical features of 
+      COVID-19. We have also discussed the in-line treatment strategies, preventive 
+      measures, and vaccines to combat the emergence of COVID-19.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Samudrala, Pavan Kumar
+AU  - Samudrala PK
+AD  - Department of Pharmacology and Toxicology, National Institute of Pharmaceutical 
+      Education and Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry 
+      of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), 
+      Changsari, Kamrup, 781101, Guwahati, Assam, India.
+FAU - Kumar, Pramod
+AU  - Kumar P
+AD  - Department of Pharmaceutical Analysis, National Institute of Pharmaceutical 
+      Education and Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry 
+      of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), 
+      Changsari, Kamrup, 781101, Guwahati, Assam, India. Electronic address: 
+      drpramodkumar14@gmail.com.
+FAU - Choudhary, Kamlesh
+AU  - Choudhary K
+AD  - Department of Pharmacology and Toxicology, National Institute of Pharmaceutical 
+      Education and Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry 
+      of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), 
+      Changsari, Kamrup, 781101, Guwahati, Assam, India.
+FAU - Thakur, Nagender
+AU  - Thakur N
+AD  - Department of Pharmaceutical Analysis, National Institute of Pharmaceutical 
+      Education and Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry 
+      of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), 
+      Changsari, Kamrup, 781101, Guwahati, Assam, India.
+FAU - Wadekar, Gaurav Suresh
+AU  - Wadekar GS
+AD  - Department of Pharmaceutical Analysis, National Institute of Pharmaceutical 
+      Education and Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry 
+      of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), 
+      Changsari, Kamrup, 781101, Guwahati, Assam, India.
+FAU - Dayaramani, Richa
+AU  - Dayaramani R
+AD  - Khyati College of Pharmacy, Ahmedabad, 382115, Gujrat, India.
+FAU - Agrawal, Mukta
+AU  - Agrawal M
+AD  - Rungta College of Pharmaceutical Sciences and Research, Kohka-Kurud Road, Bhilai, 
+      490024, Chhattisgarh, India.
+FAU - Alexander, Amit
+AU  - Alexander A
+AD  - Department of Pharmaceutics, National Institute of Pharmaceutical Education and 
+      Research (NIPER)-Guwahati, Department of Pharmaceuticals, Ministry of Chemicals & 
+      Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), Changsari, Kamrup, 
+      781101, Guwahati, Assam, India. Electronic address: 
+      amit.alexander@niperguwahati.ac.in.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200717
+TA  - Eur J Pharmacol
+JT  - European journal of pharmacology
+JID - 1254354
+RN  - 0 (Antiviral Agents)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Viral Vaccines)
+RN  - COVID-19 drug treatment
+SB  - IM
+MH  - Antiviral Agents/*pharmacology
+MH  - *Betacoronavirus/drug effects/isolation & purification/physiology
+MH  - COVID-19
+MH  - COVID-19 Testing
+MH  - COVID-19 Vaccines
+MH  - Clinical Laboratory Techniques/methods
+MH  - *Coronavirus Infections/diagnosis/drug therapy/prevention & control/virology
+MH  - Humans
+MH  - *Pandemics
+MH  - *Pneumonia, Viral/diagnosis/drug therapy/virology
+MH  - SARS-CoV-2
+MH  - Viral Vaccines/*pharmacology
+PMC - PMC7366121
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Clinical features
+OT  - Pathogenesis
+OT  - SARS-CoV-2
+OT  - Treatment strategies
+OT  - Virology
+COIS- None.
+EDAT- 2020/07/20 06:00
+MHDA- 2020/09/17 06:00
+CRDT- 2020/07/20 06:00
+PHST- 2020/05/14 00:00 [received]
+PHST- 2020/07/09 00:00 [revised]
+PHST- 2020/07/13 00:00 [accepted]
+PHST- 2020/07/20 06:00 [pubmed]
+PHST- 2020/09/17 06:00 [medline]
+PHST- 2020/07/20 06:00 [entrez]
+AID - S0014-2999(20)30467-2 [pii]
+AID - 173375 [pii]
+AID - 10.1016/j.ejphar.2020.173375 [doi]
+PST - ppublish
+SO  - Eur J Pharmacol. 2020 Sep 15;883:173375. doi: 10.1016/j.ejphar.2020.173375. Epub 
+      2020 Jul 17.

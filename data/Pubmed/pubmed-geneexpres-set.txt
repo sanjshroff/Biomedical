@@ -1,0 +1,832 @@
+PMID- 29680748
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190305
+LR  - 20200706
+IS  - 0168-9525 (Print)
+IS  - 0168-9525 (Linking)
+VI  - 34
+IP  - 7
+DP  - 2018 Jul
+TI  - The Evolution of Gene Expression in cis and trans.
+PG  - 532-544
+LID - S0168-9525(18)30062-3 [pii]
+LID - 10.1016/j.tig.2018.03.007 [doi]
+AB  - There is abundant variation in gene expression between individuals, populations, 
+      and species. The evolution of gene regulation and expression within and between 
+      species is thought to frequently contribute to adaptation. Yet considerable 
+      evidence suggests that the primary evolutionary force acting on variation in gene 
+      expression is stabilizing selection. We review here the results of recent studies 
+      characterizing the evolution of gene expression occurring in cis (via linked 
+      polymorphisms) or in trans (through diffusible products of other genes) and their 
+      contribution to adaptation and response to the environment. We review the 
+      evidence for buffering of variation in gene expression at the level of both 
+      transcription and translation, and the possible mechanisms for this buffering. 
+      Lastly, we summarize unresolved questions about the evolution of gene regulation.
+CI  - Copyright © 2018 Elsevier Ltd. All rights reserved.
+FAU - Signor, Sarah A
+AU  - Signor SA
+AD  - Molecular and Computational Biology, University of Southern California, Los 
+      Angeles, CA 90089, USA. Electronic address: ssignor@usc.edu.
+FAU - Nuzhdin, Sergey V
+AU  - Nuzhdin SV
+AD  - Molecular and Computational Biology, University of Southern California, Los 
+      Angeles, CA 90089, USA.
+LA  - eng
+GR  - R01 GM128193/GM/NIGMS NIH HHS/United States
+GR  - R01 MH091561/MH/NIMH NIH HHS/United States
+GR  - U01 GM103804/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20180418
+TA  - Trends Genet
+JT  - Trends in genetics : TIG
+JID - 8507085
+SB  - IM
+MH  - Animals
+MH  - Evolution, Molecular
+MH  - Gene Expression/*genetics
+MH  - Gene Expression Regulation/*genetics
+MH  - Humans
+MH  - Polymorphism, Genetic/*genetics
+PMC - PMC6094946
+MID - NIHMS961658
+OTO - NOTNLM
+OT  - buffering
+OT  - cis
+OT  - regulatory evolution
+OT  - stabilizing selection
+OT  - trans
+EDAT- 2018/04/24 06:00
+MHDA- 2019/03/06 06:00
+CRDT- 2018/04/23 06:00
+PHST- 2017/11/12 00:00 [received]
+PHST- 2018/03/06 00:00 [revised]
+PHST- 2018/03/27 00:00 [accepted]
+PHST- 2018/04/24 06:00 [pubmed]
+PHST- 2019/03/06 06:00 [medline]
+PHST- 2018/04/23 06:00 [entrez]
+AID - S0168-9525(18)30062-3 [pii]
+AID - 10.1016/j.tig.2018.03.007 [doi]
+PST - ppublish
+SO  - Trends Genet. 2018 Jul;34(7):532-544. doi: 10.1016/j.tig.2018.03.007. Epub 2018 
+      Apr 18.
+
+PMID- 30875273
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200420
+LR  - 20200420
+IS  - 1531-2267 (Electronic)
+IS  - 1094-8341 (Linking)
+VI  - 51
+IP  - 5
+DP  - 2019 May 1
+TI  - Gene expression variability: the other dimension in transcriptome analysis.
+PG  - 145-158
+LID - 10.1152/physiolgenomics.00128.2018 [doi]
+AB  - Transcriptome sequencing is a powerful technique to study molecular changes that 
+      underlie the differences in physiological conditions and disease progression. A 
+      typical question that is posed in such studies is finding genes with significant 
+      changes between sample groups. In this respect expression variability is regarded 
+      as a nuisance factor that is primarily of technical origin and complicates the 
+      data analysis. However, it is becoming apparent that the biological variation in 
+      gene expression might be an important molecular phenotype that can affect 
+      physiological parameters. In this review we explore the recent literature on 
+      technical and biological variability in gene expression, sources of expression 
+      variability, (epi-)genetic hallmarks, and evolutionary constraints in genes with 
+      robust and variable gene expression. We provide an overview of recent findings on 
+      effects of external cues, such as diet and aging, on expression variability and 
+      on other biological phenomena that can be linked to it. We discuss metrics and 
+      tools that were developed for quantification of expression variability and 
+      highlight the importance of future studies in this direction. To assist the 
+      adoption of expression variability analysis, we also provide a detailed 
+      description and computer code, which can easily be utilized by other researchers. 
+      We also provide a reanalysis of recently published data to highlight the value of 
+      the analysis method.
+FAU - de Jong, Tristan V
+AU  - de Jong TV
+AD  - European Research Institute for the Biology of Ageing, University of Groningen, 
+      University Medical Centre Groningen , Groningen , The Netherlands.
+FAU - Moshkin, Yuri M
+AU  - Moshkin YM
+AD  - Institute of Cytology and Genetics, Siberian Branch of RAS, Novosibirsk , Russia.
+AD  - Institute of Molecular and Cellular Biology, Siberian Branch of RAS, Novosibirsk 
+      , Russia.
+FAU - Guryev, Victor
+AU  - Guryev V
+AD  - European Research Institute for the Biology of Ageing, University of Groningen, 
+      University Medical Centre Groningen , Groningen , The Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20190315
+PL  - United States
+TA  - Physiol Genomics
+JT  - Physiological genomics
+JID - 9815683
+SB  - IM
+MH  - Epigenomics
+MH  - Gene Expression Profiling/*methods
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Sequence Analysis, RNA/*methods
+MH  - Transcriptome/genetics/physiology
+OTO - NOTNLM
+OT  - GAMLSS
+OT  - RNA-Seq
+OT  - gene expression
+OT  - gene expression variability
+OT  - gene noise
+EDAT- 2019/03/16 06:00
+MHDA- 2020/04/21 06:00
+CRDT- 2019/03/16 06:00
+PHST- 2019/03/16 06:00 [pubmed]
+PHST- 2020/04/21 06:00 [medline]
+PHST- 2019/03/16 06:00 [entrez]
+AID - 10.1152/physiolgenomics.00128.2018 [doi]
+PST - ppublish
+SO  - Physiol Genomics. 2019 May 1;51(5):145-158. doi: 
+      10.1152/physiolgenomics.00128.2018. Epub 2019 Mar 15.
+
+PMID- 31284216
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200402
+LR  - 20200402
+IS  - 1879-0402 (Electronic)
+IS  - 1367-5931 (Linking)
+VI  - 51
+DP  - 2019 Aug
+TI  - Visualizing transcription: key to understanding gene expression dynamics.
+PG  - 122-129
+LID - S1367-5931(18)30200-X [pii]
+LID - 10.1016/j.cbpa.2019.05.031 [doi]
+AB  - Visualization of transcription in living cells has taught us that genes are often 
+      transcribed in bursts, with periods of gene activity interspersed by periods of 
+      inactivity. Recently, technological advances in live-cell imaging have provided a 
+      more detailed picture of the characteristics of transcriptional bursts, and have 
+      allowed direct visualization of the upstream regulatory steps of bursting at 
+      single-molecule resolution. In this review, we highlight the latest insights into 
+      transcription dynamics and we discuss recent developments in understanding the 
+      regulation of transcriptional bursting through the binding kinetics of 
+      transcription factors, enhancer-promoter interactions and clustering/phase 
+      separation of the transcriptional machinery.
+CI  - Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Brouwer, Ineke
+AU  - Brouwer I
+AD  - Division of Gene Regulation, The Netherlands Cancer Institute, Plesmanlaan 121, 
+      1066 CX Amsterdam, The Netherlands.
+FAU - Lenstra, Tineke L
+AU  - Lenstra TL
+AD  - Division of Gene Regulation, The Netherlands Cancer Institute, Plesmanlaan 121, 
+      1066 CX Amsterdam, The Netherlands. Electronic address: t.lenstra@nki.nl.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190705
+PL  - England
+TA  - Curr Opin Chem Biol
+JT  - Current opinion in chemical biology
+JID - 9811312
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - *Gene Expression
+MH  - Transcription Factors/metabolism
+MH  - *Transcription, Genetic
+EDAT- 2019/07/10 06:00
+MHDA- 2020/04/03 06:00
+CRDT- 2019/07/09 06:00
+PHST- 2018/12/14 00:00 [received]
+PHST- 2019/05/03 00:00 [revised]
+PHST- 2019/05/28 00:00 [accepted]
+PHST- 2019/07/10 06:00 [pubmed]
+PHST- 2020/04/03 06:00 [medline]
+PHST- 2019/07/09 06:00 [entrez]
+AID - S1367-5931(18)30200-X [pii]
+AID - 10.1016/j.cbpa.2019.05.031 [doi]
+PST - ppublish
+SO  - Curr Opin Chem Biol. 2019 Aug;51:122-129. doi: 10.1016/j.cbpa.2019.05.031. Epub 
+      2019 Jul 5.
+
+PMID- 30075140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190318
+LR  - 20190318
+IS  - 1097-4164 (Electronic)
+IS  - 1097-2765 (Linking)
+VI  - 71
+IP  - 3
+DP  - 2018 Aug 2
+TI  - Emerging Principles of Gene Expression Programs and Their Regulation.
+PG  - 389-397
+LID - S1097-2765(18)30586-0 [pii]
+LID - 10.1016/j.molcel.2018.07.017 [doi]
+AB  - Many mechanisms contribute to regulation of gene expression to ensure coordinated 
+      cellular behaviors and fate decisions. Transcriptional responses to external 
+      signals can consist of many hundreds of genes that can be parsed into different 
+      categories based on kinetics of induction, cell-type and signal specificity, and 
+      duration of the response. Here we discuss the structure of transcription programs 
+      and suggest a basic framework to categorize gene expression programs based on 
+      characteristics related to their control mechanisms. We also discuss possible 
+      evolutionary implications of this framework.
+CI  - Copyright © 2018 Elsevier Inc. All rights reserved.
+FAU - Pope, Scott D
+AU  - Pope SD
+AD  - Howard Hughes Medical Institute, Department of Immunobiology, Yale University 
+      School of Medicine, New Haven, CT 06510, USA.
+FAU - Medzhitov, Ruslan
+AU  - Medzhitov R
+AD  - Howard Hughes Medical Institute, Department of Immunobiology, Yale University 
+      School of Medicine, New Haven, CT 06510, USA. Electronic address: 
+      ruslan.medzhitov@yale.edu.
+LA  - eng
+GR  - HHMI/Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Mol Cell
+JT  - Molecular cell
+JID - 9802571
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Animals
+MH  - Gene Expression Regulation/*genetics/physiology
+MH  - Humans
+MH  - Organ Specificity/genetics
+MH  - Signal Transduction/physiology
+MH  - Transcription Factors/*metabolism
+MH  - Transcription, Genetic/genetics
+MH  - Transcriptome/genetics
+EDAT- 2018/08/04 06:00
+MHDA- 2019/03/19 06:00
+CRDT- 2018/08/04 06:00
+PHST- 2018/06/05 00:00 [received]
+PHST- 2018/07/15 00:00 [revised]
+PHST- 2018/07/16 00:00 [accepted]
+PHST- 2018/08/04 06:00 [entrez]
+PHST- 2018/08/04 06:00 [pubmed]
+PHST- 2019/03/19 06:00 [medline]
+AID - S1097-2765(18)30586-0 [pii]
+AID - 10.1016/j.molcel.2018.07.017 [doi]
+PST - ppublish
+SO  - Mol Cell. 2018 Aug 2;71(3):389-397. doi: 10.1016/j.molcel.2018.07.017.
+
+PMID- 32066983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200413
+LR  - 20210406
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2020 Mar
+TI  - Spatiotemporal single-cell analysis of gene expression in the mouse 
+      suprachiasmatic nucleus.
+PG  - 456-467
+LID - 10.1038/s41593-020-0586-x [doi]
+AB  - Mammalian circadian behaviors are orchestrated by the suprachiasmatic nucleus 
+      (SCN) in the ventral hypothalamus, but the number of SCN cell types and their 
+      functional roles remain unclear. We have used single-cell RNA-sequencing to 
+      identify the basic cell types in the mouse SCN and to characterize their 
+      circadian and light-induced gene expression patterns. We identified eight major 
+      cell types, with each type displaying a specific pattern of circadian gene 
+      expression. Five SCN neuronal subtypes, each with specific combinations of 
+      markers, differ in their spatial distribution, circadian rhythmicity and light 
+      responsiveness. Through a complete three-dimensional reconstruction of the mouse 
+      SCN at single-cell resolution, we obtained a standardized SCN atlas containing 
+      the spatial distribution of these subtypes and gene expression. Furthermore, we 
+      observed heterogeneous circadian gene expression between SCN neuron subtypes. 
+      Such a spatiotemporal pattern of gene regulation within the SCN may have an 
+      important function in the circadian pacemaker.
+FAU - Wen, Shao'ang
+AU  - Wen S
+AUID- ORCID: 0000-0002-8927-9938
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+AD  - University of Chinese Academy of Sciences, Shanghai, China.
+FAU - Ma, Danyi
+AU  - Ma D
+AUID- ORCID: 0000-0001-5701-3089
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+AD  - University of Chinese Academy of Sciences, Shanghai, China.
+FAU - Zhao, Meng
+AU  - Zhao M
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+FAU - Xie, Lucheng
+AU  - Xie L
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+AD  - University of Chinese Academy of Sciences, Shanghai, China.
+FAU - Wu, Qingqin
+AU  - Wu Q
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+FAU - Gou, Lingfeng
+AU  - Gou L
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+FAU - Zhu, Chuanzhen
+AU  - Zhu C
+AUID- ORCID: 0000-0002-8361-490X
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+AD  - University of Chinese Academy of Sciences, Shanghai, China.
+FAU - Fan, Yuqi
+AU  - Fan Y
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+FAU - Wang, Haifang
+AU  - Wang H
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+FAU - Yan, Jun
+AU  - Yan J
+AUID- ORCID: 0000-0002-0405-0502
+AD  - Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for 
+      Excellence in Brain Science and Intelligence Technology, Shanghai Institutes for 
+      Biological Sciences, Chinese Academy of Sciences, Shanghai, China. 
+      junyan@ion.ac.cn.
+AD  - Shanghai Center for Brain Science and Brain-Inspired Intelligence Technology, 
+      Shanghai, China. junyan@ion.ac.cn.
+AD  - School of Future Technology, University of Chinese Academy of Sciences, Beijing, 
+      China. junyan@ion.ac.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200217
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+RN  - 0 (Circadian Rhythm Signaling Peptides and Proteins)
+SB  - IM
+CIN - Neurosci Bull. 2021 Jan;37(1):138-140. PMID: 32710306
+MH  - Animals
+MH  - Atlases as Topic
+MH  - Circadian Rhythm/physiology
+MH  - Circadian Rhythm Signaling Peptides and Proteins/genetics
+MH  - Gene Expression/*physiology/radiation effects
+MH  - Gene Expression Regulation/physiology
+MH  - Genomics
+MH  - Light
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Neurons/classification/*physiology
+MH  - Photic Stimulation
+MH  - *Single-Cell Analysis
+MH  - Suprachiasmatic Nucleus/anatomy & histology/cytology/*physiology
+EDAT- 2020/02/19 06:00
+MHDA- 2020/04/14 06:00
+CRDT- 2020/02/19 06:00
+PHST- 2019/02/07 00:00 [received]
+PHST- 2020/01/03 00:00 [accepted]
+PHST- 2020/02/19 06:00 [pubmed]
+PHST- 2020/04/14 06:00 [medline]
+PHST- 2020/02/19 06:00 [entrez]
+AID - 10.1038/s41593-020-0586-x [pii]
+AID - 10.1038/s41593-020-0586-x [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2020 Mar;23(3):456-467. doi: 10.1038/s41593-020-0586-x. Epub 2020 
+      Feb 17.
+
+PMID- 33966708
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210511
+LR  - 20210511
+IS  - 1000-503X (Print)
+IS  - 1000-503X (Linking)
+VI  - 43
+IP  - 2
+DP  - 2021 Apr 28
+TI  - [Supergenes:Generalists in Gene Expression].
+PG  - 265-270
+LID - 10.3881/j.issn.1000-503X.12419 [doi]
+AB  - In eukaryote cells,transcription from genome DNA is a key process of gene 
+      expression.The transcription products contain not only messenger RNAs that code 
+      proteins,but also various types of non-coding RNAs.During transcription,some of 
+      the gene loci produce more than one kind of RNA molecule,including coding RNAs 
+      and more often non-coding RNAs.These gene loci that generate several kinds of RNA 
+      molecules are named supergenes.According to the transcription pattern,supergenes 
+      are divided into three types,known as types Ⅰ,Ⅱ and Ⅲ.In this review,we summarize 
+      the transcription pattern of each type of supergene,and exposit the role of these 
+      genes in cells.
+FAU - Liu, Tao
+AU  - Liu T
+AD  - Key Laboratory of Transplant Medicine,Chinese Academy of Medical Sciences,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+AD  - National Health Commission's Key Laboratory of Critical Care Medicine,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+FAU - Wang, Shu Sen
+AU  - Wang SS
+AD  - Key Laboratory of Transplant Medicine,Chinese Academy of Medical Sciences,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+AD  - National Health Commission's Key Laboratory of Critical Care Medicine,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+AD  - Tianjin Clinical Research Center of Organ Transplantation,Tianjin First Central 
+      Hospital,Tianjin 300192,China.
+AD  - Organ Transplantation Center,Tianjin First Central Hospital,Tianjin 300192,China.
+FAU - Yang, Lei
+AU  - Yang L
+AD  - Department of Clinical Laboratory,Tianjin First Central Hospital,Tianjin 
+      300192,China.
+FAU - Shi, Qiao
+AU  - Shi Q
+AD  - Graduate School,Tianjin University of Traditional Chinese Medicine,Tianjin 
+      301617,China.
+FAU - Shen, Zhong Yang
+AU  - Shen ZY
+AD  - Key Laboratory of Transplant Medicine,Chinese Academy of Medical Sciences,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+AD  - National Health Commission's Key Laboratory of Critical Care Medicine,Tianjin 
+      First Central Hospital,Tianjin 300192,China.
+AD  - Tianjin Clinical Research Center of Organ Transplantation,Tianjin First Central 
+      Hospital,Tianjin 300192,China.
+AD  - Organ Transplantation Center,Tianjin First Central Hospital,Tianjin 300192,China.
+LA  - chi
+PT  - Journal Article
+PT  - Review
+PL  - China
+TA  - Zhongguo Yi Xue Ke Xue Yuan Xue Bao
+JT  - Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae
+JID - 8006230
+RN  - 0 (RNA, Messenger)
+SB  - IM
+MH  - Gene Expression
+MH  - *RNA, Messenger
+OTO - NOTNLM
+OT  - gene regulation
+OT  - non-coding RNA
+OT  - supergene
+OT  - transcription
+EDAT- 2021/05/11 06:00
+MHDA- 2021/05/12 06:00
+CRDT- 2021/05/10 06:01
+PHST- 2021/05/10 06:01 [entrez]
+PHST- 2021/05/11 06:00 [pubmed]
+PHST- 2021/05/12 06:00 [medline]
+AID - 10.3881/j.issn.1000-503X.12419 [doi]
+PST - ppublish
+SO  - Zhongguo Yi Xue Ke Xue Yuan Xue Bao. 2021 Apr 28;43(2):265-270. doi: 
+      10.3881/j.issn.1000-503X.12419.
+
+PMID- 30137226
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191231
+LR  - 20191231
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+VI  - 35
+IP  - 5
+DP  - 2019 Mar 1
+TI  - ImaGEO: integrative gene expression meta-analysis from GEO database.
+PG  - 880-882
+LID - 10.1093/bioinformatics/bty721 [doi]
+AB  - SUMMARY: The Gene Expression Omnibus (GEO) database provides an invaluable 
+      resource of publicly available gene expression data that can be integrated and 
+      analyzed to derive new hypothesis and knowledge. In this context, gene expression 
+      meta-analysis (geMAs) is increasingly used in several fields to improve study 
+      reproducibility and discovering robust biomarkers. Nevertheless, integrating data 
+      is not straightforward without bioinformatics expertise. Here, we present ImaGEO, 
+      a web tool for geMAs that implements a complete and comprehensive meta-analysis 
+      workflow starting from GEO dataset identifiers. The application integrates GEO 
+      datasets, applies different meta-analysis techniques and provides functional 
+      analysis results in an easy-to-use environment. ImaGEO is a powerful and useful 
+      resource that allows researchers to integrate and perform meta-analysis of GEO 
+      datasets to lead robust findings for biomarker discovery studies. AVAILABILITY 
+      AND IMPLEMENTATION: ImaGEO is accessible at http://bioinfo.genyo.es/imageo/. 
+      SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+      online.
+CI  - © The Author(s) 2018. Published by Oxford University Press. All rights reserved. 
+      For permissions, please e-mail: journals.permissions@oup.com.
+FAU - Toro-Domínguez, Daniel
+AU  - Toro-Domínguez D
+AD  - Bioinformatics Unit, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+AD  - Area of Medical Genomics, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+FAU - Martorell-Marugán, Jordi
+AU  - Martorell-Marugán J
+AD  - Bioinformatics Unit, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+FAU - López-Domínguez, Raúl
+AU  - López-Domínguez R
+AD  - Bioinformatics Unit, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+FAU - García-Moreno, Adrián
+AU  - García-Moreno A
+AD  - Bioinformatics Unit, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+FAU - González-Rumayor, Víctor
+AU  - González-Rumayor V
+AD  - Atrys Health, Barcelona, Spain.
+FAU - Alarcón-Riquelme, Marta E
+AU  - Alarcón-Riquelme ME
+AD  - Area of Medical Genomics, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+AD  - Unit of Chronic Inflammatory Diseases, Institute of Environmental Medicine, 
+      Karolinska Institutet, Stockholm, Sweden.
+FAU - Carmona-Sáez, Pedro
+AU  - Carmona-Sáez P
+AD  - Bioinformatics Unit, GENYO Centre for Genomics and Oncological Research: 
+      Pfizer/University of Granada/Andalusian Regional Government, PTS Granada, 
+      Granada, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Biomarkers
+MH  - Databases, Factual
+MH  - Gene Expression
+MH  - *Gene Expression Profiling
+MH  - Reproducibility of Results
+EDAT- 2018/08/24 06:00
+MHDA- 2020/01/01 06:00
+CRDT- 2018/08/24 06:00
+PHST- 2018/02/15 00:00 [received]
+PHST- 2018/07/17 00:00 [revised]
+PHST- 2018/08/17 00:00 [accepted]
+PHST- 2018/08/24 06:00 [pubmed]
+PHST- 2020/01/01 06:00 [medline]
+PHST- 2018/08/24 06:00 [entrez]
+AID - 5076580 [pii]
+AID - 10.1093/bioinformatics/bty721 [doi]
+PST - ppublish
+SO  - Bioinformatics. 2019 Mar 1;35(5):880-882. doi: 10.1093/bioinformatics/bty721.
+
+PMID- 32467064
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201109
+LR  - 20201109
+IS  - 1878-4372 (Electronic)
+IS  - 1360-1385 (Linking)
+VI  - 25
+IP  - 10
+DP  - 2020 Oct
+TI  - Does Gene Expression Noise Play a Functional Role in Plants?
+PG  - 1041-1051
+LID - S1360-1385(20)30150-3 [pii]
+LID - 10.1016/j.tplants.2020.04.017 [doi]
+AB  - Gene expression in individual cells can be surprisingly noisy. In unicellular 
+      organisms this noise can be functional; for example, by allowing a subfraction of 
+      the population to prepare for environmental stress. The role of gene expression 
+      noise in multicellular organisms has, however, remained unclear. In this review, 
+      we discuss how new techniques are revealing an unexpected level of variability in 
+      gene expression between and within genetically identical plants. We describe 
+      recent progress as well as speculate on the function of transcriptional noise as 
+      a mechanism for generating functional phenotypic diversity in plants.
+CI  - Copyright © 2020 Elsevier Ltd. All rights reserved.
+FAU - Cortijo, Sandra
+AU  - Cortijo S
+AD  - Sainsbury Laboratory, University of Cambridge, Cambridge CB2 1LR, UK.
+FAU - Locke, James C W
+AU  - Locke JCW
+AD  - Sainsbury Laboratory, University of Cambridge, Cambridge CB2 1LR, UK. Electronic 
+      address: James.Locke@slcu.cam.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200525
+PL  - England
+TA  - Trends Plant Sci
+JT  - Trends in plant science
+JID - 9890299
+SB  - IM
+MH  - Gene Expression
+MH  - *Plants/genetics
+MH  - *Stress, Physiological
+OTO - NOTNLM
+OT  - risk spreading
+OT  - single-cell RNA-seq
+OT  - stochasticity
+OT  - time-lapse microscopy
+OT  - transcriptional noise
+EDAT- 2020/05/30 06:00
+MHDA- 2020/11/11 06:00
+CRDT- 2020/05/30 06:00
+PHST- 2019/11/22 00:00 [received]
+PHST- 2020/04/22 00:00 [revised]
+PHST- 2020/04/28 00:00 [accepted]
+PHST- 2020/05/30 06:00 [pubmed]
+PHST- 2020/11/11 06:00 [medline]
+PHST- 2020/05/30 06:00 [entrez]
+AID - S1360-1385(20)30150-3 [pii]
+AID - 10.1016/j.tplants.2020.04.017 [doi]
+PST - ppublish
+SO  - Trends Plant Sci. 2020 Oct;25(10):1041-1051. doi: 10.1016/j.tplants.2020.04.017. 
+      Epub 2020 May 25.
+
+PMID- 30554876
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191113
+LR  - 20200309
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 176
+IP  - 1-2
+DP  - 2019 Jan 10
+TI  - Intrinsic Dynamics of a Human Gene Reveal the Basis of Expression Heterogeneity.
+PG  - 213-226.e18
+LID - S0092-8674(18)31518-6 [pii]
+LID - 10.1016/j.cell.2018.11.026 [doi]
+AB  - Transcriptional regulation in metazoans occurs through long-range genomic 
+      contacts between enhancers and promoters, and most genes are transcribed in 
+      episodic "bursts" of RNA synthesis. To understand the relationship between these 
+      two phenomena and the dynamic regulation of genes in response to upstream 
+      signals, we describe the use of live-cell RNA imaging coupled with Hi-C 
+      measurements and dissect the endogenous regulation of the estrogen-responsive 
+      TFF1 gene. Although TFF1 is highly induced, we observe short active periods and 
+      variable inactive periods ranging from minutes to days. The heterogeneity in 
+      inactive times gives rise to the widely observed "noise" in human gene expression 
+      and explains the distribution of protein levels in human tissue. We derive a 
+      mathematical model of regulation that relates transcription, chromosome 
+      structure, and the cell's ability to sense changes in estrogen and predicts that 
+      hypervariability is largely dynamic and does not reflect a stable biological 
+      state.
+CI  - Published by Elsevier Inc.
+FAU - Rodriguez, Joseph
+AU  - Rodriguez J
+AD  - Laboratory of Receptor Biology and Gene Expression, National Cancer Institute, 
+      NIH, Bethesda, MD, USA.
+FAU - Ren, Gang
+AU  - Ren G
+AD  - Systems Biology Center, National Heart, Lung, and Blood Institute, NIH, Behesda, 
+      MD, USA.
+FAU - Day, Christopher R
+AU  - Day CR
+AD  - Laboratory of Receptor Biology and Gene Expression, National Cancer Institute, 
+      NIH, Bethesda, MD, USA.
+FAU - Zhao, Keji
+AU  - Zhao K
+AD  - Systems Biology Center, National Heart, Lung, and Blood Institute, NIH, Behesda, 
+      MD, USA.
+FAU - Chow, Carson C
+AU  - Chow CC
+AD  - Laboratory of Biological Modeling, National Institute of Diabetes and Digestive 
+      and Kidney Diseases, NIH, Bethesda, MD, USA. Electronic address: 
+      carson.chow@nih.gov.
+FAU - Larson, Daniel R
+AU  - Larson DR
+AD  - Laboratory of Receptor Biology and Gene Expression, National Cancer Institute, 
+      NIH, Bethesda, MD, USA. Electronic address: dan.larson@nih.gov.
+LA  - eng
+GR  - Z99 CA999999/Intramural NIH HHS/United States
+GR  - ZIA BC011383-08/Intramural NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+DEP - 20181213
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 0 (Estrogen Receptor alpha)
+RN  - 0 (Estrogens)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (TFF1 protein, human)
+RN  - 0 (Trefoil Factor-1)
+SB  - IM
+MH  - Estrogen Receptor alpha/metabolism
+MH  - Estrogens
+MH  - Gene Expression/genetics/*physiology
+MH  - Gene Expression Regulation/*physiology
+MH  - Humans
+MH  - Models, Theoretical
+MH  - Promoter Regions, Genetic/physiology
+MH  - RNA, Messenger/metabolism
+MH  - Single-Cell Analysis/methods
+MH  - Transcription, Genetic/genetics/*physiology
+MH  - Transcriptional Activation/physiology
+MH  - Trefoil Factor-1/genetics
+PMC - PMC6331006
+MID - NIHMS1514415
+OTO - NOTNLM
+OT  - RNA
+OT  - chromosome
+OT  - estrogen
+OT  - fluorescence
+OT  - heterogeneity
+OT  - imaging
+OT  - live-cell
+OT  - single-molecule
+OT  - steroid
+OT  - transcription
+COIS- Declaration of interests The authors declare no competing financial interests.
+EDAT- 2018/12/18 06:00
+MHDA- 2019/11/14 06:00
+CRDT- 2018/12/18 06:00
+PHST- 2018/07/31 00:00 [received]
+PHST- 2018/10/23 00:00 [revised]
+PHST- 2018/11/16 00:00 [accepted]
+PHST- 2018/12/18 06:00 [pubmed]
+PHST- 2019/11/14 06:00 [medline]
+PHST- 2018/12/18 06:00 [entrez]
+AID - S0092-8674(18)31518-6 [pii]
+AID - 10.1016/j.cell.2018.11.026 [doi]
+PST - ppublish
+SO  - Cell. 2019 Jan 10;176(1-2):213-226.e18. doi: 10.1016/j.cell.2018.11.026. Epub 
+      2018 Dec 13.
+
+PMID- 31811992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201023
+LR  - 20201023
+IS  - 1879-0429 (Electronic)
+IS  - 0958-1669 (Linking)
+VI  - 63
+DP  - 2020 Jun
+TI  - Aptamers in RNA-based switches of gene expression.
+PG  - 34-40
+LID - S0958-1669(19)30118-1 [pii]
+LID - 10.1016/j.copbio.2019.11.008 [doi]
+AB  - The ability to control gene expression via small molecule effectors is important 
+      in basic research as well as in future gene therapy applications. Although 
+      transcription factor-based systems are widely used, they are not well suited for 
+      certain applications due to a lack of functionality, limited available coding 
+      space, and potential immunogenicity of the regulatory proteins. RNA-based 
+      switches fill this gap since they can be designed to respond to effector 
+      compounds utilizing ligand-sensing aptamers. These systems are very modular since 
+      the aptamer can be combined with a variety of different expression platforms. 
+      RNA-based switches have been constructed that allow for controlling gene 
+      expression in diverse contexts. Here we discuss latest developments and 
+      applications of aptamer-based gene expression switches in eukaryotes.
+CI  - Copyright © 2019 Elsevier Ltd. All rights reserved.
+FAU - Spöring, Maike
+AU  - Spöring M
+AD  - Department of Chemistry, University of Konstanz, Universitätsstraße 10, 78457 
+      Konstanz, Germany; Konstanz Research School Chemical Biology (KoRS-CB), 
+      University of Konstanz, Universitätsstraße 10, 78457 Konstanz, Germany.
+FAU - Finke, Monika
+AU  - Finke M
+AD  - Department of Chemistry, University of Konstanz, Universitätsstraße 10, 78457 
+      Konstanz, Germany; Konstanz Research School Chemical Biology (KoRS-CB), 
+      University of Konstanz, Universitätsstraße 10, 78457 Konstanz, Germany.
+FAU - Hartig, Jörg S
+AU  - Hartig JS
+AD  - Department of Chemistry, University of Konstanz, Universitätsstraße 10, 78457 
+      Konstanz, Germany; Konstanz Research School Chemical Biology (KoRS-CB), 
+      University of Konstanz, Universitätsstraße 10, 78457 Konstanz, Germany. 
+      Electronic address: joerg.hartig@uni-konstanz.de.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20191205
+PL  - England
+TA  - Curr Opin Biotechnol
+JT  - Current opinion in biotechnology
+JID - 9100492
+RN  - 0 (Aptamers, Nucleotide)
+RN  - 0 (Ligands)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - *Aptamers, Nucleotide
+MH  - Gene Expression
+MH  - Gene Expression Regulation
+MH  - Ligands
+MH  - *RNA/genetics
+EDAT- 2019/12/08 06:00
+MHDA- 2020/10/24 06:00
+CRDT- 2019/12/08 06:00
+PHST- 2019/10/03 00:00 [received]
+PHST- 2019/11/04 00:00 [revised]
+PHST- 2019/11/06 00:00 [accepted]
+PHST- 2019/12/08 06:00 [pubmed]
+PHST- 2020/10/24 06:00 [medline]
+PHST- 2019/12/08 06:00 [entrez]
+AID - S0958-1669(19)30118-1 [pii]
+AID - 10.1016/j.copbio.2019.11.008 [doi]
+PST - ppublish
+SO  - Curr Opin Biotechnol. 2020 Jun;63:34-40. doi: 10.1016/j.copbio.2019.11.008. Epub 
+      2019 Dec 5.

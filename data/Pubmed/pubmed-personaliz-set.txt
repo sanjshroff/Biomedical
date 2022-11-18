@@ -1,0 +1,837 @@
+PMID- 29935653
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190111
+LR  - 20200225
+IS  - 1556-5653 (Electronic)
+IS  - 0015-0282 (Print)
+IS  - 0015-0282 (Linking)
+VI  - 109
+IP  - 6
+DP  - 2018 Jun
+TI  - Personalized medicine: motivation, challenges, and progress.
+PG  - 952-963
+LID - S0015-0282(18)30407-2 [pii]
+LID - 10.1016/j.fertnstert.2018.05.006 [doi]
+AB  - There is a great deal of hype surrounding the concept of personalized medicine. 
+      Personalized medicine is rooted in the belief that since individuals possess 
+      nuanced and unique characteristics at the molecular, physiological, environmental 
+      exposure, and behavioral levels, they may need to have interventions provided to 
+      them for diseases they possess that are tailored to these nuanced and unique 
+      characteristics. This belief has been verified to some degree through the 
+      application of emerging technologies such as DNA sequencing, proteomics, imaging 
+      protocols, and wireless health monitoring devices, which have revealed great 
+      inter-individual variation in disease processes. In this review, we consider the 
+      motivation for personalized medicine, its historical precedents, the emerging 
+      technologies that are enabling it, some recent experiences including successes 
+      and setbacks, ways of vetting and deploying personalized medicines, and future 
+      directions, including potential ways of treating individuals with fertility and 
+      sterility issues. We also consider current limitations of personalized medicine. 
+      We ultimately argue that since aspects of personalized medicine are rooted in 
+      biological realities, personalized medicine practices in certain contexts are 
+      likely to be inevitable, especially as relevant assays and deployment strategies 
+      become more efficient and cost-effective.
+CI  - Copyright © 2018 American Society for Reproductive Medicine. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Goetz, Laura H
+AU  - Goetz LH
+AD  - Scripps Clinic Medical Group, La Jolla, California.
+FAU - Schork, Nicholas J
+AU  - Schork NJ
+AD  - The Translational Genomics Research Institute, Phoenix, Arizona; The City of 
+      Hope/TGen IMPACT Center, Duarte, California; J. Craig Venter Institute, La Jolla, 
+      California; The University of California, San Diego, La Jolla, California. 
+      Electronic address: nschork@tgen.org.
+LA  - eng
+GR  - U24 AG051129/AG/NIA NIH HHS/United States
+GR  - UL1 TR001442/TR/NCATS NIH HHS/United States
+GR  - U19 AG023122/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Fertil Steril
+JT  - Fertility and sterility
+JID - 0372772
+SB  - IM
+MH  - Cost-Benefit Analysis
+MH  - Humans
+MH  - *Motivation
+MH  - *Precision Medicine/economics/methods/trends
+MH  - *Reproductive Techniques, Assisted/standards/trends
+MH  - Research Design
+PMC - PMC6366451
+MID - NIHMS967281
+OTO - NOTNLM
+OT  - Precision medicine
+OT  - biomarkers
+OT  - genomics
+OT  - patient monitoring
+COIS- LHG and NJS have no conflicts to declare with respect to this article.
+EDAT- 2018/06/25 06:00
+MHDA- 2019/01/12 06:00
+CRDT- 2018/06/25 06:00
+PHST- 2018/03/26 00:00 [received]
+PHST- 2018/05/04 00:00 [revised]
+PHST- 2018/05/04 00:00 [accepted]
+PHST- 2018/06/25 06:00 [entrez]
+PHST- 2018/06/25 06:00 [pubmed]
+PHST- 2019/01/12 06:00 [medline]
+AID - S0015-0282(18)30407-2 [pii]
+AID - 10.1016/j.fertnstert.2018.05.006 [doi]
+PST - ppublish
+SO  - Fertil Steril. 2018 Jun;109(6):952-963. doi: 10.1016/j.fertnstert.2018.05.006.
+
+PMID- 31713162
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191120
+LR  - 20200108
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1168
+DP  - 2019
+TI  - Next Generation Sequencing (NGS): A Revolutionary Technology in Pharmacogenomics 
+      and Personalized Medicine in Cancer.
+PG  - 9-30
+LID - 10.1007/978-3-030-24100-1_2 [doi]
+AB  - Following the completion of the Human Genome Project in 2003, research in 
+      oncology has progressively focused on the sequencing of cancer genomes, with the 
+      aim of better understanding the genetic basis of oncogenesis and identifying 
+      actionable alterations. The development of next-generation-sequencing (NGS) 
+      techniques, commercially available since 2006, allowed for a cost- and 
+      time-effective sequencing of tumor DNA, leading to a "genomic era" of cancer 
+      research and treatment. NGS provided a significant step forward in Personalized 
+      Medicine (PM) by enabling the detection of somatic driver mutations, resistance 
+      mechanisms, quantification of mutational burden, germline mutations which settled 
+      the foundation of a new approach in cancer care. In this chapter we discuss the 
+      history, available techniques and applications of NGS in oncology, with a 
+      particular referral to the PM approach and the emerging role of the research 
+      field of pharmacogenomics.
+FAU - Morganti, Stefania
+AU  - Morganti S
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy.
+FAU - Tarantino, Paolo
+AU  - Tarantino P
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy.
+FAU - Ferraro, Emanuela
+AU  - Ferraro E
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy.
+FAU - D'Amico, Paolo
+AU  - D'Amico P
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy.
+FAU - Duso, Bruno Achutti
+AU  - Duso BA
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy.
+FAU - Curigliano, Giuseppe
+AU  - Curigliano G
+AD  - Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy. 
+      giuseppe.curigliano@ieo.it.
+AD  - Division of Early Drug Development for Innovative Therapy, European Institute of 
+      Oncology, IRCCS, Milan, Italy. giuseppe.curigliano@ieo.it.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+SB  - IM
+MH  - *High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - *Neoplasms/genetics/therapy
+MH  - *Pharmacogenetics/methods/trends
+MH  - *Precision Medicine/methods/trends
+OTO - NOTNLM
+OT  - Genomic era
+OT  - Homologous recombination
+OT  - Liquid biopsy
+OT  - Microsatellite instability
+OT  - Next-generation-sequencing (NGS)
+OT  - Oncogenesis
+OT  - Personalized medicine
+OT  - Pharmacogenomics
+OT  - RNA sequencing
+OT  - Sequencing
+OT  - Tumor mutational burden
+EDAT- 2019/11/13 06:00
+MHDA- 2019/11/21 06:00
+CRDT- 2019/11/13 06:00
+PHST- 2019/11/13 06:00 [entrez]
+PHST- 2019/11/13 06:00 [pubmed]
+PHST- 2019/11/21 06:00 [medline]
+AID - 10.1007/978-3-030-24100-1_2 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2019;1168:9-30. doi: 10.1007/978-3-030-24100-1_2.
+
+PMID- 28282721
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170602
+LR  - 20181202
+IS  - 1735-9694 (Electronic)
+IS  - 0044-6025 (Linking)
+VI  - 55
+IP  - 3
+DP  - 2017 Mar
+TI  - Ethical Issues Surrounding Personalized Medicine: A Literature Review.
+PG  - 209-217
+AB  - More than a decade ago, personalized medicine was presented in modern medicine. 
+      Personalized medicine means that the right drug should be prescribed for the 
+      right patient based on genetic data. No doubt is developing medical sciences, and 
+      its shift into personalized medicine complicates ethical challenges more than 
+      before. In this review, we categorized all probable ethical considerations of 
+      personalized medicine in research and development and service provision. Based on 
+      our review, extensive changes in healthcare system including ethical changes are 
+      needed to overcome the ethical obstacles including knowledge gap and informed 
+      consent, privacy and confidentiality and availability of healthcare services. 
+      Furthermore social benefit versus science development and individual benefit 
+      should be balanced. Therefore guidelines and regulations should be compiled to 
+      represent the ethical framework; also ethical decision making should be 
+      day-to-day and individualized.
+FAU - Salari, Pooneh
+AU  - Salari P
+AD  - Medical Ethics and History of Medicine Research Center, Tehran University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Larijani, Bagher
+AU  - Larijani B
+AD  - Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+      Clinical Sciences Institute, Tehran University of Medical.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Iran
+TA  - Acta Med Iran
+JT  - Acta medica Iranica
+JID - 14540050R
+SB  - IM
+MH  - *Bioethical Issues
+MH  - Confidentiality
+MH  - Humans
+MH  - Informed Consent
+MH  - Precision Medicine/*ethics
+OTO - NOTNLM
+OT  - Ethics
+OT  - Genetic data
+OT  - Personalized medicine
+OT  - Pharmacogenetics studies
+EDAT- 2017/03/12 06:00
+MHDA- 2017/06/03 06:00
+CRDT- 2017/03/12 06:00
+PHST- 2017/03/06 00:00 [accepted]
+PHST- 2017/03/12 06:00 [entrez]
+PHST- 2017/03/12 06:00 [pubmed]
+PHST- 2017/06/03 06:00 [medline]
+PST - ppublish
+SO  - Acta Med Iran. 2017 Mar;55(3):209-217.
+
+PMID- 32580376
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210318
+LR  - 20210318
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2020 Jun 22
+TI  - Pharmacogenomics and Personalized Medicine.
+LID - 10.3390/genes11060679 [doi]
+LID - 679
+AB  - Pharmacogenomics is one of the emerging approaches to precision medicine, 
+      tailoring drug selection and dosing to the patient's genetic features. In recent 
+      years, several pharmacogenetic guidelines have been published by international 
+      scientific consortia, but the uptake in clinical practice is still poor. Many 
+      coordinated international efforts are ongoing in order to overcome the existing 
+      barriers to pharmacogenomic implementation. On the other hand, existing validated 
+      pharmacogenomic markers can explain only a minor part of the observed clinical 
+      variability in the therapeutic outcome. New investigational approaches are 
+      warranted, including the study of the pharmacogenomic role of the immune system 
+      genetics and of previously neglected rare genetic variants, reported to account 
+      for a large part of the inter-individual variability in drug metabolism. In this 
+      Special Issue, we collected a series of articles covering many aspects of 
+      pharmacogenomics. These include clinical implementation of pharmacogenomics in 
+      clinical practice, development of tools or infrastractures to support this 
+      process, research of new pharmacogenomics markers to increase drug efficacy and 
+      safety, and the impact of rare genetic variants in pharmacogenomics.
+FAU - Cecchin, Erika
+AU  - Cecchin E
+AUID- ORCID: 0000-0001-7517-7490
+AD  - Experimental and Clinical Pharmacology, Centro di Riferimento Oncologico di 
+      Aviano (CRO) IRCCS, 33081 Aviano, Italy.
+FAU - Stocco, Gabriele
+AU  - Stocco G
+AUID- ORCID: 0000-0003-0964-5879
+AD  - Department of Life Sciences, University of Trieste, 34127 Trieste, Italy.
+LA  - eng
+PT  - Editorial
+PT  - Introductory Journal Article
+DEP - 20200622
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - *Biomarkers
+MH  - Humans
+MH  - *Pharmacogenetics
+MH  - Pharmacogenomic Testing
+MH  - *Precision Medicine
+PMC - PMC7348959
+OTO - NOTNLM
+OT  - human genetics
+OT  - personalized medicine
+OT  - pharmacogenomics
+OT  - pharmacology
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/06/26 06:00
+MHDA- 2021/03/19 06:00
+CRDT- 2020/06/26 06:00
+PHST- 2020/06/03 00:00 [received]
+PHST- 2020/06/18 00:00 [accepted]
+PHST- 2020/06/26 06:00 [entrez]
+PHST- 2020/06/26 06:00 [pubmed]
+PHST- 2021/03/19 06:00 [medline]
+AID - genes11060679 [pii]
+AID - genes-11-00679 [pii]
+AID - 10.3390/genes11060679 [doi]
+PST - epublish
+SO  - Genes (Basel). 2020 Jun 22;11(6):679. doi: 10.3390/genes11060679.
+
+PMID- 28582322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180322
+LR  - 20181113
+IS  - 1473-6322 (Electronic)
+IS  - 1528-4050 (Print)
+IS  - 1473-6322 (Linking)
+VI  - 17
+IP  - 4
+DP  - 2017 Aug
+TI  - Atopic dermatitis phenotypes and the need for personalized medicine.
+PG  - 309-315
+LID - 10.1097/ACI.0000000000000376 [doi]
+AB  - PURPOSE OF REVIEW: To describe recent developments in therapies which target the 
+      molecular mechanisms in atopic dermatitis. RECENT FINDINGS: Current advances in 
+      the understanding of the molecular basis of atopic dermatitis are leading to the 
+      stratification of different atopic dermatitis phenotypes. New therapies offer the 
+      option to target-specific molecules involved in the pathophysiology of atopic 
+      dermatitis. Current new therapies under investigation aim to modulate specific 
+      inflammatory pathways associated with distinctive atopic dermatitis phenotypes, 
+      which would potentially translate into the development of personalized, 
+      targeted-specific treatments of atopic dermatitis. SUMMARY: Despite the unmet 
+      need for well tolerated, effective, and personalized treatment of atopic 
+      dermatitis, the current standard treatments of atopic dermatitis do not focus on 
+      the individual pathogenesis of the disease. The development of targeted, 
+      phenotype-specific therapies has the potential to open a new promising era of 
+      individualized treatment of atopic dermatitis.
+FAU - Cabanillas, Beatriz
+AU  - Cabanillas B
+AD  - Department of Dermatology and Allergy, University of Bonn, Bonn, Germany.
+FAU - Brehler, Ann-Christin
+AU  - Brehler AC
+FAU - Novak, Natalija
+AU  - Novak N
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Curr Opin Allergy Clin Immunol
+JT  - Current opinion in allergy and clinical immunology
+JID - 100936359
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Biomarkers/metabolism
+MH  - Dermatitis, Atopic/*diagnosis/*metabolism/*therapy
+MH  - Humans
+MH  - Precision Medicine/*methods/trends
+PMC - PMC5515628
+EDAT- 2017/06/06 06:00
+MHDA- 2018/03/23 06:00
+CRDT- 2017/06/06 06:00
+PHST- 2017/06/06 06:00 [pubmed]
+PHST- 2018/03/23 06:00 [medline]
+PHST- 2017/06/06 06:00 [entrez]
+AID - 170407 [pii]
+AID - 10.1097/ACI.0000000000000376 [doi]
+PST - ppublish
+SO  - Curr Opin Allergy Clin Immunol. 2017 Aug;17(4):309-315. doi: 
+      10.1097/ACI.0000000000000376.
+
+PMID- 28282715
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170602
+LR  - 20181202
+IS  - 1735-9694 (Electronic)
+IS  - 0044-6025 (Linking)
+VI  - 55
+IP  - 3
+DP  - 2017 Mar
+TI  - Personalized Regenerative Medicine.
+PG  - 144-149
+AB  - Personalized medicine as a novel field of medicine refers to the prescription of 
+      specific therapeutics procedure for an individual. This approach has established 
+      based on pharmacogenetic and pharmacogenomic information and data. The terms 
+      precision and personalized medicines are sometimes applied interchangeably. 
+      However, there has been a shift from "personalized medicine" towards "precision 
+      medicine". Although personalized medicine emerged from pharmacogenetics, nowadays 
+      it covers many fields of healthcare. Accordingly, regenerative medicine and 
+      cellular therapy as the new fields of medicine use cell-based products in order 
+      to develop personalized treatments. Different sources of stem cells including 
+      mesenchymal stem cells, embryonic stem cells and induced pluripotent stem cells 
+      (iPSCs) have been considered in targeted therapies which could give many 
+      advantages. iPSCs as the novel and individual pluripotent stem cells have been 
+      introduced as the appropriate candidates for personalized cell therapies. 
+      Cellular therapies can provide a personalized approach. Because of 
+      person-to-person and population differences in the result of stem cell therapy, 
+      individualized cellular therapy must be adjusted according to the patient 
+      specific profile, in order to achieve best therapeutic results and outcomes. 
+      Several factors should be considered to achieve personalized stem cells therapy 
+      such as, recipient factors, donor factors, and the overall body environment in 
+      which the stem cells could be active and functional. In addition to these 
+      factors, the source of stem cells must be carefully chosen based on functional 
+      and physical criteria that lead to optimal outcomes.
+FAU - Arjmand, Babak
+AU  - Arjmand B
+AD  - Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+      Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran.
+FAU - Goodarzi, Parisa
+AU  - Goodarzi P
+AD  - Brain and Spinal Cord Injury Research Center, Neurosciences Institute, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FAU - Mohamadi-Jahani, Fereshteh
+AU  - Mohamadi-Jahani F
+AD  - Brain and Spinal Cord Injury Research Center, Neurosciences Institute, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FAU - Falahzadeh, Khadijeh
+AU  - Falahzadeh K
+AD  - Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+      Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran.
+FAU - Larijani, Bagher
+AU  - Larijani B
+AD  - Diabetes Research Center, Endocrinology and Metabolism Clinical Sciences 
+      Institute, Tehran University of Medical Sciences, Tehran, Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Iran
+TA  - Acta Med Iran
+JT  - Acta medica Iranica
+JID - 14540050R
+SB  - IM
+MH  - *Cell- and Tissue-Based Therapy
+MH  - Embryonic Stem Cells
+MH  - Humans
+MH  - Induced Pluripotent Stem Cells
+MH  - Mesenchymal Stem Cells
+MH  - *Precision Medicine
+MH  - *Regenerative Medicine
+MH  - Stem Cell Transplantation
+OTO - NOTNLM
+OT  - Induced pluripotent stem cells
+OT  - Personalized medicine
+OT  - Precision medicine
+OT  - Regenerative medicine
+OT  - Stem cell therapy
+EDAT- 2017/03/12 06:00
+MHDA- 2017/06/03 06:00
+CRDT- 2017/03/12 06:00
+PHST- 2017/03/06 00:00 [accepted]
+PHST- 2017/03/12 06:00 [entrez]
+PHST- 2017/03/12 06:00 [pubmed]
+PHST- 2017/06/03 06:00 [medline]
+PST - ppublish
+SO  - Acta Med Iran. 2017 Mar;55(3):144-149.
+
+PMID- 30901549
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200213
+LR  - 20200422
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Print)
+IS  - 0092-8674 (Linking)
+VI  - 177
+IP  - 1
+DP  - 2019 Mar 21
+TI  - Personalized Medicine and the Power of Electronic Health Records.
+PG  - 58-69
+LID - S0092-8674(19)30222-3 [pii]
+LID - 10.1016/j.cell.2019.02.039 [doi]
+AB  - Personalized medicine has largely been enabled by the integration of genomic and 
+      other data with electronic health records (EHRs) in the United States and 
+      elsewhere. Increased EHR adoption across various clinical settings and the 
+      establishment of EHR-linked population-based biobanks provide unprecedented 
+      opportunities for the types of translational and implementation research that 
+      drive personalized medicine. We review advances in the digitization of health 
+      information and the proliferation of genomic research in health systems and 
+      provide insights into emerging paths for the widespread implementation of 
+      personalized medicine.
+CI  - Copyright © 2019 Elsevier Inc. All rights reserved.
+FAU - Abul-Husn, Noura S
+AU  - Abul-Husn NS
+AD  - The Center for Genomic Health, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA; The Charles Bronfman Institute for Personalized Medicine, Icahn School 
+      of Medicine at Mount Sinai, New York, NY, USA; Department of Medicine, Icahn 
+      School of Medicine at Mount Sinai, New York, NY, USA; Department of Genetics and 
+      Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+FAU - Kenny, Eimear E
+AU  - Kenny EE
+AD  - The Center for Genomic Health, Icahn School of Medicine at Mount Sinai, New York, 
+      NY, USA; The Charles Bronfman Institute for Personalized Medicine, Icahn School 
+      of Medicine at Mount Sinai, New York, NY, USA; Department of Medicine, Icahn 
+      School of Medicine at Mount Sinai, New York, NY, USA; Department of Genetics and 
+      Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. 
+      Electronic address: eimear.kenny@mssm.edu.
+LA  - eng
+GR  - U01 HG009610/HG/NHGRI NIH HHS/United States
+GR  - R01 DK110113/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR001433/TR/NCATS NIH HHS/United States
+GR  - R01 HL104608/HL/NHLBI NIH HHS/United States
+GR  - U01 HG009080/HG/NHGRI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Cell
+JT  - Cell
+JID - 0413066
+SB  - IM
+MH  - Electronic Health Records/*trends
+MH  - Genetic Testing
+MH  - Genome, Human/genetics
+MH  - Genomics/methods/trends
+MH  - Humans
+MH  - Precision Medicine/*methods/*trends
+MH  - United States
+PMC - PMC6921466
+MID - NIHMS1522962
+EDAT- 2019/03/23 06:00
+MHDA- 2020/02/14 06:00
+CRDT- 2019/03/23 06:00
+PHST- 2019/01/15 00:00 [received]
+PHST- 2019/02/13 00:00 [revised]
+PHST- 2019/02/22 00:00 [accepted]
+PHST- 2019/03/23 06:00 [entrez]
+PHST- 2019/03/23 06:00 [pubmed]
+PHST- 2020/02/14 06:00 [medline]
+AID - S0092-8674(19)30222-3 [pii]
+AID - 10.1016/j.cell.2019.02.039 [doi]
+PST - ppublish
+SO  - Cell. 2019 Mar 21;177(1):58-69. doi: 10.1016/j.cell.2019.02.039.
+
+PMID- 28240172
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171228
+LR  - 20181202
+IS  - 1873-4316 (Electronic)
+IS  - 1389-2010 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2017
+TI  - Clinical Applications of Personalized Medicine: A New Paradigm and Challenge.
+PG  - 194-203
+LID - 10.2174/1389201018666170224105600 [doi]
+AB  - The personalized medicine is an emergent and rapidly developing method of 
+      clinical practice that uses new technologies to provide decisions in regard to 
+      the prediction, prevention, diagnosis and treatment of disease. A continuous 
+      evolution of technology and the developments in molecular diagnostics and genomic 
+      analysis increased the possibility of an even more understanding and 
+      interpretation of the human genome and exome, allowing a "personalized" approach 
+      to clinical care, so that the concepts of "Systems Medicine" and "System Biology" 
+      are actually increasing. The purpose of this study is to evaluate the 
+      personalized medicine about its indications and benefits, actual clinical 
+      applications and future perspectives as well as its issues and health care 
+      implications. A careful review of the scientific literature on this field that 
+      highlighted the applicability and usefulness of this new medical approach as well 
+      as the fact that personalized medicine strategy is even more increasing in 
+      numerous fields of applications.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.org.
+FAU - Di Sanzo, Mariantonia
+AU  - Di Sanzo M
+AD  - Department of Anatomical, Histological, Forensic and Orthopaedic Sciences 
+      (SAIMLAL), Sapienza University of Rome, Viale Regina Elena 336, 00185 Rome, 
+      Italy.
+FAU - Cipolloni, Luigi
+AU  - Cipolloni L
+AD  - IRCCS Neuromed, Via Atinense 18, 86077 Pozzilli, Italy.
+FAU - Borro, Marina
+AU  - Borro M
+AD  - Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), Sapienza 
+      University of Rome, Via di Grottarossa 1035, 00189 Rome. Italy.
+FAU - La Russa, Raffaele
+AU  - La Russa R
+AD  - Department of Anatomical, Histological, Forensic and Orthopaedic Sciences 
+      (SAIMLAL), Sapienza University of Rome, Viale Regina Elena 336, 00185 Rome, 
+      Italy.
+FAU - Santurro, Alessandro
+AU  - Santurro A
+AD  - Department of Anatomical, Histological, Forensic and Orthopaedic Sciences 
+      (SAIMLAL), Sapienza University of Rome, Viale Regina Elena 336, 00185 Rome, 
+      Italy.
+FAU - Scopetti, Matteo
+AU  - Scopetti M
+AD  - Department of Anatomical, Histological, Forensic and Orthopaedic Sciences 
+      (SAIMLAL), Sapienza University of Rome, Viale Regina Elena 336, 00185 Rome, 
+      Italy.
+FAU - Simmaco, Maurizio
+AU  - Simmaco M
+AD  - Department of Neurosciences, Mental Health and Sensory Organs (NESMOS), Sapienza 
+      University of Rome, Via di Grottarossa 1035, 00189 Rome. Italy.
+FAU - Frati, Paola
+AU  - Frati P
+AD  - Malzoni Clinical-Scientific Institute (MaCSI), Via Carmelo Errico 2, 83100 
+      Avellino, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Curr Pharm Biotechnol
+JT  - Current pharmaceutical biotechnology
+JID - 100960530
+SB  - IM
+MH  - Genetic Testing
+MH  - Humans
+MH  - Pathology, Molecular/methods/trends
+MH  - Pharmacogenetics/*methods/trends
+MH  - Practice Patterns, Physicians'/*organization & administration/trends
+MH  - Precision Medicine/*methods/trends
+OTO - NOTNLM
+OT  - Personalized medicine
+OT  - genetic tests
+OT  - genomic medicine
+OT  - healthcare
+OT  - medicine system
+OT  - molecular diagnostic
+OT  - pharmacogenomics
+OT  - precision medicine
+EDAT- 2017/02/28 06:00
+MHDA- 2017/12/29 06:00
+CRDT- 2017/02/28 06:00
+PHST- 2016/07/31 00:00 [received]
+PHST- 2016/09/25 00:00 [revised]
+PHST- 2016/12/29 00:00 [accepted]
+PHST- 2017/02/28 06:00 [pubmed]
+PHST- 2017/12/29 06:00 [medline]
+PHST- 2017/02/28 06:00 [entrez]
+AID - CPB-EPUB-81984 [pii]
+AID - 10.2174/1389201018666170224105600 [doi]
+PST - ppublish
+SO  - Curr Pharm Biotechnol. 2017;18(3):194-203. doi: 
+      10.2174/1389201018666170224105600.
+
+PMID- 31980301
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210730
+LR  - 20210730
+IS  - 1879-3096 (Electronic)
+IS  - 0167-7799 (Print)
+IS  - 0167-7799 (Linking)
+VI  - 38
+IP  - 5
+DP  - 2020 May
+TI  - Enabling Technologies for Personalized and Precision Medicine.
+PG  - 497-518
+LID - S0167-7799(19)30316-6 [pii]
+LID - 10.1016/j.tibtech.2019.12.021 [doi]
+AB  - Individualizing patient treatment is a core objective of the medical field. 
+      Reaching this objective has been elusive owing to the complex set of factors 
+      contributing to both disease and health; many factors, from genes to proteins, 
+      remain unknown in their role in human physiology. Accurately diagnosing, 
+      monitoring, and treating disorders requires advances in biomarker discovery, the 
+      subsequent development of accurate signatures that correspond with dynamic 
+      disease states, as well as therapeutic interventions that can be continuously 
+      optimized and modulated for dose and drug selection. This work highlights key 
+      breakthroughs in the development of enabling technologies that further the goal 
+      of personalized and precision medicine, and remaining challenges that, when 
+      addressed, may forge unprecedented capabilities in realizing truly individualized 
+      patient care.
+CI  - Copyright © 2019 Elsevier Ltd. All rights reserved.
+FAU - Ho, Dean
+AU  - Ho D
+AD  - The N.1 Institute for Health (N.1), National University of Singapore, Singapore; 
+      The Institute for Digital Medicine (WisDM), National University of Singapore, 
+      Singapore; Department of Biomedical Engineering, NUS Engineering, National 
+      University of Singapore, Singapore; Department of Pharmacology, Yong Loo Lin 
+      School of Medicine, National University of Singapore, Singapore. Electronic 
+      address: biedh@nus.edu.sg.
+FAU - Quake, Stephen R
+AU  - Quake SR
+AD  - Department of Bioengineering, Stanford University, CA, USA; Department of Applied 
+      Physics, Stanford University, CA, USA; Chan Zuckerberg Biohub, San Francisco, CA, 
+      USA.
+FAU - McCabe, Edward R B
+AU  - McCabe ERB
+AD  - March of Dimes Foundation, New York, USA. Electronic address: 
+      emccabe@mednet.ucla.edu.
+FAU - Chng, Wee Joo
+AU  - Chng WJ
+AD  - Department of Haematology and Oncology, National University Cancer Institute, 
+      National University Health System, Singapore; Cancer Science Institute of 
+      Singapore, National University of Singapore, Singapore.
+FAU - Chow, Edward K
+AU  - Chow EK
+AD  - Department of Pharmacology, Yong Loo Lin School of Medicine, National University 
+      of Singapore, Singapore; Cancer Science Institute of Singapore, National 
+      University of Singapore, Singapore.
+FAU - Ding, Xianting
+AU  - Ding X
+AD  - Institute for Personalized Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China.
+FAU - Gelb, Bruce D
+AU  - Gelb BD
+AD  - Mindich Child Health and Development Institute, Departments of Pediatrics and 
+      Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, NY, USA.
+FAU - Ginsburg, Geoffrey S
+AU  - Ginsburg GS
+AD  - Center for Applied Genomics and Precision Medicine, Duke University, NC, USA.
+FAU - Hassenstab, Jason
+AU  - Hassenstab J
+AD  - Department of Neurology, Washington University in St. Louis, MO, USA; 
+      Psychological & Brain Sciences, Washington University in St. Louis, MO, USA.
+FAU - Ho, Chih-Ming
+AU  - Ho CM
+AD  - Department of Mechanical Engineering, University of California, Los Angeles, CA, 
+      USA.
+FAU - Mobley, William C
+AU  - Mobley WC
+AD  - Department of Neurosciences, University of California, San Diego, CA, USA.
+FAU - Nolan, Garry P
+AU  - Nolan GP
+AD  - Department of Microbiology & Immunology, Stanford University, CA, USA.
+FAU - Rosen, Steven T
+AU  - Rosen ST
+AD  - Comprehensive Cancer Center and Beckman Research Institute, City of Hope, CA, 
+      USA.
+FAU - Tan, Patrick
+AU  - Tan P
+AD  - Duke-NUS Medical School, National University of Singapore, Singapore.
+FAU - Yen, Yun
+AU  - Yen Y
+AD  - College of Medical Technology, Center of Cancer Translational Research, Taipei 
+      Cancer Center of Taipei Medical University, Taipei, Taiwan.
+FAU - Zarrinpar, Ali
+AU  - Zarrinpar A
+AD  - Department of Surgery, Division of Transplantation & Hepatobiliary Surgery, 
+      University of Florida, FL, USA.
+LA  - eng
+GR  - K08 DK113244/DK/NIDDK NIH HHS/United States
+GR  - P01 HL108797/HL/NHLBI NIH HHS/United States
+GR  - U19 AI057229/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20200121
+TA  - Trends Biotechnol
+JT  - Trends in biotechnology
+JID - 8310903
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Artificial Intelligence/*trends
+MH  - Biomarkers/analysis
+MH  - *Diagnosis
+MH  - Humans
+MH  - Precision Medicine/*trends
+MH  - Therapeutics/*trends
+PMC - PMC7924935
+MID - NIHMS1569453
+OTO - NOTNLM
+OT  - artificial intelligence
+OT  - clinical trials
+OT  - diagnostics
+OT  - personalized medicine
+OT  - precision medicine
+OT  - therapeutics
+COIS- Conflict of Interest Statement D. Ho, E.K. Chow, X. Ding, C. Ho, and A. Zarrinpar 
+      are co-inventors of pending and issued patents pertaining to artificial 
+      intelligence-based drug development.
+EDAT- 2020/01/26 06:00
+MHDA- 2021/07/31 06:00
+CRDT- 2020/01/26 06:00
+PHST- 2019/08/09 00:00 [received]
+PHST- 2019/12/16 00:00 [revised]
+PHST- 2019/12/17 00:00 [accepted]
+PHST- 2020/01/26 06:00 [pubmed]
+PHST- 2021/07/31 06:00 [medline]
+PHST- 2020/01/26 06:00 [entrez]
+AID - S0167-7799(19)30316-6 [pii]
+AID - 10.1016/j.tibtech.2019.12.021 [doi]
+PST - ppublish
+SO  - Trends Biotechnol. 2020 May;38(5):497-518. doi: 10.1016/j.tibtech.2019.12.021. 
+      Epub 2020 Jan 21.
+
+PMID- 30113875
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200708
+LR  - 20200708
+IS  - 1545-4304 (Electronic)
+IS  - 0362-1642 (Linking)
+VI  - 59
+DP  - 2019 Jan 6
+TI  - Organoids for Drug Discovery and Personalized Medicine.
+PG  - 447-462
+LID - 10.1146/annurev-pharmtox-010818-021108 [doi]
+AB  - A wide variety of organs are in a dynamic state, continuously undergoing renewal 
+      as a result of constant growth and differentiation. Stem cells are required 
+      during these dynamic events for continuous tissue maintenance within the organs. 
+      In a steady state of production and loss of cells within these tissues, new cells 
+      are constantly formed by differentiation from stem cells. Today, organoids 
+      derived from either adult stem cells or pluripotent stem cells can be grown to 
+      resemble various organs. As they are similar to their original organs, organoids 
+      hold great promise for use in medical research and the development of new 
+      treatments. Furthermore, they have already been utilized in the clinic, enabling 
+      personalized medicine for inflammatory bowel disease. In this review, I provide 
+      an update on current organoid technology and summarize the application of 
+      organoids in basic research, disease modeling, drug development, personalized 
+      treatment, and regenerative medicine.
+FAU - Takahashi, Toshio
+AU  - Takahashi T
+AD  - Suntory Foundation for Life Sciences, Bioorganic Research Institute, Kyoto 
+      619-0284, Japan; email: takahashi@sunbor.or.jp.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180816
+PL  - United States
+TA  - Annu Rev Pharmacol Toxicol
+JT  - Annual review of pharmacology and toxicology
+JID - 7607088
+SB  - IM
+MH  - Animals
+MH  - Drug Discovery/*methods
+MH  - Humans
+MH  - Organoids/*cytology
+MH  - Precision Medicine/*methods
+MH  - Regenerative Medicine/methods
+OTO - NOTNLM
+OT  - Wnt
+OT  - acetylcholine
+OT  - drug screening
+OT  - organoid
+OT  - personalized medicine
+OT  - stem cell
+EDAT- 2018/08/17 06:00
+MHDA- 2020/07/09 06:00
+CRDT- 2018/08/17 06:00
+PHST- 2018/08/17 06:00 [pubmed]
+PHST- 2020/07/09 06:00 [medline]
+PHST- 2018/08/17 06:00 [entrez]
+AID - 10.1146/annurev-pharmtox-010818-021108 [doi]
+PST - ppublish
+SO  - Annu Rev Pharmacol Toxicol. 2019 Jan 6;59:447-462. doi: 
+      10.1146/annurev-pharmtox-010818-021108. Epub 2018 Aug 16.
