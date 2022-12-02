@@ -12,10 +12,9 @@ import os
 import time
 import re
 import nltk
-import glob
-
-import matplotlib.pyplot as plt
+import torch
 from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 sno = nltk.stem.SnowballStemmer('english') 
@@ -26,12 +25,34 @@ from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering 
 from sklearn.metrics.cluster import normalized_mutual_info_score
 from sklearn.metrics import silhouette_samples, silhouette_score
+from sentence_transformers import SentenceTransformer,util
 #count_vect = CountVectorizer()
-
-
+model = SentenceTransformer('all-MiniLM-L6-v2')
 finalDate = []
 input_pubmed = os.getcwd() + r'\data\Pubmed'
 input_TREC = os.getcwd() + r'\data\2005trec.csv'
+
+
+#hard coded to fetch sbert values from cluster 7 only
+def sentence_bert(df):
+    list_sbert_values = []
+    df_sbert = df[df['cluster'] == 7]
+    df_sbert=df_sbert[["CleanedText"]]
+    df_sbert = df_sbert.reset_index()
+    train = df_sbert.iloc[0,1]
+    # corpus = df_sbert["CleanedText"].to_list()
+    # corpus_embeddings = model.encode(corpus, convert_to_tensor=True)
+    # query_embedding = model.encode(train, convert_to_tensor=True)
+    # cos_scores = util.pytorch_cos_sim(query_embedding, corpus_embeddings)[0]
+    # top_results = torch.topk(cos_scores, k=5)
+    embedding = model.encode(train,convert_to_tensor=True)
+    for i in df_sbert.index:
+        sentance = df_sbert.iloc[i,1]
+        embedding2 = model.encode(sentance,convert_to_tensor=True)
+        sim = util.pytorch_cos_sim(embedding,embedding2)
+        list_sbert_values.append(sim[0][0])
+    df_sbert['list_sbert_values'] = list_sbert_values
+    df_sbert.to_csv(os.getcwd()+r'/output/sbert_topk.csv', index= False)
 
 def fetchInputData (filepath,name):
     finalDate = []
@@ -170,7 +191,8 @@ def tfidf_aggolomative_clustering(df):
     time_taken = time.time() - start_time
     labels = agg.labels_
     pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
-    pubmed_cl.to_csv(os.getcwd()+r'/logs/agglo_title_with_cluster_num.csv', index= False)
+    df['cluster'] = labels
+    df.to_csv(os.getcwd()+r'/output/agglo_with_cluster_num.csv', index= False)
     #print(pubmed_cl.sort_values(by=['cluster']))
     labels = agg.labels_
     print("Tfidf aggolomative time taken: ", time_taken)
@@ -179,31 +201,11 @@ def tfidf_aggolomative_clustering(df):
           "The average silhouette_score is :", silhouette_avg)
     NMI(pred_values)
     show_labels(agg.labels_)
-    generate_wordcloud(10, pubmed_cl, df['CleanedText'])
+    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
     cluster_labels = agg.fit_predict(tfDTM)
-    
-    # The silhouette_score gives the average value for all the samples.
-    # This gives a perspective into the density and separation of the formed
-    # clusters
-    #return agg.labels_
+    sentence_bert(df)
 
 def generate_wordcloud(cluster_size, temp_df, cleanText):
-    dict_names = {
-    0 : "chemoinformatics",
-    1 : "drugs for cancer",
-    2 : "drugs for covid",
-    3 : "food drug interaction",
-    4 : "gene expression",
-    5 : "personaliz",
-    6 : "rna sequencing",
-    7 : "text mining",
-    8 : "toxicogenomics"
-    }
-    # files = glob.glob(r"./logs/wordcloud/")
-
-    for _,_,file in os.walk(r"./logs/wordcloud/"):
-        for f in file:
-            os.remove(r"./logs/wordcloud/"+f)
     result={'cluster':temp_df['cluster'],'CleanedText': list(cleanText)}
     res=pd.DataFrame(result)
     for k in range(0,cluster_size):
@@ -212,24 +214,28 @@ def generate_wordcloud(cluster_size, temp_df, cleanText):
        text=text.lower()
        text=' '.join([word for word in text.split()])
        wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(text)
-       #print('Cluster: {}'.format(k))
+       print('Cluster: {}'.format(k))
        #print('Titles')
        titles=temp_df[temp_df.cluster==k]['title']         
-       #print(titles.to_string(index=False))
-       plt.figure()
+       print(titles.to_string(index=False))
+       #plt.figure()
        plt.imshow(wordcloud, interpolation="bilinear")
        plt.axis("off")
-       plt.savefig("./logs/wordcloud/cloud_"+str(k)+".png")
-
+       plt.savefig(r"D:\biomedical\project_code\logs\cluster"+str(k)+".png")
+       
+       # plt.show()
+       
 def show_labels(str1):
     j=0
     for i in range(9):
         print(str1[j:j+10])
         j+=10
 #uncomment below line for reading trec data
-#df = read_trec(input_TREC)
 
-
+df_pubmed = create_corpus(input_pubmed)
+df_pubmed = apend_clean_text(df_pubmed)
+tfidf_aggolomative_clustering(df_pubmed)
+#tfidf_kmeans(df_pubmed)
 
 def trec_tfidf_aggolomative_clustering(df):
     cv=CountVectorizer(max_features=(100)).fit(df['CleanedText'])
@@ -266,26 +272,13 @@ def trec_tfidf_aggolomative_clustering(df):
     
         # Compute the silhouette scores for each sample
         #sample_silhouette_values = silhouette_samples(tfDTM, cluster_labels)
-    
-#plt.show()
-    
+
+#uncomment below lines for TREC
 # find ways to display cluster and find evalution matrix for trec
-#uncomment below line for TREC
 # df_trec = read_trec(input_TREC)
 # df_trec = apend_clean_text(df_trec)
 # trec_tfidf_aggolomative_clustering(df_trec)
-
-
-
-#to be done from here
 #tfidf_kmeans(df_trec)
 
 #probability scores, disct frm centriud, quantifcatin, relevance, distance between centroid, fartyehrs cluster, scores from 
 #kmeans++ , explainpaper.com, plotly 
-
-
-#uncomment below line for ubmed dataset
-df_pubmed = create_corpus(input_pubmed)
-df_pubmed = apend_clean_text(df_pubmed)
-tfidf_aggolomative_clustering(df_pubmed)
-tfidf_kmeans(df_pubmed)

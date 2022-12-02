@@ -20,6 +20,12 @@ def create_UI():
             save_ip(entered_PMID)
             print( entered_PMID)
             #root.destroy()
+            
+    def Take_k():
+            entered_k = input_k.get("1.0", "end-1c")
+            save_ip(entered_k)
+            print( entered_k)
+            
     def Take_title():
             entered_title = input_title.get("1.0", "end-1c")
             print( entered_title)
@@ -48,18 +54,29 @@ def create_UI():
                      width = 20,
                      text ="Enter Title",
                      command = lambda:Take_title())
+    
+    input_k= Text(root, height = 2,
+                  width = 25,
+                  bg = "White")
+     
+    top_k = Button(root, height = 1,
+                     width = 30,
+                     text ="Enter number of records to fetch (k)",
+                     command = lambda:Take_k())
     close = Button(root, height = 1,
                      width = 20,
                      text ="Exit",
                      command = lambda:close_window())
      
-    l.pack()
-    input_pmid.pack()
-    pmid.pack()
+    l.pack( pady=5)
+    input_pmid.pack( pady=5)
+    pmid.pack( pady=5)
+    input_k.pack( pady=5)
+    top_k.pack( pady=5)
 #    l2.pack()
 #    input_title.pack()
 #    title.pack()
-    close.pack()
+    close.pack( pady=5)
      
     root.mainloop()
 
