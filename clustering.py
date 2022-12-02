@@ -54,6 +54,7 @@ def sentence_bert(df):
     df_sbert['list_sbert_values'] = list_sbert_values
     df_sbert.to_csv(os.getcwd()+r'/output/sbert_topk.csv', index= False)
 
+# parse medline to fetch title, abstract, MESH terms
 def fetchInputData (filepath,name):
     finalDate = []
     with open(filepath,encoding = 'utf-8') as f:
@@ -83,9 +84,9 @@ def fetchInputData (filepath,name):
              'MH':mesh}
             finalDate.append(dict_1)
         df = pd.DataFrame(finalDate)
-    #print(len(df))
     return df
 
+# combine Title, Absract and MH
 def create_corpus(input_folder):
     list_df =[]
     for input_file in os.listdir(input_folder) :
@@ -95,10 +96,10 @@ def create_corpus(input_folder):
         list_df.append(x)
         #print("Got ",len(list_df), " from file",cluster_name)
     final_input_df = pd.concat(list_df)
-    final_input_df.to_csv(os.getcwd()+r'/data/2022MedlineCombined.csv',index = False)
-    df= final_input_df
-    df['MH'] = [''.join(map(str, l)) for l in df['MH']]
-    return df
+    final_input_df['Test'] = final_input_df["Title"] + " " + final_input_df["Abstract"] + " " + final_input_df["MH"]
+    final_input_df.to_csv(os.getcwd()+r'/data/2022MedlineCombined_test.csv',index = False)
+    final_input_df['MH'] = [''.join(map(str, l)) for l in final_input_df['MH']]
+    return final_input_df
     
 #different format for reading TREC data
 def read_trec(input_folder):
@@ -123,7 +124,7 @@ def cleanpunc(sentence):
 def apend_clean_text(df):
     str1=' '
     final_string=[]
-    for sent in df['Abstract'].values:
+    for sent in df['Test'].values:
         filtered_sentence=[]
         #print(sent)
         try:
@@ -230,12 +231,7 @@ def show_labels(str1):
     for i in range(9):
         print(str1[j:j+10])
         j+=10
-#uncomment below line for reading trec data
 
-df_pubmed = create_corpus(input_pubmed)
-df_pubmed = apend_clean_text(df_pubmed)
-tfidf_aggolomative_clustering(df_pubmed)
-#tfidf_kmeans(df_pubmed)
 
 def trec_tfidf_aggolomative_clustering(df):
     cv=CountVectorizer(max_features=(100)).fit(df['CleanedText'])
@@ -282,3 +278,12 @@ def trec_tfidf_aggolomative_clustering(df):
 
 #probability scores, disct frm centriud, quantifcatin, relevance, distance between centroid, fartyehrs cluster, scores from 
 #kmeans++ , explainpaper.com, plotly 
+
+if __name__ == '__main__':
+    #uncomment below line for reading trec data
+    df_pubmed = create_corpus(input_pubmed)
+    df_pubmed = apend_clean_text(df_pubmed)
+    tfidf_aggolomative_clustering(df_pubmed)
+
+    #uncomment to run kmeans clustering
+    tfidf_kmeans(df_pubmed)
