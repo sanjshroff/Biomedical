@@ -164,7 +164,7 @@ def tfidf_kmeans(df):
     start_time = time.time()
     # kmeans=KMeans(n_clusters = 10).fit(tfDTM)
     # clus=kmeans.predict(tfDTM)
-    model = KMeans(n_clusters = 10,init='k-means++', n_jobs = -1,random_state=99)
+    model = KMeans(n_clusters = 10,init='k-means++',random_state=99)
     pred_values = model.fit_predict(tfDTM)
     time_taken = time.time() - start_time
     labels = model.labels_
