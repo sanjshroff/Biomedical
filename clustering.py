@@ -4,7 +4,7 @@ Created on Sun Oct 30 19:46:19 2022
 
 @author: sanjs
 """
-
+#required modules are imported
 from Bio import Medline
 import pandas as pd
 from tqdm import tqdm
