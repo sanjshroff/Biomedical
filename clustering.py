@@ -41,22 +41,17 @@ hard coded to fetch sbert values from cluster 7 only
 def sentence_bert(df):
     list_sbert_values = []
     df_sbert = df[df['cluster'] == 7]
-    df_sbert=df_sbert[["CleanedText"]]
+    df_sbert=df_sbert[["CleanedText","Title"]]
     df_sbert = df_sbert.reset_index()
     train = df_sbert.iloc[0,1]
-    # corpus = df_sbert["CleanedText"].to_list()
-    # corpus_embeddings = model.encode(corpus, convert_to_tensor=True)
-    # query_embedding = model.encode(train, convert_to_tensor=True)
-    # cos_scores = util.pytorch_cos_sim(query_embedding, corpus_embeddings)[0]
-    # top_results = torch.topk(cos_scores, k=5)
     embedding = model.encode(train,convert_to_tensor=True)
     for i in df_sbert.index:
         sentance = df_sbert.iloc[i,1]
         embedding2 = model.encode(sentance,convert_to_tensor=True)
         sim = util.pytorch_cos_sim(embedding,embedding2)
         list_sbert_values.append(sim[0][0])
-    df_sbert['list_sbert_values'] = list_sbert_values
-    df_sbert = df_sbert.sort_values(by=["list_sbert_values"], ascending=False)
+    df_sbert['Similarity score'] = list_sbert_values
+    df_sbert = df_sbert.sort_values(by=["Similarity score"], ascending=False)
     df_sbert.to_csv(os.getcwd()+r'/output/sbert_topk.csv', index= False)
 
 '''
@@ -174,19 +169,19 @@ def tfidf_kmeans(df):
     tfmo=TfidfTransformer().fit(sk)
     tfs=tfmo.transform(sk)
     tfDTM=pd.DataFrame(tfs.toarray(),columns=cv.get_feature_names())
-    start_time = time.time()
+    begin_time = time.time()
     # kmeans=KMeans(n_clusters = 10).fit(tfDTM)
     # clus=kmeans.predict(tfDTM)
     model = KMeans(n_clusters = 10,init='k-means++',random_state=99)
     pred_values = model.fit_predict(tfDTM)
-    time_taken = time.time() - start_time
+    time_taken = time.time() - begin_time
     labels = model.labels_
     pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
     pubmed_cl.to_csv(os.getcwd()+r'/logs/kmeans_title_with_cluster_num.csv', index= False)
     print("Tfidf kmeans time taken: ", time_taken)
     silhouette_avg = silhouette_score(tfs.toarray(), labels, metric='euclidean')
     print("For n_clusters =", 10,
-          "The average silhouette_score is :", silhouette_avg)
+          "Silhouette score Kmeans:", silhouette_avg)
     NMI(pred_values)
     show_labels(model.labels_)
     #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
@@ -199,10 +194,10 @@ def tfidf_aggolomative_clustering(df):
     tfmo=TfidfTransformer().fit(sk)
     tfs=tfmo.transform(sk)
     tfDTM=pd.DataFrame(tfs.toarray(),columns=cv.get_feature_names())
-    start_time = time.time()
+    begin_time = time.time()
     agg = AgglomerativeClustering(n_clusters=10,affinity='euclidean', linkage='ward')
     pred_values = agg.fit_predict(tfDTM)
-    time_taken = time.time() - start_time
+    time_taken = time.time() - begin_time
     labels = agg.labels_
     pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
     df['cluster'] = labels
@@ -212,10 +207,10 @@ def tfidf_aggolomative_clustering(df):
     print("Tfidf aggolomative time taken: ", time_taken)
     silhouette_avg = silhouette_score(tfs.toarray(), labels, metric='euclidean')
     print("For n_clusters =", 10,
-          "The average silhouette_score is :", silhouette_avg)
+          "The silhouette score Agglomerative:", silhouette_avg)
     NMI(pred_values)
     show_labels(agg.labels_)
-    generate_wordcloud(10, pubmed_cl, df['CleanedText'])
+    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
     cluster_labels = agg.fit_predict(tfDTM)
     sentence_bert(df)
 
@@ -244,44 +239,7 @@ def show_labels(str1):
     for i in range(9):
         print(str1[j:j+10])
         j+=10
-
-
-def trec_tfidf_aggolomative_clustering(df):
-    cv=CountVectorizer(max_features=(100)).fit(df['CleanedText'])
-    sk=cv.transform(df['CleanedText'])
-    #tDTM=pd.DataFrame(sk.toarray(),columns=cv.get_feature_names())
-    tfmo=TfidfTransformer().fit(sk)
-    tfs=tfmo.transform(sk)
-    tfDTM=pd.DataFrame(tfs.toarray(),columns=cv.get_feature_names())
-    for n_clusters in range(45,51):
-        # Create a subplot with 1 row and 2 columns
-        #fig, (ax1, ax2) = plt.subplots(1, 2)
-        #fig.set_size_inches(18, 7)
-     
-        # The 1st subplot is the silhouette plot
-        # The silhouette coefficient can range from -1, 1 but in this example all
-        # lie within [-0.1, 1]
-        #ax1.set_xlim([-0.1, 1])
-        # The (n_clusters+1)*10 is for inserting blank space between silhouette
-        # plots of individual clusters, to demarcate them clearly.
-        #ax1.set_ylim([0, len(tfDTM) + (n_clusters) * 10])
-    
-        # Initialize the clusterer with n_clusters value and a random generator
-        # seed of 10 for reproducibility.
         
-        clusterer = AgglomerativeClustering(n_clusters=n_clusters, affinity='euclidean', linkage='ward')
-        cluster_labels = clusterer.fit_predict(tfDTM)
-        labels = clusterer.labels_
-        # The silhouette_score gives the average value for all the samples.
-        # This gives a perspective into the density and separation of the formed
-        # clusters
-        silhouette_avg = silhouette_score(tfs.toarray(), labels, metric='euclidean')
-        print("For n_clusters =", n_clusters,
-              "The average silhouette_score is :", silhouette_avg)
-    
-        # Compute the silhouette scores for each sample
-        #sample_silhouette_values = silhouette_samples(tfDTM, cluster_labels)
-
 #uncomment below lines for TREC
 # find ways to display cluster and find evalution matrix for trec
 # df_trec = read_trec(input_TREC)
