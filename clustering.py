@@ -32,8 +32,12 @@ finalDate = []
 input_pubmed = os.getcwd() + r'\data\Pubmed'
 input_TREC = os.getcwd() + r'\data\2005trec.csv'
 
-
-#hard coded to fetch sbert values from cluster 7 only
+'''
+Definition: Function to find the Cosine similarity between sentences within cluster and the user query
+input: dataframe containing sentences and cluster number
+output: top sentences ordered based on similarity scores   
+hard coded to fetch sbert values from cluster 7 only
+'''
 def sentence_bert(df):
     list_sbert_values = []
     df_sbert = df[df['cluster'] == 7]
@@ -52,9 +56,14 @@ def sentence_bert(df):
         sim = util.pytorch_cos_sim(embedding,embedding2)
         list_sbert_values.append(sim[0][0])
     df_sbert['list_sbert_values'] = list_sbert_values
+    df_sbert = df_sbert.sort_values(by=["list_sbert_values"], ascending=False)
     df_sbert.to_csv(os.getcwd()+r'/output/sbert_topk.csv', index= False)
 
-# parse medline to fetch title, abstract, MESH terms
+'''
+Definition: Function to parse medline to fetch title, abstract, MESH terms
+input: file path of text files containing necessary data about each topic
+output: a CSV with PMID, Title, Abstract and MESH attached
+'''
 def fetchInputData (filepath,name):
     finalDate = []
     with open(filepath,encoding = 'utf-8') as f:
@@ -86,7 +95,11 @@ def fetchInputData (filepath,name):
         df = pd.DataFrame(finalDate)
     return df
 
-# combine Title, Absract and MH
+'''
+Definition: Function to combine title, abstract, MESH terms
+input: file path of text files containing necessary data about each topic
+output: a CSV with PMID, Title, Abstract and MESH attached
+'''
 def create_corpus(input_folder):
     list_df =[]
     for input_file in os.listdir(input_folder) :
@@ -155,7 +168,7 @@ def NMI(predicted):
     print("The NMI score: ", normalized_mutual_info_score(actual, predicted))
 
 def tfidf_kmeans(df):
-    cv=CountVectorizer().fit(df['CleanedText'])
+    cv=CountVectorizer().fit(df['CleanedText']) #change max_features to 200 or None
     sk=cv.transform(df['CleanedText'])
     #tDTM=pd.DataFrame(sk.toarray(),columns=cv.get_feature_names())
     tfmo=TfidfTransformer().fit(sk)
@@ -180,7 +193,7 @@ def tfidf_kmeans(df):
     #return model.fit(sk)
 
 def tfidf_aggolomative_clustering(df):
-    cv=CountVectorizer().fit(df['CleanedText'])
+    cv=CountVectorizer().fit(df['CleanedText']) #change max_features to 200 or None
     sk=cv.transform(df['CleanedText'])
     #tDTM=pd.DataFrame(sk.toarray(),columns=cv.get_feature_names())
     tfmo=TfidfTransformer().fit(sk)
@@ -202,7 +215,7 @@ def tfidf_aggolomative_clustering(df):
           "The average silhouette_score is :", silhouette_avg)
     NMI(pred_values)
     show_labels(agg.labels_)
-    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
+    generate_wordcloud(10, pubmed_cl, df['CleanedText'])
     cluster_labels = agg.fit_predict(tfDTM)
     sentence_bert(df)
 
@@ -222,7 +235,7 @@ def generate_wordcloud(cluster_size, temp_df, cleanText):
        #plt.figure()
        plt.imshow(wordcloud, interpolation="bilinear")
        plt.axis("off")
-       plt.savefig(r"D:\biomedical\project_code\logs\cluster"+str(k)+".png")
+       plt.savefig(os.getcwd()+r"/logs/wordcloud/cluster"+str(k)+".png")
        
        # plt.show()
        
