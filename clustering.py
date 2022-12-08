@@ -4,7 +4,7 @@ Created on Sun Oct 30 19:46:19 2022
 
 @author: sanjs
 """
-#required modules are imported
+#required modules are importedpi
 from Bio import Medline
 import pandas as pd
 from tqdm import tqdm
@@ -25,12 +25,14 @@ from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering 
 from sklearn.metrics.cluster import normalized_mutual_info_score
 from sklearn.metrics import silhouette_samples, silhouette_score
-from sentence_transformers import SentenceTransformer,util
+import sklearn.metrics as metrics
+# from sentence_transformers import SentenceTransformer,util
 #count_vect = CountVectorizer()
 model = SentenceTransformer('all-MiniLM-L6-v2')
 finalDate = []
 input_pubmed = os.getcwd() + r'\data\Pubmed'
 input_TREC = os.getcwd() + r'\data\2005trec.csv'
+
 
 
 #hard coded to fetch sbert values from cluster 7 only
@@ -108,6 +110,7 @@ def read_trec(input_folder):
     df['MESH'] = [''.join(map(str, l)) for l in df['MESH']]
     print(df.head())
     return df
+
 
 #function to clean the word of any html-tags
 def cleanhtml(sentence): 
@@ -276,8 +279,100 @@ def trec_tfidf_aggolomative_clustering(df):
 # trec_tfidf_aggolomative_clustering(df_trec)
 #tfidf_kmeans(df_trec)
 
+
 #probability scores, disct frm centriud, quantifcatin, relevance, distance between centroid, fartyehrs cluster, scores from 
 #kmeans++ , explainpaper.com, plotly 
+
+
+
+#### Trec 2005 genomacis data code for agglomerative clustering and kmeans
+
+def trec(data_path):
+    input_TREC = os.getcwd() + data_path
+
+    data=pd.read_csv(input_TREC)
+    ## removing null values for the abstract and joining the title,abstract,mesh into test column
+    def removenull(data):
+        trec_data=data.dropna().reset_index(drop='True')
+        true_labels=trec_data['TOPICID']
+        trec_data['Test']=trec_data["Title"] + " " + trec_data["Abstract"] + " " + trec_data["MESH"]
+        trec_data_test=trec_data['Test']
+#         trec_data.to_csv(os.getcwd()+r'/data/2005trec_test.csv',index=False)
+        trec_data['MESH']=[''.join(map(str, l)) for l in trec_data['MESH']]
+        return trec_data_test,true_labels
+    
+    ## performing text preprocessing by removing stopwords html tags
+    def text_preprocessing(text,stem,stopwords_list=None):
+        text.lower()
+        htmlr = re.compile('<.*?>')
+        text = re.sub(htmlr, ' ', text)        
+        text = re.sub(r'[?|!|\'|"|#]',r'',text)
+        text = re.sub(r'[.|,|)|(|\|/]',r' ',text)
+    
+        text_lst = text.split()
+    
+        if stopwords_list is not None:
+            text_lst = [word for word in text_lst if word not in stopwords_list ]
+    
+        if stem == True:
+            snow_stem = nltk.stem.SnowballStemmer('english')
+            text_lst = [snow_stem.stem(word) for word in text_lst]
+        
+        text = " ".join(text_lst)
+        return text
+    
+    lst_stopwords = nltk.corpus.stopwords.words("english")
+
+    
+    ### calculating the tfidf matrix
+    def get_tfidf_vector(cleaned_text):
+        Count_Vect= CountVectorizer(max_features = 2000)
+        cv=Count_Vect.fit_transform(cleaned_text)
+        cv1=pd.DataFrame(cv.toarray())
+        tfidf=TfidfTransformer().fit(cv)
+        tfidf1=tfidf.transform(cv)
+        tfidf_data=pd.DataFrame(tfidf1.toarray())
+        return tfidf_data
+    ### calcultaing nmi score
+    def NMI_trec(predicted,actual):
+        print("The NMI score: ", normalized_mutual_info_score(actual, predicted))
+
+    ### calculating trec agglomerative clustering for trec data
+    def trec_agglomerative(df,actual):
+        print("Trec agglomerative")
+        for index, linkage in enumerate(('average', 'complete', 'ward')):
+            model = AgglomerativeClustering(linkage=linkage,n_clusters=50,)
+            t0 = time.time()
+            labels=model.fit_predict(df)
+            elapsed_time = time.time() - t0
+            print(linkage)
+            print("time taken",elapsed_time)
+            score= metrics.silhouette_score(df,labels)
+            print("silhouette score",score)
+            NMI_trec(actual,labels)
+            print(" ")
+
+### calculating the kmeans clustering for trec data
+    def trec_kmeans(df,actual):
+        print('Trec kmeans')
+        kclustering = KMeans(n_clusters=50,init='k-means++', n_init = 20,random_state=42,)
+        t0=time.time()
+        labels=kclustering.fit_predict(df)
+        elapsed_time = time.time() - t0
+        print("time taken",elapsed_time)
+        #measure clsuter perf
+        silhouette_score = metrics.silhouette_score(df,labels)
+        print("silhoutte score",silhouette_score)
+        NMI_trec(actual,labels)
+    
+    
+    data_trec,actual = removenull(data)
+    cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
+    tfidf_data=get_tfidf_vector(cleaned_text)
+    trec_agglomerative(tfidf_data,actual)
+    trec_kmeans(tfidf_data,actual)
+
+
 
 if __name__ == '__main__':
     #uncomment below line for reading trec data
@@ -287,3 +382,10 @@ if __name__ == '__main__':
 
     #uncomment to run kmeans clustering
     tfidf_kmeans(df_pubmed)
+
+    ### this is original data which contains the topic id and title,mesh pmid,abstract,document relevance so uses this data for trec   
+    trec('/data/2005_Trec_genomacis.csv')
+    
+
+    
+
