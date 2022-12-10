@@ -7,6 +7,7 @@ Created on Wed Oct 26 16:53:45 2022
 
 from tkinter import Tk,Label,Text,Button
 from Bio import Entrez
+from tkinter_output import display_title_scores
 
 a = []
 
@@ -26,9 +27,6 @@ def create_UI():
             save_ip(entered_k)
             print( entered_k)
             
-    def Take_title():
-            entered_title = input_title.get("1.0", "end-1c")
-            print( entered_title)
     def close_window():
         root.destroy()
     root = Tk()
@@ -49,12 +47,7 @@ def create_UI():
                      width = 20,
                      text ="Enter PMID",
                      command =lambda:Take_pmid())
-    
-    title = Button(root, height = 1,
-                     width = 20,
-                     text ="Enter Title",
-                     command = lambda:Take_title())
-    
+
     input_k= Text(root, height = 2,
                   width = 25,
                   bg = "White")
@@ -73,11 +66,7 @@ def create_UI():
     pmid.pack( pady=5)
     input_k.pack( pady=5)
     top_k.pack( pady=5)
-#    l2.pack()
-#    input_title.pack()
-#    title.pack()
     close.pack( pady=5)
-     
     root.mainloop()
 
 def fetch_pmid_db(entered_PMID):
@@ -97,6 +86,7 @@ def fetch_pmid_db(entered_PMID):
                 abstract = article['MedlineCitation']['Article']['Abstract']
                 abstract_text = abstract['AbstractText'][0]
                 print(abstract_text)
+        return abstract_text
     except:
         
         print("Unable to fetch record for",entered_PMID)
@@ -104,7 +94,7 @@ def fetch_pmid_db(entered_PMID):
 if __name__ == '__main__':
     entered_PMID = 0
     user_input_pmid = create_UI()
-    print(a)
-    fetch_pmid_db(a[-1])
-    
+    #print(a)
+    new_text = fetch_pmid_db(a[1])
+    display_title_scores()
 
