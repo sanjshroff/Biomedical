@@ -12,7 +12,6 @@ import os
 import time
 import re
 import nltk
-import torch
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 nltk.download('stopwords')
@@ -31,16 +30,22 @@ count_vect = CountVectorizer()
 model = SentenceTransformer('all-MiniLM-L6-v2')
 finalDate = []
 input_pubmed = os.getcwd() + r'\data\Pubmed'
-# input_TREC = os.getcwd() + r'\data\2005trec.csv'
-
 input_TREC= os.getcwd() + r'\data\2005_Trec_genomacis.csv'
 
-
-
-# hard coded to fetch sbert values from cluster 7 only
-def sentence_bert(df):
+'''
+Definition: Function to find the Cosine similarity between sentences within cluster and the user query
+input: dataframe containing sentences and cluster number
+output: top sentences ordered based on similarity scores   
+hard coded to fetch sbert values from cluster 7 only
+'''
+def sentence_bert(df,user_input_pmid):
     list_sbert_values = []
-    df_sbert = df[df['cluster'] == 7]
+    cluster_number = 1
+    if user_input_pmid:
+        print("User entered PMID:   ", user_input_pmid)
+        cluster_number = df.loc[df['PMID'] == user_input_pmid, 'cluster'].iloc[0]
+        print(cluster_number)
+    df_sbert = df[df['cluster'] == cluster_number]
     df_sbert=df_sbert[["CleanedText","Title"]]
     df_sbert = df_sbert.reset_index()
     train = df_sbert.iloc[0,1]
@@ -62,13 +67,12 @@ output: a CSV with PMID, Title, Abstract and MESH attached
 def fetchInputData (filepath,name):
     finalDate = []
     with open(filepath,encoding = 'utf-8') as f:
-        #values_each_pmid = []
         list_of_pmid = Medline.parse(f)
         for pmid in list_of_pmid:
             try:
                 pid = pmid['PMID']
             except:
-                pip = ''
+                pid = ''
             try:
                 title = pmid['TI']
             except:
@@ -79,19 +83,19 @@ def fetchInputData (filepath,name):
                 abstract = ''
             try:
                 mesh = " ".join(pmid['MH'])
-                #print(mesh)
             except:
                 mesh = ''
-            dict_1 = {'PMID':pid,
-               'Title':title,
-               'Abstract':abstract,
-             'MH':mesh}
+            dict_1 = {'PMID':pid,'Title':title,'Abstract':abstract,'MH':mesh}
             finalDate.append(dict_1)
         df = pd.DataFrame(finalDate)
     return df
 
-# combine Title, Absract and MH for pubmed dataset
-def create_corpus(input_folder):
+'''
+Definition: Function to combine title, abstract, MESH terms
+input: file path of text files containing necessary data about each topic
+output: a CSV with PMID, Title, Abstract and MESH attached
+'''
+def create_corpus(input_folder, inputList=[]):
     list_df =[]
     for input_file in os.listdir(input_folder) :
         #print(input_file)
@@ -100,19 +104,14 @@ def create_corpus(input_folder):
         list_df.append(x)
         #print("Got ",len(list_df), " from file",cluster_name)
     final_input_df = pd.concat(list_df)
+    if len(inputList) == 4:
+        final_input_df.loc[len(final_input_df)] = inputList
+    else:
+        print("Input criterion not met, either Title/abstract/MESH missing for given PMID")
     final_input_df['Test'] = final_input_df["Title"] + " " + final_input_df["Abstract"] + " " + final_input_df["MH"]
     final_input_df.to_csv(os.getcwd()+r'/data/2022MedlineCombined_test.csv',index = False)
     final_input_df['MH'] = [''.join(map(str, l)) for l in final_input_df['MH']]
     return final_input_df
-    
-# #different format for reading TREC data
-# def read_trec(input_folder):
-#     trec_ip = pd.read_csv(input_TREC)
-#     df= trec_ip
-#     df['MESH'] = [''.join(map(str, l)) for l in df['MESH']]
-#     print(df.head())
-#     return df
-
 
 #function to clean the word of any html-tags
 def cleanhtml(sentence): 
@@ -152,7 +151,6 @@ def apend_clean_text(df):
         
     df['CleanedText']=final_string
     df['CleanedText']=df['CleanedText'].str.decode("utf-8")
-    print(df.head())
     return df
 
 # removing null values for the abstract and joining the title,abstract,mesh into test column
@@ -162,7 +160,6 @@ def removenull(data):
     true_labels=trec_data['TOPICID']
     trec_data['Test']=trec_data["Title"] + " " + trec_data["Abstract"] + " " + trec_data["MESH"]
     trec_data_test=trec_data['Test']
-#         trec_data.to_csv(os.getcwd()+r'/data/2005trec_test.csv',index=False)
     trec_data['MESH']=[''.join(map(str, l)) for l in trec_data['MESH']]
     return trec_data_test,true_labels
     
@@ -191,103 +188,88 @@ lst_stopwords = nltk.corpus.stopwords.words("english")
 def NMI(predicted,actual,isTREC):
     if(not isTREC):
         actual = [i//10 for i in range(len(predicted))]
-        print("The NMI score: ", normalized_mutual_info_score(actual, predicted))
+        print("NMI score: ", normalized_mutual_info_score(actual, predicted))
     else:
-         print("The NMI score: ", normalized_mutual_info_score(actual, predicted))
+         print("NMI score: ", normalized_mutual_info_score(actual, predicted))
 
+
+def tfidf_vectorization(df_col,mf = None):
+    count_vectors=CountVectorizer(max_features=mf)
+    vectors=count_vectors.fit_transform(df_col)
+    transform_vectors=TfidfTransformer().fit(vectors)
+    final_vectors=transform_vectors.transform(vectors) 
+    return pd.DataFrame(final_vectors.toarray())
 
 def tfidf_kmeans(df):
-    cv=CountVectorizer().fit(df['CleanedText']) #change max_features to 200 or None
-    sk=cv.transform(df['CleanedText'])
-    #tDTM=pd.DataFrame(sk.toarray(),columns=cv.get_feature_names())
-    tfmo=TfidfTransformer().fit(sk)
-    tfs=tfmo.transform(sk)
-    tfDTM=pd.DataFrame(tfs.toarray(),columns=cv.get_feature_names())
+    tfidf = tfidf_vectorization(df['CleanedText'])
     begin_time = time.time()
-    # kmeans=KMeans(n_clusters = 10).fit(tfDTM)
-    # clus=kmeans.predict(tfDTM)
     model = KMeans(n_clusters = 10,init='k-means++',random_state=99)
-    pred_values = model.fit_predict(tfDTM)
+    pred_values = model.fit_predict(tfidf)
     time_taken = time.time() - begin_time
     labels = model.labels_
     pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
-    pubmed_cl.to_csv(os.getcwd()+r'/logs/kmeans_title_with_cluster_num.csv', index= False)
-    print("Tfidf kmeans time taken: ", time_taken)
-    silhouette_avg = silhouette_score(tfs.toarray(), labels, metric='euclidean')
-    print("For n_clusters =", 10,
-          "The average silhouette_score is :", silhouette_avg)
+    pubmed_cl.to_csv(os.getcwd()+r'/output/kmeans_title_with_cluster_num.csv', index= False)
+    print('******************************************************************************\n')
+    print('kmeans on prepared dataset : PubMed Dataset')
+    print("time taken", time_taken)
+    silhouette_avg = silhouette_score(tfidf, labels)
+    print("silhouette score", silhouette_avg)
     NMI(pred_values,None,False)
     show_labels(model.labels_)
-    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
-    #return model.fit(sk)
+    print('******************************************************************************\n')
 
-def tfidf_aggolomative_clustering(df):
-    cv=CountVectorizer().fit(df['CleanedText']) #change max_features to 200 or None
-    sk=cv.transform(df['CleanedText'])
-    #tDTM=pd.DataFrame(sk.toarray(),columns=cv.get_feature_names())
-    tfmo=TfidfTransformer().fit(sk)
-    tfs=tfmo.transform(sk)
-    tfDTM=pd.DataFrame(tfs.toarray(),columns=cv.get_feature_names())
+def tfidf_aggolomerative_clustering(df,user_input_pmid = 0):
+    tfidf = tfidf_vectorization(df['CleanedText'])
     begin_time = time.time()
-    agg = AgglomerativeClustering(n_clusters=10,affinity='euclidean', linkage='ward')
-    pred_values = agg.fit_predict(tfDTM)
+    agg = AgglomerativeClustering(n_clusters=10, linkage='ward')
+    pred_values = agg.fit_predict(tfidf)
     time_taken = time.time() - begin_time
     labels = agg.labels_
-    pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
     df['cluster'] = labels
     df.to_csv(os.getcwd()+r'/output/agglo_with_cluster_num.csv', index= False)
-    #print(pubmed_cl.sort_values(by=['cluster']))
     labels = agg.labels_
-    print("Tfidf aggolomative time taken: ", time_taken)
-    silhouette_avg = silhouette_score(tfs.toarray(), labels, metric='euclidean')
-    print("For n_clusters =", 10,
-          "The average silhouette_score is :", silhouette_avg)
+    print('******************************************************************************\n')
+    print('Agglomerative on prepared dataset : PubMed Dataset')
+    print("time taken", time_taken)
+    silhouette_avg = silhouette_score(tfidf, labels)
+    print("silhouette_score :", silhouette_avg)
     NMI(pred_values,None,False)
     show_labels(agg.labels_)
-    #generate_wordcloud(10, pubmed_cl, df['CleanedText'])
-    cluster_labels = agg.fit_predict(tfDTM)
-    sentence_bert(df)
+    sentence_bert(df,user_input_pmid)
+    print('******************************************************************************\n')
 
 ### calculating trec agglomerative clustering for trec data
 def trec_agglomerative(cleaned_text,actual):
-    print("Trec agglomerative")
-    Count_Vect= CountVectorizer(max_features = 2000)
-    cv=Count_Vect.fit_transform(cleaned_text)
-    cv1=pd.DataFrame(cv.toarray())
-    tfidf=TfidfTransformer().fit(cv)
-    tfidf1=tfidf.transform(cv)
-    tfidf_data=pd.DataFrame(tfidf1.toarray())
+    print('******************************************************************************\n')
+    print('Agglomerative on Ground Truth : TREC Dataset')
+    tfidf = tfidf_vectorization(cleaned_text,2000)
     for index, linkage in enumerate(('average', 'complete', 'ward')):
         model = AgglomerativeClustering(linkage=linkage,n_clusters=50,)
         t0 = time.time()
-        labels=model.fit_predict(tfidf_data)
+        labels=model.fit_predict(tfidf)
         elapsed_time = time.time() - t0
         print(linkage)
-        print("time taken",elapsed_time)
-        score= metrics.silhouette_score(tfidf_data,labels)
-        print("silhouette score",score)
+        print("Time taken : ",elapsed_time)
+        score= metrics.silhouette_score(tfidf,labels)
+        print("Silhouette score : ",score)
         NMI(labels,actual,True)
-        show_labels(labels)
-        print(" ")
+    print('******************************************************************************\n')
+        
 ### calculating the kmeans clustering for trec data
 def trec_kmeans(cleaned_text,actual):
-    print('Trec kmeans')
-    Count_Vect= CountVectorizer(max_features = 2000)
-    cv=Count_Vect.fit_transform(cleaned_text)
-    cv1=pd.DataFrame(cv.toarray())
-    tfidf=TfidfTransformer().fit(cv)
-    tfidf1=tfidf.transform(cv)
-    tfidf_data=pd.DataFrame(tfidf1.toarray())
+    print('******************************************************************************\n')
+    print('kmeans on Ground Truth : TREC Dataset')
+    tfidf = tfidf_vectorization(cleaned_text,2000)
     kclustering = KMeans(n_clusters=50,init='k-means++', n_init = 20,random_state=42,)
     t0=time.time()
-    labels=kclustering.fit_predict(tfidf_data)
+    labels=kclustering.fit_predict(tfidf)
     elapsed_time = time.time() - t0
-    print("time taken",elapsed_time)
-    #measure clsuter perf
-    silhouette_score = metrics.silhouette_score(tfidf_data,labels)
-    print("silhoutte score",silhouette_score)
+    print("Time taken : ",elapsed_time)
+    silhouette_score = metrics.silhouette_score(tfidf,labels)
+    print("Silhoutte score : ",silhouette_score)
     NMI(labels,actual,True)
-    show_labels(labels)
+    print('******************************************************************************\n')
+    
 
 def generate_wordcloud(cluster_size, temp_df, cleanText):
     result={'cluster':temp_df['cluster'],'CleanedText': list(cleanText)}
@@ -298,42 +280,23 @@ def generate_wordcloud(cluster_size, temp_df, cleanText):
        text=text.lower()
        text=' '.join([word for word in text.split()])
        wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(text)
-       print('Cluster: {}'.format(k))
-       #print('Titles')
        titles=temp_df[temp_df.cluster==k]['title']         
-       print(titles.to_string(index=False))
-       #plt.figure()
        plt.imshow(wordcloud, interpolation="bilinear")
        plt.axis("off")
        plt.savefig(os.getcwd()+r"/logs/wordcloud/cluster"+str(k)+".png")
        
-       # plt.show()
-       
 def show_labels(str1):
     j=0
+    print("Output Labels")
     for i in range(9):
         print(str1[j:j+10])
         j+=10
-        
-#uncomment below lines for TREC
-# find ways to display cluster and find evalution matrix for trec
-# df_trec = read_trec(input_TREC)
-# df_trec = apend_clean_text(df_trec)
-# trec_tfidf_aggolomative_clustering(df_trec)
-#tfidf_kmeans(df_trec)
-
-
-#probability scores, disct frm centriud, quantifcatin, relevance, distance between centroid, fartyehrs cluster, scores from 
-#kmeans++ , explainpaper.com, plotly 
-
 
 if __name__ == '__main__':
-    #uncomment below line for reading trec data
+    #retrieving data from pbmed data
     df_pubmed = create_corpus(input_pubmed)
     df_pubmed = apend_clean_text(df_pubmed)
-    tfidf_aggolomative_clustering(df_pubmed)
-
-    #uncomment to run kmeans clustering
+    tfidf_aggolomerative_clustering(df_pubmed)
     tfidf_kmeans(df_pubmed)
 
     #trec data
@@ -341,5 +304,3 @@ if __name__ == '__main__':
     cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
     trec_agglomerative(cleaned_text,actual)
     trec_kmeans(cleaned_text,actual)
-    
-

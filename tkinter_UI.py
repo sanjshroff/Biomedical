@@ -4,45 +4,43 @@ Created on Wed Oct 26 16:53:45 2022
 
 @author: sanjs
 """
-
+import os
 from tkinter import Tk,Label,Text,Button
 from Bio import Entrez
 from tkinter_output import display_title_scores
+from clustering import create_corpus, tfidf_aggolomerative_clustering, apend_clean_text
+user_ip = []
 
-a = []
-
-def save_ip(b):
-    a.append(b)
-    print("saving a",a,b)
+def save_input(ip):
+    user_ip.append(ip)
 
 def create_UI():
+
+    #store the PMID entered by user
     def Take_pmid():
             entered_PMID = input_pmid.get("1.0", "end-1c")
-            save_ip(entered_PMID)
-            print( entered_PMID)
-            #root.destroy()
+            save_input(entered_PMID)
             
+    #enter the number of k entered
     def Take_k():
             entered_k = input_k.get("1.0", "end-1c")
-            save_ip(entered_k)
-            print( entered_k)
-            
+            save_input(entered_k)
+            root.destroy()
+
+    #terminate the window when close is clicked        
     def close_window():
         root.destroy()
+
     root = Tk()
     root.geometry("300x300")
     root.title("MEDLINE")
     
-    l = Label(text = "Enter the PMID here ")
-    l2 = Label(text = "Enter the Title here ")
+    pmid_label = Label(text = "Enter the PMID here ")
+
     input_pmid = Text(root, height = 5,
                     width = 25,
                     bg = "White")
-     
-    input_title = Text(root, height = 5,
-                  width = 25,
-                  bg = "light cyan")
-     
+
     pmid = Button(root, height = 1,
                      width = 20,
                      text ="Enter PMID",
@@ -56,12 +54,14 @@ def create_UI():
                      width = 30,
                      text ="Enter number of records to fetch (k)",
                      command = lambda:Take_k())
+
     close = Button(root, height = 1,
                      width = 20,
                      text ="Exit",
                      command = lambda:close_window())
-     
-    l.pack( pady=5)
+    
+    #placing all elements on the tkinter
+    pmid_label.pack( pady=5)
     input_pmid.pack( pady=5)
     pmid.pack( pady=5)
     input_k.pack( pady=5)
@@ -70,31 +70,49 @@ def create_UI():
     root.mainloop()
 
 def fetch_pmid_db(entered_PMID):
+    # Fetching PubMed records from online NCBI database
     Entrez.email = 'sanjshroff2@gmail.com'
-    
-    # Fetching PubMed records from the NCBI Entrez DB.
+    print('******************************************************************************\n')
     print('Retrieving PubMed abstract for',entered_PMID)
-    try:
+    allValues = [entered_PMID]
+    try: 
         handle = Entrez.efetch(
                     db="pubmed",
-                    id=entered_PMID, #30419345,
+                    id=entered_PMID, # Enter 30419345 as trial input
                     rettype="full",
                     retmode="xml")
         records = Entrez.read(handle)
+
         for article in records['PubmedArticle']:
+
+            if 'ArticleTitle' in article['MedlineCitation']['Article'].keys():
+                title = article['MedlineCitation']['Article']['ArticleTitle']
+                print(title)
+                allValues.append(title)
+
             if 'Abstract' in article['MedlineCitation']['Article'].keys():
                 abstract = article['MedlineCitation']['Article']['Abstract']
                 abstract_text = abstract['AbstractText'][0]
-                print(abstract_text)
-        return abstract_text
-    except:
-        
-        print("Unable to fetch record for",entered_PMID)
+                allValues.append(abstract_text)
+            
+            if 'MeshHeadingList' in article['MedlineCitation']:
+                mesh = article['MedlineCitation']['MeshHeadingList']
+                m = ""
+                for x in mesh:
+                    m = m +" "+ x.get("DescriptorName")
+                allValues.append(m)
 
+        return allValues
+    except:   
+        print("Unable to fetch record for",entered_PMID)
+    print('******************************************************************************\n')
 if __name__ == '__main__':
     entered_PMID = 0
     user_input_pmid = create_UI()
-    #print(a)
-    new_text = fetch_pmid_db(a[1])
-    display_title_scores()
-
+    #send first input as pmid
+    user_input = fetch_pmid_db(user_ip[0])
+    input_pubmed = os.getcwd() + r'\data\Pubmed'
+    df_pubmed = create_corpus(input_pubmed,user_input)
+    df_pubmed = apend_clean_text(df_pubmed)
+    tfidf_aggolomerative_clustering(df_pubmed,user_input[0])
+    display_title_scores(int(user_ip[1]))
