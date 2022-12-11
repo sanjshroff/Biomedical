@@ -188,10 +188,9 @@ lst_stopwords = nltk.corpus.stopwords.words("english")
 def NMI(predicted,actual,isTREC):
     if(not isTREC):
         actual = [i//10 for i in range(len(predicted))]
-        print("NMI score: ", normalized_mutual_info_score(actual, predicted))
+        print("NMI score : ", normalized_mutual_info_score(actual, predicted))
     else:
-         print("NMI score: ", normalized_mutual_info_score(actual, predicted))
-
+         print("NMI score : ", normalized_mutual_info_score(actual, predicted))
 
 def tfidf_vectorization(df_col,mf = None):
     count_vectors=CountVectorizer(max_features=mf)
@@ -211,9 +210,9 @@ def tfidf_kmeans(df):
     pubmed_cl.to_csv(os.getcwd()+r'/output/kmeans_title_with_cluster_num.csv', index= False)
     print('******************************************************************************\n')
     print('kmeans on prepared dataset : PubMed Dataset')
-    print("time taken", time_taken)
+    print("Time taken : ", time_taken)
     silhouette_avg = silhouette_score(tfidf, labels)
-    print("silhouette score", silhouette_avg)
+    print("Silhouette score : ", silhouette_avg)
     NMI(pred_values,None,False)
     show_labels(model.labels_)
     print('******************************************************************************\n')
@@ -230,9 +229,9 @@ def tfidf_aggolomerative_clustering(df,user_input_pmid = 0):
     labels = agg.labels_
     print('******************************************************************************\n')
     print('Agglomerative on prepared dataset : PubMed Dataset')
-    print("time taken", time_taken)
+    print("Time taken : ", time_taken)
     silhouette_avg = silhouette_score(tfidf, labels)
-    print("silhouette_score :", silhouette_avg)
+    print("Silhouette score : ", silhouette_avg)
     NMI(pred_values,None,False)
     show_labels(agg.labels_)
     sentence_bert(df,user_input_pmid)
@@ -293,13 +292,13 @@ def show_labels(str1):
         j+=10
 
 if __name__ == '__main__':
-    #retrieving data from pbmed data
+    #retrieving data from pubmed dataset
     df_pubmed = create_corpus(input_pubmed)
     df_pubmed = apend_clean_text(df_pubmed)
     tfidf_aggolomerative_clustering(df_pubmed)
     tfidf_kmeans(df_pubmed)
 
-    #trec data
+    #retrieving data from TREC dataset
     data_trec,actual = removenull(input_TREC)
     cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
     trec_agglomerative(cleaned_text,actual)
