@@ -7,23 +7,24 @@ Created on Sun Oct 30 19:46:19 2022
 #required modules are importedpi
 from Bio import Medline
 import pandas as pd
-from tqdm import tqdm
 import os
 import time
 import re
 import nltk
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import string
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 sno = nltk.stem.SnowballStemmer('english') 
 stop=set(stopwords.words('english'))
+lst_stopwords = nltk.corpus.stopwords.words("english")
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering 
 from sklearn.metrics.cluster import normalized_mutual_info_score
-from sklearn.metrics import silhouette_samples, silhouette_score
+from sklearn.metrics import silhouette_score
 import sklearn.metrics as metrics
 from sentence_transformers import SentenceTransformer,util
 count_vect = CountVectorizer()
@@ -39,17 +40,25 @@ output: top sentences ordered based on similarity scores
 hard coded to fetch sbert values from cluster 7 only
 '''
 def sentence_bert(df,user_input_pmid):
+    
     list_sbert_values = []
+    #when no input is given, using cluster number 1 as reference and finding the relevent documents for first document
     cluster_number = 1
+    query_set = False
+
     if user_input_pmid:
         print("User entered PMID:   ", user_input_pmid)
         cluster_number = df.loc[df['PMID'] == user_input_pmid, 'cluster'].iloc[0]
         print(cluster_number)
+        query = df.loc[df['PMID'] == user_input_pmid, 'CleanedText'].iloc[0]
+        query_set = True
     df_sbert = df[df['cluster'] == cluster_number]
-    df_sbert=df_sbert[["CleanedText","Title"]]
+    df_sbert=df_sbert[['CleanedText',"Title"]]
+    #if user input is not given take first document in cluster 1 as the query
+    if not query_set:
+        query = df_sbert.iloc[0,1]
     df_sbert = df_sbert.reset_index()
-    train = df_sbert.iloc[0,1]
-    embedding = model.encode(train,convert_to_tensor=True)
+    embedding = model.encode(query,convert_to_tensor=True)
     for i in df_sbert.index:
         sentance = df_sbert.iloc[i,1]
         embedding2 = model.encode(sentance,convert_to_tensor=True)
@@ -64,29 +73,21 @@ Definition: Function to parse medline to fetch title, abstract, MESH terms
 input: file path of text files containing necessary data about each topic
 output: a CSV with PMID, Title, Abstract and MESH attached
 '''
-def fetchInputData (filepath,name):
+def fetchInputData (filepath):
     finalDate = []
     with open(filepath,encoding = 'utf-8') as f:
         list_of_pmid = Medline.parse(f)
         for pmid in list_of_pmid:
+            mesh = ""
             try:
                 pid = pmid['PMID']
-            except:
-                pid = ''
-            try:
                 title = pmid['TI']
-            except:
-                title = ''
-            try:
                 abstract = pmid['AB']
-            except:
-                abstract = ''
-            try:
                 mesh = " ".join(pmid['MH'])
             except:
-                mesh = ''
-            dict_1 = {'PMID':pid,'Title':title,'Abstract':abstract,'MH':mesh}
-            finalDate.append(dict_1)
+                pass
+            dict_values = {'PMID':pid,'Title':title,'Abstract':abstract,'MH':mesh}
+            finalDate.append(dict_values)
         df = pd.DataFrame(finalDate)
     return df
 
@@ -98,11 +99,9 @@ output: a CSV with PMID, Title, Abstract and MESH attached
 def create_corpus(input_folder, inputList=[]):
     list_df =[]
     for input_file in os.listdir(input_folder) :
-        #print(input_file)
-        cluster_name = input_file.split("\\")[0].split("-")[1]
-        x = fetchInputData(input_folder+"\\"+input_file,cluster_name)
+        #cluster_name = input_file.split("\\")[0].split("-")[1]
+        x = fetchInputData(input_folder+"\\"+input_file)
         list_df.append(x)
-        #print("Got ",len(list_df), " from file",cluster_name)
     final_input_df = pd.concat(list_df)
     if len(inputList) == 4:
         final_input_df.loc[len(final_input_df)] = inputList
@@ -113,41 +112,37 @@ def create_corpus(input_folder, inputList=[]):
     final_input_df['MH'] = [''.join(map(str, l)) for l in final_input_df['MH']]
     return final_input_df
 
-#function to clean the word of any html-tags
-def cleanhtml(sentence): 
-    cleanr = re.compile('<.*?>')
-    cleantext = re.sub(cleanr, ' ', sentence)
-    return cleantext
+#function to clean the word of any punctuation
+def remove_punctuations(sentence):
+    clean_text = sentence.translate(str.maketrans('', '', string.punctuation))
+    return  clean_text
 
- #function to clean the word of any punctuation or special characters
-def cleanpunc(sentence):
-    cleaned = re.sub(r'[?|!|\'|"|#]',r'',sentence)
-    cleaned = re.sub(r'[.|,|)|(|\|/]',r' ',cleaned)
-    return  cleaned
-
+'''
+Definition: function to remove punctuations, stop words and change all letters to lower case
+input: data frame having uncleaned text
+output: data frame after cleaning text fields
+'''
 def apend_clean_text(df):
-    str1=' '
+    str_temp=' '
     final_string=[]
-    for sent in df['Test'].values:
-        filtered_sentence=[]
-        #print(sent)
+    for sentance in df['Test'].values:
+        filtering=[]
         try:
-            for w in sent.split():
-                for cleaned_words in cleanpunc(w).split():
-                    if((cleaned_words.isalpha()) & (len(cleaned_words)>2)):    
-                        if(cleaned_words.lower() not in stop):
-                            s=(sno.stem(cleaned_words.lower())).encode('utf8')
-                            filtered_sentence.append(s)
+            for word in sentance.split():
+                for remove_punct in remove_punctuations(word).split():
+                    if((remove_punct.isalpha()) & (len(remove_punct)>2)):    
+                        if(remove_punct.lower() not in stop):
+                            stemmed=(sno.stem(remove_punct.lower())).encode('utf8')
+                            filtering.append(stemmed)
                         else:
                             continue
                     else:
                         continue 
         except:
-            print("failed to load sentence")
-        #filtered sentence
-        str1 = b" ".join(filtered_sentence) 
-        #final string of cleaned words 
-        final_string.append(str1)
+            print("failed to clean sentence")
+
+        str_temp = b" ".join(filtering) 
+        final_string.append(str_temp)
         
     df['CleanedText']=final_string
     df['CleanedText']=df['CleanedText'].str.decode("utf-8")
@@ -163,14 +158,13 @@ def removenull(data):
     trec_data['MESH']=[''.join(map(str, l)) for l in trec_data['MESH']]
     return trec_data_test,true_labels
     
-## Removing null values in the abstract and combing the Title, Abstract and mesh for the Trec dataset
+# Removing null values in the abstract and combing the Title, Abstract and mesh for the Trec dataset
 def text_preprocessing(text,stem,stopwords_list=None):
     text.lower()
     htmlr = re.compile('<.*?>')
     text = re.sub(htmlr, ' ', text)        
     text = re.sub(r'[?|!|\'|"|#]',r'',text)
     text = re.sub(r'[.|,|)|(|\|/]',r' ',text)
-
     text_lst = text.split()
 
     if stopwords_list is not None:
@@ -182,9 +176,8 @@ def text_preprocessing(text,stem,stopwords_list=None):
     
     text = " ".join(text_lst)
     return text
-lst_stopwords = nltk.corpus.stopwords.words("english")
 
-## Calculating the nmi score
+# Calculating the nmi score
 def NMI(predicted,actual,isTREC):
     if(not isTREC):
         actual = [i//10 for i in range(len(predicted))]
@@ -192,6 +185,11 @@ def NMI(predicted,actual,isTREC):
     else:
          print("NMI score : ", normalized_mutual_info_score(actual, predicted))
 
+'''
+Definition: function to vectorise text using TF - IDF
+input: data frame and mf flag to state maximum features to be used
+output: data frame having tmatrix of dense vectors
+'''
 def tfidf_vectorization(df_col,mf = None):
     count_vectors=CountVectorizer(max_features=mf)
     vectors=count_vectors.fit_transform(df_col)
@@ -199,6 +197,10 @@ def tfidf_vectorization(df_col,mf = None):
     final_vectors=transform_vectors.transform(vectors) 
     return pd.DataFrame(final_vectors.toarray())
 
+'''
+Definition: function to cluster based on Kmeans algorithm for PubMed dataset and display cluster performance
+input: data frame that contains cleaned data 
+'''
 def tfidf_kmeans(df):
     tfidf = tfidf_vectorization(df['CleanedText'])
     begin_time = time.time()
@@ -217,6 +219,10 @@ def tfidf_kmeans(df):
     show_labels(model.labels_)
     print('******************************************************************************\n')
 
+'''
+Definition: function to cluster based on Aggolemarative algorithm for PubMed dataset and display cluster performance
+input: data frame that contains cleaned data 
+'''
 def tfidf_aggolomerative_clustering(df,user_input_pmid = 0):
     tfidf = tfidf_vectorization(df['CleanedText'])
     begin_time = time.time()
@@ -224,6 +230,7 @@ def tfidf_aggolomerative_clustering(df,user_input_pmid = 0):
     pred_values = agg.fit_predict(tfidf)
     time_taken = time.time() - begin_time
     labels = agg.labels_
+    pubmed_cl = pd.DataFrame(list(zip(df['Title'], labels)), columns=['title', 'cluster'])
     df['cluster'] = labels
     df.to_csv(os.getcwd()+r'/output/agglo_with_cluster_num.csv', index= False)
     labels = agg.labels_
@@ -236,6 +243,7 @@ def tfidf_aggolomerative_clustering(df,user_input_pmid = 0):
     show_labels(agg.labels_)
     sentence_bert(df,user_input_pmid)
     print('******************************************************************************\n')
+    generate_wordcloud(10,pubmed_cl,df['CleanedText'])
 
 ### calculating trec agglomerative clustering for trec data
 def trec_agglomerative(cleaned_text,actual):
@@ -269,26 +277,32 @@ def trec_kmeans(cleaned_text,actual):
     NMI(labels,actual,True)
     print('******************************************************************************\n')
     
-
+'''
+Definition: function to generate word cloud based on clusters and store under logs folder
+input: size of the cluster, dataframe containing cluster labels and cleaned text
+'''
 def generate_wordcloud(cluster_size, temp_df, cleanText):
     result={'cluster':temp_df['cluster'],'CleanedText': list(cleanText)}
     res=pd.DataFrame(result)
-    for k in range(0,cluster_size):
-       s=res[res.cluster==k]
+    for i in range(0,cluster_size):
+       s=res[res.cluster==i]
        text=s['CleanedText'].str.cat(sep=' ')
-       text=text.lower()
        text=' '.join([word for word in text.split()])
-       wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white").generate(text)
-       titles=temp_df[temp_df.cluster==k]['title']         
-       plt.imshow(wordcloud, interpolation="bilinear")
+       wordcloud = WordCloud(max_font_size=40, max_words=75, background_color="white").generate(text)      
+       plt.imshow(wordcloud)
        plt.axis("off")
-       plt.savefig(os.getcwd()+r"/logs/wordcloud/cluster"+str(k)+".png")
+       plt.savefig(os.getcwd()+r"/logs/wordcloud/cluster"+str(i)+".png")
        
-def show_labels(str1):
+
+'''
+Definition: function to display the labels predicted by clustering algorithm
+input: string variable containing the predicted values
+'''
+def show_labels(string_input):
     j=0
-    print("Output Labels")
+    print("Output Labels : ")
     for i in range(9):
-        print(str1[j:j+10])
+        print(string_input[j:j+10])
         j+=10
 
 if __name__ == '__main__':
@@ -299,7 +313,7 @@ if __name__ == '__main__':
     tfidf_kmeans(df_pubmed)
 
     #retrieving data from TREC dataset
-    data_trec,actual = removenull(input_TREC)
-    cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
-    trec_agglomerative(cleaned_text,actual)
-    trec_kmeans(cleaned_text,actual)
+    # data_trec,actual = removenull(input_TREC)
+    # cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
+    # trec_agglomerative(cleaned_text,actual)
+    # trec_kmeans(cleaned_text,actual)

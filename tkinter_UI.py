@@ -2,19 +2,20 @@
 """
 Created on Wed Oct 26 16:53:45 2022
 
-@author: sanjs
+@author: pavans
 """
 import os
 from tkinter import Tk,Label,Text,Button
 from Bio import Entrez
-from tkinter_output import display_title_scores
 from clustering import create_corpus, tfidf_aggolomerative_clustering, apend_clean_text
 user_ip = []
 
+#Save any input from user when a button is clicked
 def save_input(ip):
     user_ip.append(ip)
 
-def create_UI():
+#function to create the main interface
+def show_interface():
 
     #store the PMID entered by user
     def Take_pmid():
@@ -25,6 +26,7 @@ def create_UI():
     def Take_k():
             entered_k = input_k.get("1.0", "end-1c")
             save_input(entered_k)
+            #destoy the interface after k value is inserted
             root.destroy()
 
     #terminate the window when close is clicked        
@@ -37,28 +39,15 @@ def create_UI():
     
     pmid_label = Label(text = "Enter the PMID here ")
 
-    input_pmid = Text(root, height = 5,
-                    width = 25,
-                    bg = "White")
+    input_pmid = Text(root, height = 5, width = 25, bg = "White")
 
-    pmid = Button(root, height = 1,
-                     width = 20,
-                     text ="Enter PMID",
-                     command =lambda:Take_pmid())
+    pmid = Button(root, height = 1, width = 20, text ="Enter PMID", command =lambda:Take_pmid())
 
-    input_k= Text(root, height = 2,
-                  width = 25,
-                  bg = "White")
+    input_k= Text(root, height = 2, width = 25, bg = "White")
      
-    top_k = Button(root, height = 1,
-                     width = 30,
-                     text ="Enter number of records to fetch (k)",
-                     command = lambda:Take_k())
+    top_k = Button(root, height = 1, width = 30, text ="Enter number of records to fetch (k)", command = lambda:Take_k())
 
-    close = Button(root, height = 1,
-                     width = 20,
-                     text ="Exit",
-                     command = lambda:close_window())
+    quit_button = Button(root, height = 1, width = 20, text ="Exit", command = lambda:close_window())
     
     #placing all elements on the tkinter
     pmid_label.pack( pady=5)
@@ -66,7 +55,7 @@ def create_UI():
     pmid.pack( pady=5)
     input_k.pack( pady=5)
     top_k.pack( pady=5)
-    close.pack( pady=5)
+    quit_button.pack( pady=5)
     root.mainloop()
 
 def fetch_pmid_db(entered_PMID):
@@ -78,7 +67,7 @@ def fetch_pmid_db(entered_PMID):
     try: 
         handle = Entrez.efetch(
                     db="pubmed",
-                    id=entered_PMID, # Enter 30419345 as trial input
+                    id=entered_PMID, # Enter 30419345 as trial input 34736317
                     rettype="full",
                     retmode="xml")
         records = Entrez.read(handle)
@@ -108,11 +97,12 @@ def fetch_pmid_db(entered_PMID):
     print('******************************************************************************\n')
 if __name__ == '__main__':
     entered_PMID = 0
-    user_input_pmid = create_UI()
+    user_input_pmid = show_interface()
+
     #send first input as pmid
     user_input = fetch_pmid_db(user_ip[0])
     input_pubmed = os.getcwd() + r'\data\Pubmed'
     df_pubmed = create_corpus(input_pubmed,user_input)
     df_pubmed = apend_clean_text(df_pubmed)
     tfidf_aggolomerative_clustering(df_pubmed,user_input[0])
-    display_title_scores(int(user_ip[1]))
+    #display_title_scores(int(user_ip[1]))
