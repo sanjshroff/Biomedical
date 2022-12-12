@@ -313,7 +313,7 @@ if __name__ == '__main__':
     tfidf_kmeans(df_pubmed)
 
     #retrieving data from TREC dataset
-    # data_trec,actual = removenull(input_TREC)
-    # cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
-    # trec_agglomerative(cleaned_text,actual)
-    # trec_kmeans(cleaned_text,actual)
+    data_trec,actual = removenull(input_TREC)
+    cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
+    trec_agglomerative(cleaned_text,actual)
+    trec_kmeans(cleaned_text,actual)

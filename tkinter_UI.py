@@ -7,6 +7,7 @@ Created on Wed Oct 26 16:53:45 2022
 import os
 from tkinter import Tk,Label,Text,Button
 from Bio import Entrez
+import pandas as pd
 from clustering import create_corpus, tfidf_aggolomerative_clustering, apend_clean_text
 user_ip = []
 
@@ -22,11 +23,12 @@ def show_interface():
             entered_PMID = input_pmid.get("1.0", "end-1c")
             save_input(entered_PMID)
             
-    #enter the number of k entered
+    #save the number k entered
     def Take_k():
+        
+            #destoy the interface after k value is inserted
             entered_k = input_k.get("1.0", "end-1c")
             save_input(entered_k)
-            #destoy the interface after k value is inserted
             root.destroy()
 
     #terminate the window when close is clicked        
@@ -95,14 +97,30 @@ def fetch_pmid_db(entered_PMID):
     except:   
         print("Unable to fetch record for",entered_PMID)
     print('******************************************************************************\n')
+
+def display_title_scores(input_limit=1):
+    df = pd.read_csv(os.getcwd()+r"\output\sbert_topk.csv")
+    print ("-"*120)
+    print("|",df.columns[3],"|",df.columns[2])
+    print ("-"*120)
+    # taking minimum of user input and the cluster size to display those many relevent articles 
+    input_limit = min(input_limit,df.shape[0])
+    for i,row in df.iterrows():
+        if input_limit > 0:
+            print("|",row['Similarity score'],"|",row['Title'])
+            print ("-"*120)
+        input_limit = input_limit - 1 
+
+
 if __name__ == '__main__':
     entered_PMID = 0
     user_input_pmid = show_interface()
 
     #send first input as pmid
     user_input = fetch_pmid_db(user_ip[0])
+    print(user_input)
     input_pubmed = os.getcwd() + r'\data\Pubmed'
     df_pubmed = create_corpus(input_pubmed,user_input)
     df_pubmed = apend_clean_text(df_pubmed)
     tfidf_aggolomerative_clustering(df_pubmed,user_input[0])
-    #display_title_scores(int(user_ip[1]))
+    display_title_scores(int(user_ip[1]))
