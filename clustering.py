@@ -18,7 +18,7 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 sno = nltk.stem.SnowballStemmer('english') 
 stop=set(stopwords.words('english'))
-lst_stopwords = nltk.corpus.stopwords.words("english")
+list_stopwords = nltk.corpus.stopwords.words("english")
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.cluster import KMeans
@@ -159,23 +159,21 @@ def removenull(data):
     return trec_data_test,true_labels
     
 # Removing null values in the abstract and combing the Title, Abstract and mesh for the Trec dataset
-def text_preprocessing(text,stem,stopwords_list=None):
-    text.lower()
-    htmlr = re.compile('<.*?>')
-    text = re.sub(htmlr, ' ', text)        
-    text = re.sub(r'[?|!|\'|"|#]',r'',text)
-    text = re.sub(r'[.|,|)|(|\|/]',r' ',text)
-    text_lst = text.split()
+def text_pre_processing(textual_data,stemmer,stopwords=None):
+    textual_data.lower()    
+    textual_data = re.sub(r'[?|!|\'|"|#]',r'',textual_data)
+    textual_data = re.sub(r'[.|,|)|(|\|/]',r' ',textual_data)
+    textual_lst = textual_data.split()
 
-    if stopwords_list is not None:
-        text_lst = [word for word in text_lst if word not in stopwords_list ]
+    if stopwords is not None:
+        textual_lst = [word for word in textual_lst if word not in stopwords ]
 
-    if stem == True:
-        snow_stem = nltk.stem.SnowballStemmer('english')
-        text_lst = [snow_stem.stem(word) for word in text_lst]
+    if stemmer == True:
+        snowstem = nltk.stem.SnowballStemmer('english')
+        textual_lst = [snowstem.stem(word) for word in textual_lst]
     
-    text = " ".join(text_lst)
-    return text
+    textual_data = " ".join(textual_lst)
+    return textual_data
 
 # Calculating the nmi score
 def NMI(predicted,actual,isTREC):
@@ -314,6 +312,6 @@ if __name__ == '__main__':
 
     #retrieving data from TREC dataset
     data_trec,actual = removenull(input_TREC)
-    cleaned_text=data_trec.apply(lambda x: text_preprocessing(x, True, lst_stopwords))
+    cleaned_text=data_trec.apply(lambda x: text_pre_processing(x, True, list_stopwords))
     trec_agglomerative(cleaned_text,actual)
     trec_kmeans(cleaned_text,actual)
