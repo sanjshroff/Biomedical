@@ -11,6 +11,10 @@ import os
 import time
 import re
 import nltk
+import ssl
+from sslDisable import ssl_disable
+#support MAC users( specifically MAC PRO)
+ssl_disable()
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import string
@@ -30,8 +34,8 @@ from sentence_transformers import SentenceTransformer,util
 count_vect = CountVectorizer()
 model = SentenceTransformer('all-MiniLM-L6-v2')
 finalDate = []
-input_pubmed = os.getcwd() + r'\data\Pubmed'
-input_TREC= os.getcwd() + r'\data\2005_Trec_genomacis.csv'
+input_pubmed = os.getcwd() + r'/data/Pubmed'
+input_TREC= os.getcwd() + r'/data/2005_Trec_genomacis.csv'
 
 '''
 Definition: Function to find the Cosine similarity between sentences within cluster and the user query
@@ -48,10 +52,13 @@ def sentence_bert(df,user_input_pmid):
 
     if user_input_pmid:
         print("User entered PMID:   ", user_input_pmid)
-        cluster_number = df.loc[df['PMID'] == user_input_pmid, 'cluster'].iloc[0]
-        print(cluster_number)
-        query = df.loc[df['PMID'] == user_input_pmid, 'CleanedText'].iloc[0]
-        query_set = True
+        try:
+            cluster_number = df.loc[df['PMID'] == user_input_pmid, 'cluster'].iloc[0]
+            print(cluster_number)
+            query = df.loc[df['PMID'] == user_input_pmid, 'CleanedText'].iloc[0]
+            query_set = True
+        except:
+            print("Invalid PMID entered Retrieving documents from first available cluster are listed below")
     df_sbert = df[df['cluster'] == cluster_number]
     df_sbert=df_sbert[['CleanedText',"Title"]]
     #if user input is not given take first document in cluster 1 as the query
@@ -100,7 +107,7 @@ def create_corpus(input_folder, inputList=[]):
     list_df =[]
     for input_file in os.listdir(input_folder) :
         #cluster_name = input_file.split("\\")[0].split("-")[1]
-        x = fetchInputData(input_folder+"\\"+input_file)
+        x = fetchInputData(input_folder+"/"+input_file)
         list_df.append(x)
     final_input_df = pd.concat(list_df)
     if len(inputList) == 4:
